@@ -1,0 +1,105 @@
+match_id,match_name,round,home_team_id,home_team,home_score,home_fifa_rank,away_team_id,away_team,away_score,away_fifa_rank,match_time_utc,started,finished,cancelled,awarded,score_str,result_reason,result
+4653703,"Germany-vs-Paraguay_Mon, Jun 29, 2026, 20:30 UTC",1/16,8570,Germany,1,10,6724,Paraguay,1,41,2026-06-29 20:30:00+00:00,True,True,False,False,1 - 1,Pen 3 - 4,Draw
+4653704,"France-vs-Sweden_Tue, Jun 30, 2026, 21:00 UTC",1/16,6723,France,3,3,8520,Sweden,0,38,2026-06-30 21:00:00+00:00,True,True,False,False,3 - 0,Full-Time,Home Win
+4653705,"South Africa-vs-Canada_Sun, Jun 28, 2026, 19:00 UTC",1/16,6316,South Africa,0,60,5810,Canada,1,30,2026-06-28 19:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4653706,"Netherlands-vs-Morocco_Tue, Jun 30, 2026, 01:00 UTC",1/16,6708,Netherlands,1,8,6262,Morocco,1,7,2026-06-30 01:00:00+00:00,True,True,False,False,1 - 1,Pen 2 - 3,Draw
+4653707,"Portugal-vs-Croatia_Thu, Jul 2, 2026, 23:00 UTC",1/16,8361,Portugal,2,5,10155,Croatia,1,11,2026-07-02 23:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4653708,"Spain-vs-Austria_Thu, Jul 2, 2026, 19:00 UTC",1/16,6720,Spain,3,2,8255,Austria,0,24,2026-07-02 19:00:00+00:00,True,True,False,False,3 - 0,Full-Time,Home Win
+4653709,"USA-vs-Bosnia and Herzegovina_Thu, Jul 2, 2026, 00:00 UTC",1/16,6713,USA,2,17,10106,Bosnia and Herzegovina,0,64,2026-07-02 00:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4653710,"Belgium-vs-Senegal_Wed, Jul 1, 2026, 20:00 UTC",1/16,8263,Belgium,3,9,6395,Senegal,2,15,2026-07-01 20:00:00+00:00,True,True,False,False,3 - 2,After extra time,Home Win
+4653711,"Brazil-vs-Japan_Mon, Jun 29, 2026, 17:00 UTC",1/16,8256,Brazil,2,6,6715,Japan,1,18,2026-06-29 17:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4653712,"Ivory Coast-vs-Norway_Tue, Jun 30, 2026, 17:00 UTC",1/16,6709,Ivory Coast,1,33,8492,Norway,2,31,2026-06-30 17:00:00+00:00,True,True,False,False,1 - 2,Full-Time,Away Win
+4653713,"Mexico-vs-Ecuador_Wed, Jul 1, 2026, 02:00 UTC",1/16,6710,Mexico,2,14,6707,Ecuador,0,23,2026-07-01 02:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4653714,"England-vs-DR Congo_Wed, Jul 1, 2026, 16:00 UTC",1/16,8491,England,2,4,6321,DR Congo,1,46,2026-07-01 16:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4653715,"Argentina-vs-Cape Verde_Fri, Jul 3, 2026, 22:00 UTC",1/16,6706,Argentina,3,1,5888,Cape Verde,2,67,2026-07-03 22:00:00+00:00,True,True,False,False,3 - 2,After extra time,Home Win
+4653716,"Australia-vs-Egypt_Fri, Jul 3, 2026, 18:00 UTC",1/16,6716,Australia,1,27,10255,Egypt,1,29,2026-07-03 18:00:00+00:00,True,True,False,False,1 - 1,Pen 2 - 4,Draw
+4653717,"Switzerland-vs-Algeria_Fri, Jul 3, 2026, 03:00 UTC",1/16,6717,Switzerland,2,19,6317,Algeria,0,28,2026-07-03 03:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4653718,"Colombia-vs-Ghana_Sat, Jul 4, 2026, 01:30 UTC",1/16,8258,Colombia,1,13,6714,Ghana,0,73,2026-07-04 01:30:00+00:00,True,True,False,False,1 - 0,Full-Time,Home Win
+4653842,"Paraguay-vs-France_Sat, Jul 4, 2026, 21:00 UTC",1/8,6724,Paraguay,0,41,6723,France,1,3,2026-07-04 21:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4653843,"Canada-vs-Morocco_Sat, Jul 4, 2026, 17:00 UTC",1/8,5810,Canada,0,30,6262,Morocco,3,7,2026-07-04 17:00:00+00:00,True,True,False,False,0 - 3,Full-Time,Away Win
+4653844,"Portugal-vs-Spain_Mon, Jul 6, 2026, 19:00 UTC",1/8,8361,Portugal,0,5,6720,Spain,1,2,2026-07-06 19:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4653845,"USA-vs-Belgium_Tue, Jul 7, 2026, 00:00 UTC",1/8,6713,USA,1,17,8263,Belgium,4,9,2026-07-07 00:00:00+00:00,True,True,False,False,1 - 4,Full-Time,Away Win
+4653846,"Brazil-vs-Norway_Sun, Jul 5, 2026, 20:00 UTC",1/8,8256,Brazil,1,6,8492,Norway,2,31,2026-07-05 20:00:00+00:00,True,True,False,False,1 - 2,Full-Time,Away Win
+4653847,"Mexico-vs-England_Mon, Jul 6, 2026, 01:00 UTC",1/8,6710,Mexico,2,14,8491,England,3,4,2026-07-06 01:00:00+00:00,True,True,False,False,2 - 3,Full-Time,Away Win
+4653848,"Argentina-vs-Egypt_Tue, Jul 7, 2026, 16:00 UTC",1/8,6706,Argentina,3,1,10255,Egypt,2,29,2026-07-07 16:00:00+00:00,True,True,False,False,3 - 2,Full-Time,Home Win
+4653849,"Switzerland-vs-Colombia_Tue, Jul 7, 2026, 20:00 UTC",1/8,6717,Switzerland,0,19,8258,Colombia,0,13,2026-07-07 20:00:00+00:00,True,True,False,False,0 - 0,Pen 4 - 3,Draw
+4653851,"France-vs-Morocco_Thu, Jul 9, 2026, 20:00 UTC",1/4,6723,France,2,3,6262,Morocco,0,7,2026-07-09 20:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4653852,"Norway-vs-England_Sat, Jul 11, 2026, 21:00 UTC",1/4,8492,Norway,1,31,8491,England,2,4,2026-07-11 21:00:00+00:00,True,True,False,False,1 - 2,After extra time,Away Win
+4653853,"Spain-vs-Belgium_Fri, Jul 10, 2026, 19:00 UTC",1/4,6720,Spain,2,2,8263,Belgium,1,9,2026-07-10 19:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4653854,"Argentina-vs-Switzerland_Sun, Jul 12, 2026, 01:00 UTC",1/4,6706,Argentina,3,1,6717,Switzerland,1,19,2026-07-12 01:00:00+00:00,True,True,False,False,3 - 1,After extra time,Home Win
+4653855,"France-vs-Spain_Tue, Jul 14, 2026, 19:00 UTC",1/2,6723,France,0,3,6720,Spain,2,2,2026-07-14 19:00:00+00:00,True,True,False,False,0 - 2,Full-Time,Away Win
+4653856,"England-vs-Argentina_Wed, Jul 15, 2026, 19:00 UTC",1/2,8491,England,1,4,6706,Argentina,2,1,2026-07-15 19:00:00+00:00,True,True,False,False,1 - 2,Full-Time,Away Win
+4653857,"France-vs-England_Sat, Jul 18, 2026, 21:00 UTC",bronze,6723,France,4,3,8491,England,6,4,2026-07-18 21:00:00+00:00,True,True,False,False,4 - 6,Full-Time,Away Win
+4653858,"Spain-vs-Argentina_Sun, Jul 19, 2026, 19:00 UTC",final,6720,Spain,1,2,6706,Argentina,0,1,2026-07-19 19:00:00+00:00,True,True,False,False,1 - 0,After extra time,Home Win
+4667751,"Mexico-vs-South Africa_Thu, Jun 11, 2026, 19:00 UTC",1,6710,Mexico,2,14,6316,South Africa,0,60,2026-06-11 19:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4667752,"South Korea-vs-Czechia_Fri, Jun 12, 2026, 02:00 UTC",1,7804,South Korea,2,25,8496,Czechia,1,40,2026-06-12 02:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4667753,"Czechia-vs-South Africa_Thu, Jun 18, 2026, 16:00 UTC",2,8496,Czechia,1,40,6316,South Africa,1,60,2026-06-18 16:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667754,"Mexico-vs-South Korea_Fri, Jun 19, 2026, 01:00 UTC",2,6710,Mexico,1,14,7804,South Korea,0,25,2026-06-19 01:00:00+00:00,True,True,False,False,1 - 0,Full-Time,Home Win
+4667755,"Czechia-vs-Mexico_Thu, Jun 25, 2026, 01:00 UTC",3,8496,Czechia,0,40,6710,Mexico,3,14,2026-06-25 01:00:00+00:00,True,True,False,False,0 - 3,Full-Time,Away Win
+4667756,"South Africa-vs-South Korea_Thu, Jun 25, 2026, 01:00 UTC",3,6316,South Africa,1,60,7804,South Korea,0,25,2026-06-25 01:00:00+00:00,True,True,False,False,1 - 0,Full-Time,Home Win
+4667757,"Canada-vs-Bosnia and Herzegovina_Fri, Jun 12, 2026, 19:00 UTC",1,5810,Canada,1,30,10106,Bosnia and Herzegovina,1,64,2026-06-12 19:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667758,"Qatar-vs-Switzerland_Sat, Jun 13, 2026, 19:00 UTC",1,5902,Qatar,1,56,6717,Switzerland,1,19,2026-06-13 19:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667759,"Switzerland-vs-Bosnia and Herzegovina_Thu, Jun 18, 2026, 19:00 UTC",2,6717,Switzerland,4,19,10106,Bosnia and Herzegovina,1,64,2026-06-18 19:00:00+00:00,True,True,False,False,4 - 1,Full-Time,Home Win
+4667760,"Canada-vs-Qatar_Thu, Jun 18, 2026, 22:00 UTC",2,5810,Canada,6,30,5902,Qatar,0,56,2026-06-18 22:00:00+00:00,True,True,False,False,6 - 0,Full-Time,Home Win
+4667761,"Switzerland-vs-Canada_Wed, Jun 24, 2026, 19:00 UTC",3,6717,Switzerland,2,19,5810,Canada,1,30,2026-06-24 19:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4667762,"Bosnia and Herzegovina-vs-Qatar_Wed, Jun 24, 2026, 19:00 UTC",3,10106,Bosnia and Herzegovina,3,64,5902,Qatar,1,56,2026-06-24 19:00:00+00:00,True,True,False,False,3 - 1,Full-Time,Home Win
+4667764,"Brazil-vs-Morocco_Sat, Jun 13, 2026, 22:00 UTC",1,8256,Brazil,1,6,6262,Morocco,1,7,2026-06-13 22:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667765,"Haiti-vs-Scotland_Sun, Jun 14, 2026, 01:00 UTC",1,5934,Haiti,0,83,8498,Scotland,1,42,2026-06-14 01:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4667766,"Scotland-vs-Morocco_Fri, Jun 19, 2026, 22:00 UTC",2,8498,Scotland,0,42,6262,Morocco,1,7,2026-06-19 22:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4667767,"Brazil-vs-Haiti_Sat, Jun 20, 2026, 00:30 UTC",2,8256,Brazil,3,6,5934,Haiti,0,83,2026-06-20 00:30:00+00:00,True,True,False,False,3 - 0,Full-Time,Home Win
+4667768,"Scotland-vs-Brazil_Wed, Jun 24, 2026, 22:00 UTC",3,8498,Scotland,0,42,8256,Brazil,3,6,2026-06-24 22:00:00+00:00,True,True,False,False,0 - 3,Full-Time,Away Win
+4667769,"Morocco-vs-Haiti_Wed, Jun 24, 2026, 22:00 UTC",3,6262,Morocco,4,7,5934,Haiti,2,83,2026-06-24 22:00:00+00:00,True,True,False,False,4 - 2,Full-Time,Home Win
+4667771,"USA-vs-Paraguay_Sat, Jun 13, 2026, 01:00 UTC",1,6713,USA,4,17,6724,Paraguay,1,41,2026-06-13 01:00:00+00:00,True,True,False,False,4 - 1,Full-Time,Home Win
+4667772,"Australia-vs-Turkiye_Sun, Jun 14, 2026, 04:00 UTC",1,6716,Australia,2,27,6595,Turkiye,0,22,2026-06-14 04:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4667773,"Turkiye-vs-Paraguay_Sat, Jun 20, 2026, 03:00 UTC",2,6595,Turkiye,0,22,6724,Paraguay,1,41,2026-06-20 03:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4667774,"USA-vs-Australia_Fri, Jun 19, 2026, 19:00 UTC",2,6713,USA,2,17,6716,Australia,0,27,2026-06-19 19:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4667775,"Turkiye-vs-USA_Fri, Jun 26, 2026, 02:00 UTC",3,6595,Turkiye,3,22,6713,USA,2,17,2026-06-26 02:00:00+00:00,True,True,False,False,3 - 2,Full-Time,Home Win
+4667776,"Paraguay-vs-Australia_Fri, Jun 26, 2026, 02:00 UTC",3,6724,Paraguay,0,41,6716,Australia,0,27,2026-06-26 02:00:00+00:00,True,True,False,False,0 - 0,Full-Time,Draw
+4667777,"Germany-vs-Curacao_Sun, Jun 14, 2026, 17:00 UTC",1,8570,Germany,7,10,287981,Curacao,1,82,2026-06-14 17:00:00+00:00,True,True,False,False,7 - 1,Full-Time,Home Win
+4667778,"Ivory Coast-vs-Ecuador_Sun, Jun 14, 2026, 23:00 UTC",1,6709,Ivory Coast,1,33,6707,Ecuador,0,23,2026-06-14 23:00:00+00:00,True,True,False,False,1 - 0,Full-Time,Home Win
+4667779,"Ecuador-vs-Curacao_Sun, Jun 21, 2026, 00:00 UTC",2,6707,Ecuador,0,23,287981,Curacao,0,82,2026-06-21 00:00:00+00:00,True,True,False,False,0 - 0,Full-Time,Draw
+4667780,"Germany-vs-Ivory Coast_Sat, Jun 20, 2026, 20:00 UTC",2,8570,Germany,2,10,6709,Ivory Coast,1,33,2026-06-20 20:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4667781,"Ecuador-vs-Germany_Thu, Jun 25, 2026, 20:00 UTC",3,6707,Ecuador,2,23,8570,Germany,1,10,2026-06-25 20:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win
+4667782,"Curacao-vs-Ivory Coast_Thu, Jun 25, 2026, 20:00 UTC",3,287981,Curacao,0,82,6709,Ivory Coast,2,33,2026-06-25 20:00:00+00:00,True,True,False,False,0 - 2,Full-Time,Away Win
+4667783,"Netherlands-vs-Japan_Sun, Jun 14, 2026, 20:00 UTC",1,6708,Netherlands,2,8,6715,Japan,2,18,2026-06-14 20:00:00+00:00,True,True,False,False,2 - 2,Full-Time,Draw
+4667784,"Sweden-vs-Tunisia_Mon, Jun 15, 2026, 02:00 UTC",1,8520,Sweden,5,38,6719,Tunisia,1,45,2026-06-15 02:00:00+00:00,True,True,False,False,5 - 1,Full-Time,Home Win
+4667785,"Tunisia-vs-Japan_Sun, Jun 21, 2026, 04:00 UTC",2,6719,Tunisia,0,45,6715,Japan,4,18,2026-06-21 04:00:00+00:00,True,True,False,False,0 - 4,Full-Time,Away Win
+4667786,"Netherlands-vs-Sweden_Sat, Jun 20, 2026, 17:00 UTC",2,6708,Netherlands,5,8,8520,Sweden,1,38,2026-06-20 17:00:00+00:00,True,True,False,False,5 - 1,Full-Time,Home Win
+4667787,"Tunisia-vs-Netherlands_Thu, Jun 25, 2026, 23:00 UTC",3,6719,Tunisia,1,45,6708,Netherlands,3,8,2026-06-25 23:00:00+00:00,True,True,False,False,1 - 3,Full-Time,Away Win
+4667788,"Japan-vs-Sweden_Thu, Jun 25, 2026, 23:00 UTC",3,6715,Japan,1,18,8520,Sweden,1,38,2026-06-25 23:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667790,"Belgium-vs-Egypt_Mon, Jun 15, 2026, 19:00 UTC",1,8263,Belgium,1,9,10255,Egypt,1,29,2026-06-15 19:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667791,"Iran-vs-New Zealand_Tue, Jun 16, 2026, 01:00 UTC",1,6711,Iran,2,20,5820,New Zealand,2,85,2026-06-16 01:00:00+00:00,True,True,False,False,2 - 2,Full-Time,Draw
+4667792,"New Zealand-vs-Egypt_Mon, Jun 22, 2026, 01:00 UTC",2,5820,New Zealand,1,85,10255,Egypt,3,29,2026-06-22 01:00:00+00:00,True,True,False,False,1 - 3,Full-Time,Away Win
+4667793,"Belgium-vs-Iran_Sun, Jun 21, 2026, 19:00 UTC",2,8263,Belgium,0,9,6711,Iran,0,20,2026-06-21 19:00:00+00:00,True,True,False,False,0 - 0,Full-Time,Draw
+4667794,"New Zealand-vs-Belgium_Sat, Jun 27, 2026, 03:00 UTC",3,5820,New Zealand,1,85,8263,Belgium,5,9,2026-06-27 03:00:00+00:00,True,True,False,False,1 - 5,Full-Time,Away Win
+4667795,"Egypt-vs-Iran_Sat, Jun 27, 2026, 03:00 UTC",3,10255,Egypt,1,29,6711,Iran,1,20,2026-06-27 03:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667798,"Spain-vs-Cape Verde_Mon, Jun 15, 2026, 16:00 UTC",1,6720,Spain,0,2,5888,Cape Verde,0,67,2026-06-15 16:00:00+00:00,True,True,False,False,0 - 0,Full-Time,Draw
+4667799,"Saudi Arabia-vs-Uruguay_Mon, Jun 15, 2026, 22:00 UTC",1,7795,Saudi Arabia,1,61,5796,Uruguay,1,16,2026-06-15 22:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667800,"Uruguay-vs-Cape Verde_Sun, Jun 21, 2026, 22:00 UTC",2,5796,Uruguay,2,16,5888,Cape Verde,2,67,2026-06-21 22:00:00+00:00,True,True,False,False,2 - 2,Full-Time,Draw
+4667801,"Spain-vs-Saudi Arabia_Sun, Jun 21, 2026, 16:00 UTC",2,6720,Spain,4,2,7795,Saudi Arabia,0,61,2026-06-21 16:00:00+00:00,True,True,False,False,4 - 0,Full-Time,Home Win
+4667802,"Uruguay-vs-Spain_Sat, Jun 27, 2026, 00:00 UTC",3,5796,Uruguay,0,16,6720,Spain,1,2,2026-06-27 00:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4667803,"Cape Verde-vs-Saudi Arabia_Sat, Jun 27, 2026, 00:00 UTC",3,5888,Cape Verde,0,67,7795,Saudi Arabia,0,61,2026-06-27 00:00:00+00:00,True,True,False,False,0 - 0,Full-Time,Draw
+4667804,"France-vs-Senegal_Tue, Jun 16, 2026, 19:00 UTC",1,6723,France,3,3,6395,Senegal,1,15,2026-06-16 19:00:00+00:00,True,True,False,False,3 - 1,Full-Time,Home Win
+4667805,"Iraq-vs-Norway_Tue, Jun 16, 2026, 22:00 UTC",1,5819,Iraq,1,57,8492,Norway,4,31,2026-06-16 22:00:00+00:00,True,True,False,False,1 - 4,Full-Time,Away Win
+4667806,"Norway-vs-Senegal_Tue, Jun 23, 2026, 00:00 UTC",2,8492,Norway,3,31,6395,Senegal,2,15,2026-06-23 00:00:00+00:00,True,True,False,False,3 - 2,Full-Time,Home Win
+4667807,"France-vs-Iraq_Mon, Jun 22, 2026, 21:00 UTC",2,6723,France,3,3,5819,Iraq,0,57,2026-06-22 21:00:00+00:00,True,True,False,False,3 - 0,Full-Time,Home Win
+4667808,"Norway-vs-France_Fri, Jun 26, 2026, 19:00 UTC",3,8492,Norway,1,31,6723,France,4,3,2026-06-26 19:00:00+00:00,True,True,False,False,1 - 4,Full-Time,Away Win
+4667809,"Senegal-vs-Iraq_Fri, Jun 26, 2026, 19:00 UTC",3,6395,Senegal,5,15,5819,Iraq,0,57,2026-06-26 19:00:00+00:00,True,True,False,False,5 - 0,Full-Time,Home Win
+4667812,"Argentina-vs-Algeria_Wed, Jun 17, 2026, 01:00 UTC",1,6706,Argentina,3,1,6317,Algeria,0,28,2026-06-17 01:00:00+00:00,True,True,False,False,3 - 0,Full-Time,Home Win
+4667813,"Austria-vs-Jordan_Wed, Jun 17, 2026, 04:00 UTC",1,8255,Austria,3,24,5816,Jordan,1,63,2026-06-17 04:00:00+00:00,True,True,False,False,3 - 1,Full-Time,Home Win
+4667814,"Jordan-vs-Algeria_Tue, Jun 23, 2026, 03:00 UTC",2,5816,Jordan,1,63,6317,Algeria,2,28,2026-06-23 03:00:00+00:00,True,True,False,False,1 - 2,Full-Time,Away Win
+4667815,"Argentina-vs-Austria_Mon, Jun 22, 2026, 17:00 UTC",2,6706,Argentina,2,1,8255,Austria,0,24,2026-06-22 17:00:00+00:00,True,True,False,False,2 - 0,Full-Time,Home Win
+4667816,"Jordan-vs-Argentina_Sun, Jun 28, 2026, 02:00 UTC",3,5816,Jordan,1,63,6706,Argentina,3,1,2026-06-28 02:00:00+00:00,True,True,False,False,1 - 3,Full-Time,Away Win
+4667817,"Algeria-vs-Austria_Sun, Jun 28, 2026, 02:00 UTC",3,6317,Algeria,3,28,8255,Austria,3,24,2026-06-28 02:00:00+00:00,True,True,False,False,3 - 3,Full-Time,Draw
+4667819,"Portugal-vs-DR Congo_Wed, Jun 17, 2026, 17:00 UTC",1,8361,Portugal,1,5,6321,DR Congo,1,46,2026-06-17 17:00:00+00:00,True,True,False,False,1 - 1,Full-Time,Draw
+4667820,"Uzbekistan-vs-Colombia_Thu, Jun 18, 2026, 02:00 UTC",1,8700,Uzbekistan,1,50,8258,Colombia,3,13,2026-06-18 02:00:00+00:00,True,True,False,False,1 - 3,Full-Time,Away Win
+4667821,"Colombia-vs-DR Congo_Wed, Jun 24, 2026, 02:00 UTC",2,8258,Colombia,1,13,6321,DR Congo,0,46,2026-06-24 02:00:00+00:00,True,True,False,False,1 - 0,Full-Time,Home Win
+4667822,"Portugal-vs-Uzbekistan_Tue, Jun 23, 2026, 17:00 UTC",2,8361,Portugal,5,5,8700,Uzbekistan,0,50,2026-06-23 17:00:00+00:00,True,True,False,False,5 - 0,Full-Time,Home Win
+4667823,"Colombia-vs-Portugal_Sat, Jun 27, 2026, 23:30 UTC",3,8258,Colombia,0,13,8361,Portugal,0,5,2026-06-27 23:30:00+00:00,True,True,False,False,0 - 0,Full-Time,Draw
+4667824,"DR Congo-vs-Uzbekistan_Sat, Jun 27, 2026, 23:30 UTC",3,6321,DR Congo,3,46,8700,Uzbekistan,1,50,2026-06-27 23:30:00+00:00,True,True,False,False,3 - 1,Full-Time,Home Win
+4667825,"England-vs-Croatia_Wed, Jun 17, 2026, 20:00 UTC",1,8491,England,4,4,10155,Croatia,2,11,2026-06-17 20:00:00+00:00,True,True,False,False,4 - 2,Full-Time,Home Win
+4667826,"Ghana-vs-Panama_Wed, Jun 17, 2026, 23:00 UTC",1,6714,Ghana,1,73,5922,Panama,0,34,2026-06-17 23:00:00+00:00,True,True,False,False,1 - 0,Full-Time,Home Win
+4667827,"Panama-vs-Croatia_Tue, Jun 23, 2026, 23:00 UTC",2,5922,Panama,0,34,10155,Croatia,1,11,2026-06-23 23:00:00+00:00,True,True,False,False,0 - 1,Full-Time,Away Win
+4667828,"England-vs-Ghana_Tue, Jun 23, 2026, 20:00 UTC",2,8491,England,0,4,6714,Ghana,0,73,2026-06-23 20:00:00+00:00,True,True,False,False,0 - 0,Full-Time,Draw
+4667829,"Panama-vs-England_Sat, Jun 27, 2026, 21:00 UTC",3,5922,Panama,0,34,8491,England,2,4,2026-06-27 21:00:00+00:00,True,True,False,False,0 - 2,Full-Time,Away Win
+4667830,"Croatia-vs-Ghana_Sat, Jun 27, 2026, 21:00 UTC",3,10155,Croatia,2,11,6714,Ghana,1,73,2026-06-27 21:00:00+00:00,True,True,False,False,2 - 1,Full-Time,Home Win

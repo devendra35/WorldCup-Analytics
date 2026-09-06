@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Python cache
+.pytest_cache/
+
+# Keep raw dataset archive out of Git
+data/raw/archive.zip
