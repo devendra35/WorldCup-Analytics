@@ -1,4 +1,4 @@
-\# ⚽ WorldCup Analytics
+# ⚽ WorldCup Analytics
 
 
 
@@ -6,11 +6,11 @@ A data-driven \*\*FIFA World Cup player analytics and performance segmentation s
 
 
 
-\---
 
 
 
-\## 📌 Project Overview
+
+## 📌 Project Overview
 
 
 
@@ -26,31 +26,30 @@ The project ultimately provides:
 
 
 
-\* Player performance analysis
+* Player performance analysis
 
-\* Goal and assist analysis
+* Goal and assist analysis
 
-\* Performance scoring
+* Performance scoring
 
-\* Player segmentation using clustering
+* Player segmentation using clustering
 
-\* Cluster-based player profiling
+* Cluster-based player profiling
 
-\* Player impact ranking
+* Player impact ranking
+* Top-player identification
 
-\* Top-player identification
+* PCA-based dimensionality visualization
 
-\* PCA-based dimensionality visualization
-
-\* Analytical charts and reports
-
-
-
-\---
+* Analytical charts and reports
 
 
 
-\## 🎯 Objectives
+
+
+
+
+## 🎯 Objectives
 
 
 
@@ -58,33 +57,33 @@ The main objectives of this project are:
 
 
 
-1\. Process and clean raw football player data.
+1. Process and clean raw football player data.
 
-2\. Extract useful information from nested JSON structures.
+2. Extract useful information from nested JSON structures.
 
-3\. Handle missing and inconsistent data.
+3. Handle missing and inconsistent data.
 
-4\. Engineer meaningful player-performance features.
+4. Engineer meaningful player-performance features.
 
-5\. Develop a composite performance score.
+5. Develop a composite performance score.
 
-6\. Segment players using machine learning.
+6. Segment players using machine learning.
 
-7\. Visualize player clusters using PCA.
+7. Visualize player clusters using PCA.
 
-8\. Rank players based on their overall impact.
+8. Rank players based on their overall impact.
 
-9\. Identify the best-performing player from each cluster.
+9. Identify the best-performing player from each cluster.
 
-10\. Generate reusable analytical datasets and visualizations.
-
-
-
-\---
+10. Generate reusable analytical datasets and visualizations.
 
 
 
-\## 🧠 Machine Learning Approach
+
+
+
+
+## 🧠 Machine Learning Approach
 
 
 
@@ -140,11 +139,11 @@ Visualizations \& Reports
 
 
 
-\---
 
 
 
-\## 📊 Dataset
+
+## 📊 Dataset
 
 
 
@@ -156,39 +155,38 @@ The raw dataset contains information such as:
 
 
 
-\* Player identity
+* Player identity
 
-\* Team information
+* Team information
 
-\* Position
+* Position
 
-\* Nationality
+* Nationality
 
-\* Age / birth date
+* Age / birth date
 
-\* Height and weight
+* Height and weight
 
-\* Captain status
+* Captain status
 
-\* Injury information
+* Injury information
 
-\* Contract information
+* Contract information
 
-\* Market value
+* Market value
 
-\* Transfer value
+* Transfer value
 
-\* Match statistics
+* Match statistics
 
-\* Goals
+* Goals
+* Assists
 
-\* Assists
-
-\* Player ratings
-
+* Player ratings
 
 
-\### Dataset Processing
+
+### Dataset Processing
 
 
 
@@ -200,11 +198,11 @@ For example, recent match statistics were processed to calculate:
 
 
 
-\* Goals
+* Goals
 
-\* Assists
+* Assists
 
-\* Match ratings
+* Match ratings
 
 
 
@@ -212,11 +210,11 @@ The final processed dataset contains \*\*1,243 unique players\*\* with \*\*no du
 
 
 
-\---
 
 
 
-\## 🧹 Data Cleaning \& Preprocessing
+
+## 🧹 Data Cleaning \& Preprocessing
 
 
 
@@ -224,29 +222,29 @@ The preprocessing stage includes:
 
 
 
-\* JSON file loading
+* JSON file loading
 
-\* Nested JSON extraction
+* Nested JSON extraction
 
-\* Column normalization
+* Column normalization
 
-\* Data type conversion
+* Data type conversion
 
-\* Missing-value analysis
+* Missing-value analysis
 
-\* Duplicate-player detection
+* Duplicate-player detection
 
-\* Boolean normalization
+* Boolean normalization
 
-\* Numeric conversion
+* Numeric conversion
 
-\* Date handling
+* Date handling
 
-\* Feature validation
+* Feature validation
 
 
 
-\### Data Quality
+### Data Quality
 
 
 
@@ -266,11 +264,10 @@ This ensures that each player is represented by a unique analytical record.
 
 
 
-\---
 
 
 
-\## ⚙️ Feature Engineering
+## ⚙️ Feature Engineering
 
 
 
@@ -294,7 +291,7 @@ This represents a player's overall direct contribution to goals.
 
 
 
-\### Goal/Assist Ratio
+### Goal/Assist Ratio
 
 
 
@@ -302,7 +299,7 @@ A goal-assist relationship was also calculated to distinguish players who contri
 
 
 
-\### Performance Score
+### Performance Score
 
 
 
@@ -334,11 +331,11 @@ This provides a more comprehensive measure than using goals or rating independen
 
 
 
-\---
 
 
 
-\## 🤖 Player Clustering
+
+## 🤖 Player Clustering
 
 
 
@@ -350,7 +347,7 @@ Four clusters were identified.
 
 
 
-\### Player Segments
+### Player Segments
 
 
 
@@ -368,7 +365,7 @@ Four clusters were identified.
 
 
 
-\### Cluster Distribution
+### Cluster Distribution
 
 
 
@@ -388,11 +385,11 @@ Four clusters were identified.
 
 
 
-\---
 
 
 
-\## 📈 Cluster Performance
+
+## 📈 Cluster Performance
 
 
 
@@ -418,15 +415,15 @@ These clusters provide a useful way to understand different types of player cont
 
 
 
-\---
 
 
 
-\## 🔬 PCA Analysis
+
+## 🔬 PCA Analysis
 
 
 
-\*\*Principal Component Analysis (PCA)\*\* was used to reduce the dimensionality of the player-performance feature space.
+*\*Principal Component Analysis (PCA)\*\* was used to reduce the dimensionality of the player-performance feature space.
 
 
 
@@ -456,11 +453,11 @@ PCA is primarily used here for \*\*visual interpretation of the clusters\*\* rat
 
 
 
-\---
 
 
 
-\## 🏆 Player Ranking
+
+## 🏆 Player Ranking
 
 
 
@@ -492,7 +489,7 @@ The project also identifies the \*\*best-performing player within each player cl
 
 
 
-\## 📊 Visualizations
+## 📊 Visualizations
 
 
 
@@ -500,7 +497,7 @@ The project generates three primary visualizations.
 
 
 
-\### 1. Player Distribution by Cluster
+### 1. Player Distribution by Cluster
 
 
 
@@ -516,7 +513,7 @@ reports/figures/cluster\_distribution.png
 
 
 
-\### 2. Average Performance by Cluster
+### 2. Average Performance by Cluster
 
 
 
@@ -532,7 +529,7 @@ reports/figures/cluster\_performance.png
 
 
 
-\### 3. Top 20 Player Performance Ranking
+### 3. Top 20 Player Performance Ranking
 
 
 
@@ -552,7 +549,7 @@ reports/figures/top\_20\_players.png
 
 
 
-\## 📁 Project Structure
+## 📁 Project Structure
 
 
 
@@ -618,83 +615,82 @@ WorldCup Analytics/
 
 
 
-\## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 
 
-\### Programming Language
+### Programming Language
 
 
 
-\* Python
+* Python
 
 
 
-\### Data Analysis
+### Data Analysis
 
 
 
-\* Pandas
+* Pandas
 
-\* NumPy
-
-
-
-\### Machine Learning
+* NumPy
 
 
 
-\* Scikit-learn
+### Machine Learning
 
 
 
-\### Visualization
+* Scikit-learn
 
 
 
-\* Matplotlib
+### Visualization
 
 
 
-\### Development Environment
+* Matplotlib
 
 
 
-\* Jupyter Notebook
-
-\* Python Virtual Environment
-
-\* Git \& GitHub
+### Development Environment
 
 
 
-\### Core ML Techniques
+* Jupyter Notebook
+
+* Python Virtual Environment
+
+* Git \& GitHub
 
 
 
-\* Feature Engineering
-
-\* Feature Scaling
-
-\* K-Means Clustering
-
-\* Principal Component Analysis (PCA)
-
-\* Composite Performance Scoring
-
-\* Player Ranking
+### Core ML Techniques
 
 
 
-\---
+* Feature Engineering
+
+* Feature Scaling
+
+* K-Means Clustering
+
+* Principal Component Analysis (PCA)
+
+* Composite Performance Scoring
+
+* Player Ranking
 
 
 
-\## 📦 Installation
 
 
 
-\### 1. Clone the repository
+## 📦 Installation
+
+
+
+### 1. Clone the repository
 
 
 
@@ -712,7 +708,7 @@ Replace `yourusername` with your GitHub username.
 
 
 
-\### 2. Create a virtual environment
+### 2. Create a virtual environment
 
 
 
@@ -728,7 +724,7 @@ python -m venv .venv
 
 
 
-\### 3. Activate the environment
+### 3. Activate the environment
 
 
 
@@ -756,7 +752,7 @@ Windows CMD:
 
 
 
-\### 4. Install dependencies
+### 4. Install dependencies
 
 
 
@@ -768,11 +764,11 @@ pip install -r requirements.txt
 
 
 
-\---
 
 
 
-\## ▶️ Running the Project
+
+## ▶️ Running the Project
 
 
 
@@ -836,11 +832,11 @@ Export Processed Data
 
 
 
-\---
 
 
 
-\## 📤 Generated Outputs
+
+## 📤 Generated Outputs
 
 
 
@@ -848,7 +844,7 @@ After running the analysis, the following datasets are generated:
 
 
 
-\### Player Clusters
+### Player Clusters
 
 
 
@@ -864,7 +860,7 @@ Contains player information, engineered features, cluster assignments, and clust
 
 
 
-\### Final Player Ranking
+### Final Player Ranking
 
 
 
@@ -880,7 +876,7 @@ Contains the complete player ranking and impact scores.
 
 
 
-\### Best Player by Cluster
+### Best Player by Cluster
 
 
 
@@ -896,11 +892,11 @@ Contains the highest-impact player identified from each player segment.
 
 
 
-\---
 
 
 
-\## 📌 Key Results
+
+## 📌 Key Results
 
 
 
@@ -908,13 +904,13 @@ The analysis successfully processed:
 
 
 
-\* \*\*1,243 unique players\*\*
+* \*\*1,243 unique players\*\*
 
-\* \*\*0 duplicate player IDs\*\*
+* \*\*0 duplicate player IDs\*\*
 
-\* \*\*4 distinct player-performance clusters\*\*
+* \*\*4 distinct player-performance clusters\*\*
 
-\* \*\*85.63% variance explained by the first two PCA components\*\*
+* \*\*85.63% variance explained by the first two PCA components\*\*
 
 
 
@@ -922,7 +918,7 @@ The clustering results reveal four broad player profiles:
 
 
 
-\### 🏆 Elite / Top Performers
+### 🏆 Elite / Top Performers
 
 
 
@@ -930,7 +926,7 @@ Players with substantially higher overall attacking contribution and performance
 
 
 
-\### 📉 Low-Performance Players
+### 📉 Low-Performance Players
 
 
 
@@ -938,7 +934,7 @@ Players with comparatively low goals, assists, ratings, and overall performance 
 
 
 
-\### 🎯 Creative / Attacking Players
+### 🎯 Creative / Attacking Players
 
 
 
@@ -946,7 +942,7 @@ Players who demonstrate stronger assist and creative contribution relative to th
 
 
 
-\### ⚡ Goal-Oriented Players
+### ⚡ Goal-Oriented Players
 
 
 
@@ -954,11 +950,11 @@ Players whose contribution is more strongly associated with goal production.
 
 
 
-\---
 
 
 
-\## 💡 Why This Project?
+
+## 💡 Why This Project?
 
 
 
@@ -974,11 +970,11 @@ Instead of looking at a single statistic, the system combines multiple performan
 
 
 
-\---
 
 
 
-\## 🚀 Potential Applications
+
+## 🚀 Potential Applications
 
 
 
@@ -986,29 +982,28 @@ The analytical framework could be useful for:
 
 
 
-\* Football scouting
+* Football scouting
 
-\* Player comparison
+* Player comparison
 
-\* Talent identification
+* Talent identification
 
-\* Team recruitment
+* Team recruitment
 
-\* Performance analysis
+* Performance analysis
 
-\* Sports analytics dashboards
+* Sports analytics dashboards
 
-\* Player profiling
+* Player profiling
 
-\* Data-driven decision making
-
-
-
-\---
+* Data-driven decision making
 
 
 
-\## 🔮 Future Improvements
+
+
+
+## 🔮 Future Improvements
 
 
 
@@ -1016,33 +1011,33 @@ Possible future extensions include:
 
 
 
-\* Interactive Streamlit dashboard
+* Interactive Streamlit dashboard
 
-\* Match-level performance prediction
+* Match-level performance prediction
 
-\* Player similarity/recommendation system
+* Player similarity/recommendation system
 
-\* Position-specific performance models
+* Position-specific performance models
 
-\* Player market-value prediction
+* Player market-value prediction
 
-\* Team-level analytics
+* Team-level analytics
 
-\* World Cup match prediction
+* World Cup match prediction
 
-\* Time-series player performance analysis
+* Time-series player performance analysis
 
-\* Advanced clustering comparison
+* Advanced clustering comparison
 
-\* Automated data collection pipeline
-
-
-
-\---
+* Automated data collection pipeline
 
 
 
-\## ⚠️ Limitations
+
+
+
+
+## ⚠️ Limitations
 
 
 
@@ -1050,17 +1045,17 @@ The current analysis has several limitations:
 
 
 
-\* Player statistics depend on the available source data.
+* Player statistics depend on the available source data.
 
-\* Some player attributes contain missing values.
+* Some player attributes contain missing values.
 
-\* Performance scoring is a project-defined metric rather than an official football rating.
+* Performance scoring is a project-defined metric rather than an official football rating.
 
-\* K-Means assumes relatively spherical cluster structures.
+* K-Means assumes relatively spherical cluster structures.
 
-\* Player performance can vary significantly by position, competition, and playing time.
+* Player performance can vary significantly by position, competition, and playing time.
 
-\* The analysis does not fully account for tactical roles or team strength.
+* The analysis does not fully account for tactical roles or team strength.
 
 
 
@@ -1072,7 +1067,7 @@ Therefore, the results should be interpreted as \*\*analytical player profiles r
 
 
 
-\## 📜 License
+## 📜 License
 
 
 
@@ -1084,15 +1079,13 @@ See the `LICENSE` file for details.
 
 
 
-\---
+
+
+## 👨‍💻 Author
 
 
 
-\## 👨‍💻 Author
-
-
-
-\*\*Devendra Khanal\*\*
+*\*Devendra Khanal\*\*
 
 
 
@@ -1104,23 +1097,23 @@ Interested in:
 
 
 
-\* Machine Learning
+* Machine Learning
 
-\* Data Science
+* Data Science
 
-\* Artificial Intelligence
+* Artificial Intelligence
 
-\* Web Development
+* Web Development
 
-\* Software Engineering
-
-
-
-\---
+* Software Engineering
 
 
 
-\## ⭐ Project Highlights
+
+
+
+
+## ⭐ Project Highlights
 
 
 
@@ -1156,11 +1149,11 @@ Interested in:
 
 
 
-\---
 
 
 
-\## ⭐ Support
+
+## ⭐ Support
 
 
 
