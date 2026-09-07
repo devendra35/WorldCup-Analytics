@@ -1,0 +1,41 @@
+player_id,player_name,position,team_name,goals,assists,rating,goal_assist_total,performance_score,cluster,cluster_name
+194165,Harry Kane,Striker,Bayern München,73.0,8.0,7.622857142857143,81.0,27.31142857142857,0,Elite / Top Performers
+30981,Lionel Messi,Striker,Inter Miami CF,48.0,34.0,8.223636363636365,82.0,25.311818181818182,0,Elite / Top Performers
+701154,Kylian Mbappé,Striker,Real Madrid,60.0,14.0,7.914285714285715,74.0,24.757142857142856,0,Elite / Top Performers
+737066,Erling Haaland,Striker,Manchester City,59.0,11.0,7.3426470588235295,70.0,23.571323529411764,0,Elite / Top Performers
+1029063,Michael Olise,Right Winger,Bayern München,25.0,34.0,7.778571428571428,59.0,18.18928571428572,0,Elite / Top Performers
+792303,Luis Suárez,Striker,Sporting CP,43.0,9.0,6.825,52.0,18.1125,0,Elite / Top Performers
+408987,Ivan Toney,Striker,Al Ahli,42.0,11.0,6.2548387096774185,53.0,17.927419354838708,0,Elite / Top Performers
+860914,Luis Díaz,Left Winger,Bayern München,30.0,25.0,7.689999999999999,55.0,17.845,0,Elite / Top Performers
+30893,Cristiano Ronaldo,Striker,Al Nassr FC,42.0,4.0,7.523076923076924,46.0,17.161538461538463,0,Elite / Top Performers
+720560,Julián Quiñones,Striker,Al Qadsiah,41.0,5.0,7.466666666666666,46.0,17.03333333333333,0,Elite / Top Performers
+1210929,Nadir Benbouali,Striker,Györi ETO,19.0,5.0,1.548888888888889,24.0,7.474444444444445,1,Low-Performance Players
+845336,Firas Chaouat,Striker,Club Africain,18.0,1.0,2.063636363636364,19.0,6.631818181818182,1,Low-Performance Players
+1031319,Amirhossein Hosseinzadeh,Striker,Tractor,14.0,2.0,2.2075,16.0,5.70375,1,Low-Performance Players
+1242314,Lenny Joseph,Striker,Ferencvaros,12.0,3.0,2.851785714285714,15.0,5.625892857142857,1,Low-Performance Players
+1611223,Kento Shiogai,Striker,Wolfsburg,10.0,1.0,4.023255813953489,11.0,5.211627906976745,1,Low-Performance Players
+909198,Abdullah Al-Hamdan,Striker,Al Nassr FC,10.0,2.0,3.141935483870968,12.0,4.9709677419354845,1,Low-Performance Players
+1558461,Findlay Curtis,Left Winger,Rangers,9.0,2.0,3.1737704918032787,11.0,4.68688524590164,1,Low-Performance Players
+766159,Jordy Caicedo,Striker,Huracan,9.0,0.0,3.483333333333333,9.0,4.441666666666666,1,Low-Performance Players
+671326,Nuno da Costa,Striker,Başakşehir,6.0,3.0,3.8226415094339616,9.0,4.311320754716981,1,Low-Performance Players
+873832,Willy Semedo,Left Winger,Omonia Nicosia,7.0,1.0,3.5500000000000003,8.0,4.075,1,Low-Performance Players
+1024928,Khalid Al Ghannam,Left Winger,Al-Ettifaq,13.0,6.0,5.988095238095239,19.0,8.094047619047618,2,Creative / Attacking Players
+1471333,Relebohile Mofokeng,Attacking Midfielder,Union St.Gilloise,11.0,8.0,6.152083333333334,19.0,7.976041666666667,2,Creative / Attacking Players
+1053736,Elijah Just,Attacking Midfielder,Motherwell,11.0,7.0,6.506,18.0,7.953,2,Creative / Attacking Players
+557677,Nikola Vlasic,Attacking Midfielder,Torino,12.0,5.0,6.50925925925926,17.0,7.854629629629629,2,Creative / Attacking Players
+1023030,Jhon Arias,Left Winger,Palmeiras,13.0,3.0,6.555223880597015,16.0,7.777611940298508,2,Creative / Attacking Players
+1287871,Zakaria El Ouahdi,Right Back,Genk,12.0,5.0,6.330909090909092,17.0,7.765454545454546,2,Creative / Attacking Players
+604044,Junya Ito,Left Winger,Genk,9.0,8.0,6.848979591836734,17.0,7.724489795918366,2,Creative / Attacking Players
+1061249,Vitinha,Central Midfielder,Paris Saint-Germain,7.0,10.0,7.111764705882352,17.0,7.655882352941176,2,Creative / Attacking Players
+1083323,Pedri,Defensive Midfielder,Barcelona,5.0,12.0,7.369841269841269,17.0,7.5849206349206355,2,Creative / Attacking Players
+1670377,Gilberto Mora,Central Midfielder,Tijuana,12.0,3.0,6.623684210526315,15.0,7.511842105263158,2,Creative / Attacking Players
+843099,Scott McTominay,Defensive Midfielder,Napoli,17.0,4.0,7.032758620689655,21.0,9.416379310344828,3,Goal-Oriented Players
+388903,Haris Tabakovic,Striker,Salzburg,19.0,3.0,6.130434782608695,22.0,9.365217391304348,3,Goal-Oriented Players
+848268,Haji Wright,Striker,Coventry City,20.0,2.0,5.580357142857143,22.0,9.190178571428572,3,Goal-Oriented Players
+1252132,Promise David,Striker,Union St.Gilloise,17.0,3.0,5.994000000000001,20.0,8.697,3,Goal-Oriented Players
+1106563,Nick Woltemade,Striker,Newcastle United,16.0,5.0,5.767142857142857,21.0,8.683571428571428,3,Goal-Oriented Players
+1174844,Jovo Lukic,Striker,Universitatea Cluj,18.0,2.0,5.639999999999999,20.0,8.62,3,Goal-Oriented Players
+1210893,Igor Matanovic,Striker,Freiburg,16.0,4.0,5.82295081967213,20.0,8.511475409836065,3,Goal-Oriented Players
+1421270,Kevin Rodríguez,Striker,Union St.Gilloise,14.0,5.0,6.125925925925926,19.0,8.262962962962963,3,Goal-Oriented Players
+425711,Gabriel Ávalos,Striker,Independiente,13.0,7.0,5.706521739130435,20.0,8.153260869565218,3,Goal-Oriented Players
+726956,Cedric Itten,Striker,Werder Bremen,16.0,3.0,5.428888888888889,19.0,8.114444444444445,3,Goal-Oriented Players

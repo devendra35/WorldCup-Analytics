@@ -1,0 +1,5 @@
+cluster,cluster_name,player_name,position,team_name,goals,assists,rating,performance_score,impact_score
+0,Elite / Top Performers,Harry Kane,Striker,Bayern München,73.0,8.0,7.622857142857143,27.31142857142857,100.0
+1,Low-Performance Players,Nadir Benbouali,Striker,Györi ETO,19.0,5.0,1.548888888888889,7.474444444444445,27.37
+2,Creative / Attacking Players,Khalid Al Ghannam,Left Winger,Al-Ettifaq,13.0,6.0,5.988095238095239,8.094047619047618,29.64
+3,Goal-Oriented Players,Scott McTominay,Defensive Midfielder,Napoli,17.0,4.0,7.032758620689655,9.416379310344828,34.48

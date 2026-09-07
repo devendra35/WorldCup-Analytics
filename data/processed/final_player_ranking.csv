@@ -1,0 +1,1244 @@
+overall_rank,player_id,player_name,position,team_name,goals,assists,rating,performance_score,impact_score,cluster,cluster_name
+1,194165,Harry Kane,Striker,Bayern München,73.0,8.0,7.622857142857143,27.31142857142857,100.0,0,Elite / Top Performers
+2,30981,Lionel Messi,Striker,Inter Miami CF,48.0,34.0,8.223636363636365,25.311818181818182,92.68,0,Elite / Top Performers
+3,701154,Kylian Mbappé,Striker,Real Madrid,60.0,14.0,7.914285714285715,24.757142857142856,90.65,0,Elite / Top Performers
+4,737066,Erling Haaland,Striker,Manchester City,59.0,11.0,7.3426470588235295,23.571323529411764,86.31,0,Elite / Top Performers
+5,1029063,Michael Olise,Right Winger,Bayern München,25.0,34.0,7.778571428571428,18.18928571428572,66.6,0,Elite / Top Performers
+6,792303,Luis Suárez,Striker,Sporting CP,43.0,9.0,6.825,18.1125,66.32,0,Elite / Top Performers
+7,408987,Ivan Toney,Striker,Al Ahli,42.0,11.0,6.2548387096774185,17.927419354838708,65.64,0,Elite / Top Performers
+8,860914,Luis Díaz,Left Winger,Bayern München,30.0,25.0,7.689999999999999,17.845,65.34,0,Elite / Top Performers
+9,30893,Cristiano Ronaldo,Striker,Al Nassr FC,42.0,4.0,7.523076923076924,17.161538461538463,62.84,0,Elite / Top Performers
+10,720560,Julián Quiñones,Striker,Al Qadsiah,41.0,5.0,7.466666666666666,17.03333333333333,62.37,0,Elite / Top Performers
+11,1467236,Lamine Yamal,Right Winger,Barcelona,29.0,21.0,8.02295081967213,16.911475409836065,61.92,0,Elite / Top Performers
+12,794427,Joao Félix,Attacking Midfielder,Al Nassr FC,29.0,21.0,7.501587301587299,16.65079365079365,60.97,0,Elite / Top Performers
+13,661519,Deniz Undav,Striker,VfB Stuttgart,31.0,17.0,7.333333333333333,16.366666666666667,59.93,0,Elite / Top Performers
+14,846033,Vinícius Júnior,Left Winger,Real Madrid,28.0,14.0,7.492647058823529,14.946323529411766,54.73,0,Elite / Top Performers
+15,678234,Mikel Oyarzabal,Striker,Real Sociedad,32.0,9.0,6.849180327868853,14.824590163934428,54.28,0,Elite / Top Performers
+16,690230,Lautaro Martínez,Striker,Inter,31.0,11.0,6.464062500000001,14.73203125,53.94,0,Elite / Top Performers
+17,692984,Ousmane Dembélé,Striker,Paris Saint-Germain,26.0,14.0,6.969090909090908,14.084545454545454,51.57,0,Elite / Top Performers
+18,1180288,Ismael Saibari,Attacking Midfielder,Bayern München,28.0,9.0,7.306666666666667,13.853333333333335,50.72,0,Elite / Top Performers
+19,422685,Bruno Fernandes,Attacking Midfielder,Manchester United,16.0,26.0,7.452727272727272,13.726363636363637,50.26,0,Elite / Top Performers
+20,942393,Ayase Ueda,Striker,Feyenoord,32.0,3.0,6.772222222222221,13.58611111111111,49.75,0,Elite / Top Performers
+21,212867,Heung-Min Son,Striker,Los Angeles FC,20.0,19.0,7.450980392156862,13.525490196078431,49.52,0,Elite / Top Performers
+22,613792,Akram Afif,Left Winger,Al-Sadd,19.0,20.0,7.199999999999999,13.3,48.7,0,Elite / Top Performers
+23,438647,Giorgian de Arrascaeta,Attacking Midfielder,Flamengo,21.0,15.0,7.153448275862069,12.876724137931037,47.15,0,Elite / Top Performers
+24,771294,Ismaïla Sarr,Attacking Midfielder,Crystal Palace,28.0,5.0,6.6890625,12.74453125,46.66,0,Elite / Top Performers
+25,303339,Sadio Mané,Left Midfielder,Al Nassr FC,21.0,13.0,7.414035087719299,12.60701754385965,46.16,0,Elite / Top Performers
+26,1216079,José Manuel López,Striker,Palmeiras,22.0,14.0,6.055714285714286,12.427857142857142,45.5,0,Elite / Top Performers
+27,664500,Viktor Gyökeres,Striker,Arsenal,27.0,6.0,6.214285714285714,12.407142857142858,45.43,0,Elite / Top Performers
+28,884382,Ayoub El Kaabi,Striker,Olympiacos,29.0,4.0,5.662686567164179,12.33134328358209,45.15,0,Elite / Top Performers
+29,982677,Folarin Balogun,Striker,Monaco,27.0,4.0,6.645901639344263,12.222950819672132,44.75,0,Elite / Top Performers
+30,974753,Julián Álvarez,Striker,Atletico Madrid,23.0,10.0,6.527142857142858,12.163571428571428,44.54,0,Elite / Top Performers
+31,292462,Mohamed Salah,Right Winger,,21.0,13.0,6.275,12.0375,44.07,0,Elite / Top Performers
+32,1302005,Igor Thiago,Striker,Brentford,28.0,2.0,6.4490566037735855,12.024528301886791,44.03,0,Elite / Top Performers
+33,881771,Ferran Torres,Striker,Barcelona,25.0,7.0,6.174285714285714,11.987142857142858,43.89,0,Elite / Top Performers
+34,660301,Donyell Malen,Striker,Roma,26.0,6.0,5.843478260869565,11.921739130434784,43.65,0,Elite / Top Performers
+35,806552,Cody Gakpo,Left Winger,Liverpool,21.0,10.0,7.033333333333333,11.816666666666666,43.27,0,Elite / Top Performers
+36,696679,Raphinha,Left Winger,Barcelona,22.0,9.0,6.672916666666667,11.736458333333331,42.97,0,Elite / Top Performers
+37,278343,Riyad Mahrez,Right Winger,Al Ahli,16.0,17.0,7.051562499999999,11.72578125,42.93,0,Elite / Top Performers
+38,619513,Eldor Shomurodov,Attacking Midfielder,Başakşehir,24.0,6.0,6.496226415094339,11.64811320754717,42.65,0,Elite / Top Performers
+39,890232,Baris Alper Yilmaz,Left Winger,Galatasaray,18.0,15.0,6.490476190476191,11.645238095238096,42.64,0,Elite / Top Performers
+40,1070776,Rodrigo Zalazar,Right Winger,Sporting CP,23.0,9.0,5.738983050847458,11.569491525423729,42.36,0,Elite / Top Performers
+41,1117570,Kerem Aktürkoglu,Left Winger,Fenerbahçe,21.0,10.0,6.259090909090909,11.429545454545456,41.85,0,Elite / Top Performers
+42,709796,Petar Musa,Striker,FC Dallas,24.0,4.0,6.736111111111111,11.368055555555555,41.62,0,Elite / Top Performers
+43,1456983,Armando González,Striker,Chivas,26.0,3.0,5.765454545454545,11.282727272727271,41.31,0,Elite / Top Performers
+44,291425,Jhon Córdoba,Striker,FC Krasnodar,25.0,7.0,4.681481481481482,11.240740740740742,41.16,0,Elite / Top Performers
+45,961995,Bukayo Saka,Right Winger,Arsenal,18.0,12.0,6.851428571428571,11.225714285714286,41.1,0,Elite / Top Performers
+46,540097,Patrik Schick,Striker,Bayer Leverkusen,24.0,4.0,6.421428571428571,11.210714285714284,41.05,0,Elite / Top Performers
+47,540088,Ollie Watkins,Striker,Aston Villa,24.0,5.0,5.932857142857144,11.166428571428572,40.89,0,Elite / Top Performers
+48,931605,Benjamin Nygren,Attacking Midfielder,Celtic,21.0,10.0,5.68,11.14,40.79,0,Elite / Top Performers
+49,906937,Anthony Gordon,Left Winger,Barcelona,20.0,10.0,6.055072463768115,11.027536231884056,40.38,0,Elite / Top Performers
+50,163670,Ivan Perisic,Left Winger,PSV Eindhoven,13.0,17.0,7.15593220338983,10.877966101694916,39.83,0,Elite / Top Performers
+51,621562,Marcus Thuram,Striker,Inter,20.0,9.0,5.863492063492063,10.731746031746033,39.29,0,Elite / Top Performers
+52,1478295,Rayan,Right Winger,AFC Bournemouth,22.0,3.0,6.938181818181818,10.669090909090908,39.06,0,Elite / Top Performers
+53,933576,Antoine Semenyo,Right Winger,Manchester City,21.0,6.0,6.1421875,10.57109375,38.71,0,Elite / Top Performers
+54,732282,Trincão,Attacking Midfielder,Al Ahli,14.0,16.0,6.295652173913044,10.547826086956524,38.62,0,Elite / Top Performers
+55,883080,Morgan Rogers,Attacking Midfielder,Aston Villa,15.0,13.0,6.758571428571427,10.479285714285714,38.37,0,Elite / Top Performers
+56,317544,Lawrence Shankland,Striker,Rangers,21.0,4.0,6.723684210526316,10.46184210526316,38.31,0,Elite / Top Performers
+56,1044299,Hyeon-Gyu Oh,Striker,Beşiktaş,21.0,6.0,5.926984126984126,10.463492063492062,38.31,0,Elite / Top Performers
+58,696365,Marcus Rashford,Left Winger,Manchester United,16.0,13.0,6.078571428571429,10.439285714285717,38.22,0,Elite / Top Performers
+59,1054166,Oswin Appollis,Left Winger,Orlando Pirates,16.0,11.0,6.860714285714286,10.430357142857144,38.19,0,Elite / Top Performers
+60,440330,Alexander Sørloth,Striker,Atletico Madrid,22.0,3.0,6.387142857142857,10.393571428571429,38.06,0,Elite / Top Performers
+61,618774,Christian Fassnacht,Right Winger,Young Boys,20.0,7.0,5.846153846153848,10.323076923076924,37.8,0,Elite / Top Performers
+62,523217,Tomás Chory,Striker,Slavia Prague,20.0,7.0,5.8319148936170215,10.315957446808511,37.77,0,Elite / Top Performers
+63,728765,Daizen Maeda,Striker,Celtic,18.0,10.0,5.780597014925374,10.290298507462689,37.68,0,Elite / Top Performers
+64,173461,Andrej Kramaric,Attacking Midfielder,Hoffenheim,18.0,8.0,6.563461538461538,10.281730769230768,37.65,0,Elite / Top Performers
+65,1137705,Enzo Fernández,Attacking Midfielder,Chelsea,18.0,7.0,6.925714285714287,10.262857142857143,37.58,0,Elite / Top Performers
+66,706297,Jean-Philippe Mateta,Striker,Crystal Palace,21.0,5.0,5.906060606060606,10.253030303030304,37.54,0,Elite / Top Performers
+67,1152455,Florian Wirtz,Left Winger,Liverpool,12.0,15.0,7.283333333333332,10.241666666666664,37.5,0,Elite / Top Performers
+68,942368,Jérémy Doku,Left Winger,Manchester City,12.0,15.0,7.26,10.23,37.46,0,Elite / Top Performers
+69,1735453,Yan Diomande,Right Winger,RB Leipzig,16.0,10.0,6.726923076923076,10.163461538461538,37.21,0,Elite / Top Performers
+70,1297165,Bradley Barcola,Left Winger,Paris Saint-Germain,17.0,8.0,6.884615384615386,10.142307692307693,37.14,0,Elite / Top Performers
+71,1036401,Ricardo Pepi,Striker,PSV Eindhoven,21.0,4.0,6.017391304347826,10.108695652173914,37.01,0,Elite / Top Performers
+72,1339208,Désiré Doué,Right Winger,Paris Saint-Germain,16.0,9.0,6.994642857142858,10.09732142857143,36.97,0,Elite / Top Performers
+73,954131,Lee Dong-Gyeong,Striker,Ulsan HD FC,14.0,13.0,6.500000000000001,10.05,36.8,0,Elite / Top Performers
+74,774947,Guus Til,Striker,PSV Eindhoven,18.0,7.0,6.493877551020408,10.046938775510204,36.79,0,Elite / Top Performers
+75,1253890,Arda Güler,Attacking Midfielder,Real Madrid,8.0,20.0,7.244615384615384,10.022307692307692,36.7,0,Elite / Top Performers
+76,845368,John Yeboah,Striker,Venezia,13.0,13.0,7.041176470588234,10.020588235294117,36.69,0,Elite / Top Performers
+77,1576876,Anis Hadj Moussa,Right Winger,Feyenoord,16.0,9.0,6.696491228070176,9.948245614035088,36.43,0,Elite / Top Performers
+78,203666,Hans Vanaken,Attacking Midfielder,Club Brugge,14.0,11.0,7.057142857142857,9.928571428571429,36.35,0,Elite / Top Performers
+79,1073742,Julio Enciso,Attacking Midfielder,Strasbourg,13.0,13.0,6.827777777777777,9.913888888888888,36.3,0,Elite / Top Performers
+80,887704,Keito Nakamura,Left Winger,Reims,17.0,6.0,7.211363636363638,9.90568181818182,36.27,0,Elite / Top Performers
+81,110148,Marko Arnautovic,Striker,FK Crvena Zvezda,17.0,9.0,5.978,9.889,36.21,0,Elite / Top Performers
+82,1136096,Sebastian Berhalter,Defensive Midfielder,Vancouver Whitecaps,12.0,13.0,7.121153846153845,9.760576923076922,35.74,0,Elite / Top Performers
+83,288406,Alejandro Grimaldo,Left Wing-Back,Atletico Madrid,14.0,13.0,5.826865671641791,9.713432835820896,35.57,0,Elite / Top Performers
+84,1104053,Rayan Cherki,Attacking Midfielder,Manchester City,11.0,16.0,6.405882352941178,9.702941176470588,35.53,0,Elite / Top Performers
+85,527103,Breel Embolo,Striker,Rennes,18.0,5.0,6.55576923076923,9.677884615384617,35.44,0,Elite / Top Performers
+86,1412132,Kenan Yildiz,Attacking Midfielder,Juventus,14.0,10.0,6.953125,9.6765625,35.43,0,Elite / Top Performers
+87,1132069,Mohamed Touré,Striker,Norwich City,16.0,8.0,6.425581395348837,9.612790697674418,35.2,0,Elite / Top Performers
+88,1037539,Pavel Sulc,Attacking Midfielder,Lyon,15.0,9.0,6.50576923076923,9.552884615384617,34.98,0,Elite / Top Performers
+89,307753,Salem Al-Dawsari,Left Winger,Al Hilal,12.0,13.0,6.656603773584906,9.528301886792452,34.89,0,Elite / Top Performers
+90,1300358,Toni Fruk,Attacking Midfielder,Rijeka,20.0,4.0,5.3646153846153855,9.482307692307693,34.72,0,Elite / Top Performers
+91,513492,Trezeguet,Left Winger,Al Ahly SC,19.0,3.0,6.345833333333334,9.472916666666666,34.68,0,Elite / Top Performers
+92,614449,Nadiem Amiri,Central Midfielder,Mainz 05,18.0,4.0,6.495652173913043,9.44782608695652,34.59,0,Elite / Top Performers
+93,741397,Jens Petter Hauge,Left Winger,Bodø/Glimt,15.0,10.0,5.878181818181818,9.43909090909091,34.56,0,Elite / Top Performers
+94,850354,Bruno Guimarães,Central Midfielder,Newcastle United,11.0,13.0,7.043333333333335,9.421666666666669,34.5,0,Elite / Top Performers
+95,843099,Scott McTominay,Defensive Midfielder,Napoli,17.0,4.0,7.032758620689655,9.416379310344828,34.48,3,Goal-Oriented Players
+96,388903,Haris Tabakovic,Striker,Salzburg,19.0,3.0,6.130434782608695,9.365217391304348,34.29,3,Goal-Oriented Players
+97,776299,Houssem Aouar,Attacking Midfielder,Al Ittihad,16.0,7.0,6.2285714285714295,9.314285714285717,34.1,0,Elite / Top Performers
+98,743533,Federico Valverde,Right Back,Real Madrid,10.0,13.0,7.412280701754386,9.306140350877191,34.07,0,Elite / Top Performers
+99,251269,Ante Budimir,Striker,Osasuna,20.0,1.0,6.183333333333333,9.291666666666666,34.02,0,Elite / Top Performers
+100,843040,Pedro Neto,Right Winger,Chelsea,11.0,13.0,6.763235294117647,9.281617647058823,33.98,0,Elite / Top Performers
+101,534684,Rúben Neves,Defensive Midfielder,Al Hilal,13.0,10.0,6.726666666666668,9.263333333333334,33.92,0,Elite / Top Performers
+102,1077894,Jude Bellingham,Attacking Midfielder,Real Madrid,15.0,6.0,7.064814814814815,9.232407407407408,33.8,0,Elite / Top Performers
+103,1095432,Charles De Ketelaere,Attacking Midfielder,Atalanta,12.0,11.0,6.836666666666667,9.218333333333334,33.75,0,Elite / Top Performers
+104,848268,Haji Wright,Striker,Coventry City,20.0,2.0,5.580357142857143,9.190178571428572,33.65,3,Goal-Oriented Players
+105,318615,Leandro Trossard,Left Winger,Beşiktaş,12.0,12.0,6.348571428571428,9.174285714285714,33.59,0,Elite / Top Performers
+105,304733,Hakan Çalhanoglu,Central Midfielder,Inter,13.0,11.0,6.15,9.175,33.59,0,Elite / Top Performers
+107,1181700,Danilo Santos,Defensive Midfielder,Botafogo RJ,14.0,8.0,6.535714285714286,9.067857142857145,33.2,0,Elite / Top Performers
+108,530859,Leroy Sané,Right Winger,Galatasaray,11.0,12.0,6.546551724137931,8.973275862068967,32.86,0,Elite / Top Performers
+109,1298669,Adil Boulbina,Left Winger,Al-Duhail SC,15.0,9.0,5.2875000000000005,8.943750000000001,32.75,0,Elite / Top Performers
+109,1347574,Nico Paz,Attacking Midfielder,Como,15.0,7.0,6.09,8.945,32.75,0,Elite / Top Performers
+111,941660,Brian Rodríguez,Left Winger,CF America,12.0,11.0,6.254545454545453,8.927272727272726,32.69,0,Elite / Top Performers
+112,575735,Nicolas Pépé,Right Midfielder,Villarreal,12.0,11.0,6.193548387096774,8.896774193548387,32.58,0,Elite / Top Performers
+113,766435,Lucas Paquetá,Attacking Midfielder,Flamengo,16.0,4.0,6.576271186440678,8.88813559322034,32.54,0,Elite / Top Performers
+114,19533,Neymar,Striker,Santos FC,14.0,5.0,7.356249999999999,8.878125,32.51,0,Elite / Top Performers
+115,614834,Dani Olmo,Attacking Midfielder,Barcelona,9.0,14.0,6.748529411764706,8.874264705882354,32.49,0,Elite / Top Performers
+116,1134206,Mohamed Amoura,Striker,Wolfsburg,14.0,8.0,6.078431372549019,8.83921568627451,32.36,0,Elite / Top Performers
+117,1074968,Jamie Leweling,Left Winger,VfB Stuttgart,11.0,12.0,6.259999999999999,8.83,32.33,0,Elite / Top Performers
+118,844437,Amine Gouiri,Striker,Marseille,16.0,5.0,6.022222222222222,8.81111111111111,32.26,0,Elite / Top Performers
+119,940334,José Fajardo,Striker,Universidad Catolica,18.0,2.0,5.989285714285714,8.794642857142856,32.2,0,Elite / Top Performers
+120,1460327,Jesse Randall,Left Midfielder,Auckland FC,13.0,8.0,6.582222222222224,8.791111111111112,32.19,0,Elite / Top Performers
+121,579747,Franck Kessié,Defensive Midfielder,Al Ahli,15.0,6.0,6.16774193548387,8.783870967741937,32.16,0,Elite / Top Performers
+122,609505,Borja Iglesias,Striker,Celta Vigo,18.0,3.0,5.4867647058823525,8.743382352941175,32.01,0,Elite / Top Performers
+123,1340895,Bilal El Khannouss,Attacking Midfielder,VfB Stuttgart,11.0,11.0,6.431428571428572,8.715714285714286,31.91,0,Elite / Top Performers
+124,621882,Álex Zendejas,Right Winger,CF America,13.0,8.0,6.41111111111111,8.705555555555554,31.88,0,Elite / Top Performers
+124,935409,Orkun Kökcü,Defensive Midfielder,Beşiktaş,11.0,11.0,6.416071428571428,8.708035714285714,31.88,0,Elite / Top Performers
+126,1252132,Promise David,Striker,Union St.Gilloise,17.0,3.0,5.994000000000001,8.697,31.84,3,Goal-Oriented Players
+126,845991,Yunus Akgün,Attacking Midfielder,Galatasaray,12.0,11.0,5.7898305084745765,8.694915254237287,31.84,0,Elite / Top Performers
+128,292313,Raul Jiménez,Striker,Wolverhampton Wanderers,17.0,3.0,5.982758620689655,8.691379310344827,31.82,0,Elite / Top Performers
+129,1106563,Nick Woltemade,Striker,Newcastle United,16.0,5.0,5.767142857142857,8.683571428571428,31.79,3,Goal-Oriented Players
+130,1174844,Jovo Lukic,Striker,Universitatea Cluj,18.0,2.0,5.639999999999999,8.62,31.56,3,Goal-Oriented Players
+131,1520063,Johan Manzambi,Defensive Midfielder,Aston Villa,12.0,8.0,6.814516129032257,8.607258064516127,31.52,0,Elite / Top Performers
+132,840212,Agustín Canobbio,Right Winger,Fluminense,14.0,5.0,6.813636363636364,8.606818181818182,31.51,0,Elite / Top Performers
+133,939569,Jonathan David,Striker,Juventus,15.0,6.0,5.730882352941177,8.56544117647059,31.36,0,Elite / Top Performers
+134,619506,Mehdi Taremi,Striker,Olympiacos,17.0,4.0,5.27843137254902,8.53921568627451,31.27,0,Elite / Top Performers
+135,356406,John McGinn,Right Winger,Aston Villa,12.0,9.0,6.273015873015874,8.536507936507936,31.26,0,Elite / Top Performers
+136,1228558,Andreas Schjelderup,Left Winger,Benfica,12.0,10.0,5.829999999999998,8.514999999999999,31.18,0,Elite / Top Performers
+136,169200,Kevin De Bruyne,Attacking Midfielder,Napoli,14.0,5.0,6.628947368421052,8.514473684210525,31.18,0,Elite / Top Performers
+136,1235341,Musab Al-Juwayr,Central Midfielder,Al Qadsiah,8.0,14.0,6.630508474576271,8.515254237288136,31.18,0,Elite / Top Performers
+139,1210893,Igor Matanovic,Striker,Freiburg,16.0,4.0,5.82295081967213,8.511475409836065,31.16,3,Goal-Oriented Players
+140,840241,Ermedin Demirovic,Striker,VfB Stuttgart,15.0,5.0,5.991666666666667,8.495833333333334,31.11,0,Elite / Top Performers
+141,690332,Jan Kuchta,Striker,Sparta Prague,14.0,10.0,4.558181818181819,8.47909090909091,31.05,0,Elite / Top Performers
+142,848844,Rafael Leão,Striker,Milan,14.0,5.0,6.522222222222222,8.461111111111112,30.98,0,Elite / Top Performers
+143,1523327,Farès Ghedjemis,Right Winger,Frosinone,16.0,3.0,6.0765957446808505,8.438297872340424,30.9,0,Elite / Top Performers
+144,1197347,Nicolas Jackson,Striker,Chelsea,16.0,7.0,4.450793650793651,8.425396825396826,30.85,0,Elite / Top Performers
+145,749736,Kai Havertz,Striker,Arsenal,13.0,7.0,6.110256410256412,8.355128205128207,30.59,0,Elite / Top Performers
+146,460632,Joshua Kimmich,Defensive Midfielder,Bayern München,4.0,17.0,7.386567164179105,8.293283582089554,30.37,0,Elite / Top Performers
+147,1076668,Iqraam Rayners,Striker,Mamelodi Sundowns FC,16.0,3.0,5.743478260869565,8.271739130434781,30.29,0,Elite / Top Performers
+148,1421270,Kevin Rodríguez,Striker,Union St.Gilloise,14.0,5.0,6.125925925925926,8.262962962962963,30.25,3,Goal-Oriented Players
+149,654096,Declan Rice,Defensive Midfielder,Arsenal,8.0,12.0,6.897142857142857,8.248571428571429,30.2,0,Elite / Top Performers
+149,1021586,Gabriel Martinelli,Left Winger,Arsenal,14.0,7.0,5.295714285714286,8.247857142857143,30.2,0,Elite / Top Performers
+151,688295,Christian Pulisic,Striker,Milan,11.0,8.0,6.591836734693879,8.19591836734694,30.01,0,Elite / Top Performers
+152,863869,Nicolas Raskin,Defensive Midfielder,Rangers,9.0,11.0,6.586567164179105,8.193283582089553,30.0,0,Elite / Top Performers
+152,1047667,Maximilian Beier,Attacking Midfielder,Borussia Dortmund,12.0,7.0,6.385964912280701,8.192982456140351,30.0,0,Elite / Top Performers
+154,852071,Juan Hernández,Striker,Real Betis,15.0,4.0,5.776363636363637,8.18818181818182,29.98,0,Elite / Top Performers
+155,425711,Gabriel Ávalos,Striker,Independiente,13.0,7.0,5.706521739130435,8.153260869565218,29.85,3,Goal-Oriented Players
+156,1265626,Abdul Fatawu,Right Winger,Leicester City,11.0,7.0,6.854545454545454,8.127272727272727,29.76,0,Elite / Top Performers
+157,726956,Cedric Itten,Striker,Werder Bremen,16.0,3.0,5.428888888888889,8.114444444444445,29.71,3,Goal-Oriented Players
+158,1180784,Jearl Margaritha,Left Winger,SK Beveren,7.0,14.0,6.4234042553191495,8.111702127659575,29.7,0,Elite / Top Performers
+159,1024928,Khalid Al Ghannam,Left Winger,Al-Ettifaq,13.0,6.0,5.988095238095239,8.094047619047618,29.64,2,Creative / Attacking Players
+159,791682,Lukás Provod,Attacking Midfielder,Slavia Prague,8.0,12.0,6.588000000000002,8.094000000000001,29.64,0,Elite / Top Performers
+161,848352,Callum McCowatt,Attacking Midfielder,Silkeborg,12.0,5.0,6.925,8.0625,29.52,0,Elite / Top Performers
+162,1436730,Keisuke Goto,Striker,Freiburg,12.0,8.0,5.718,8.059,29.51,0,Elite / Top Performers
+163,770881,Achraf Hakimi,Right Back,Paris Saint-Germain,4.0,17.0,6.8283018867924525,8.014150943396228,29.34,0,Elite / Top Performers
+164,574645,Mikel Merino,Central Midfielder,Arsenal,15.0,3.0,5.812068965517242,8.00603448275862,29.31,3,Goal-Oriented Players
+165,1684401,Kerim Alajbegovic,Left Winger,Bayer Leverkusen,13.0,6.0,5.786666666666666,7.993333333333333,29.27,0,Elite / Top Performers
+166,1471333,Relebohile Mofokeng,Attacking Midfielder,Union St.Gilloise,11.0,8.0,6.152083333333334,7.976041666666667,29.2,2,Creative / Attacking Players
+167,1305618,Maghnes Akliouche,Right Winger,Monaco,9.0,12.0,5.729230769230769,7.964615384615385,29.16,0,Elite / Top Performers
+168,813055,Mousa Tamari,Left Midfielder,Rennes,8.0,12.0,6.323404255319147,7.961702127659574,29.15,0,Elite / Top Performers
+169,1053736,Elijah Just,Attacking Midfielder,Motherwell,11.0,7.0,6.506,7.953,29.12,2,Creative / Attacking Players
+170,863098,Matheus Cunha,Striker,Manchester United,13.0,3.0,6.788461538461538,7.894230769230768,28.9,0,Elite / Top Performers
+171,659272,Julian Ryerson,Right Wing-Back,Borussia Dortmund,0.0,23.0,6.52063492063492,7.860317460317461,28.78,0,Elite / Top Performers
+172,557677,Nikola Vlasic,Attacking Midfielder,Torino,12.0,5.0,6.50925925925926,7.854629629629629,28.76,2,Creative / Attacking Players
+173,324578,Rodrigo De Paul,Central Midfielder,Inter Miami CF,6.0,12.0,7.28103448275862,7.84051724137931,28.71,0,Elite / Top Performers
+174,208494,Casemiro,Defensive Midfielder,,12.0,4.0,6.861111111111111,7.830555555555555,28.67,3,Goal-Oriented Players
+175,988749,Soufiane Rahimi,Striker,Al-Ain,13.0,7.0,5.053846153846153,7.826923076923077,28.66,0,Elite / Top Performers
+175,303824,Memphis Depay,Striker,Corinthians,12.0,5.0,6.454166666666667,7.827083333333332,28.66,0,Elite / Top Performers
+177,776184,Brandon Thomas-Asante,Left Winger,Coventry City,13.0,5.0,5.834090909090909,7.817045454545454,28.62,0,Elite / Top Performers
+178,1359536,Ali Ahmed,Left Winger,Norwich City,8.0,10.0,6.8040816326530615,7.802040816326531,28.57,0,Elite / Top Performers
+179,526827,Konrad Laimer,Right Back,Bayern München,5.0,14.0,6.9630769230769225,7.781538461538462,28.49,0,Elite / Top Performers
+180,1023030,Jhon Arias,Left Winger,Palmeiras,13.0,3.0,6.555223880597015,7.777611940298508,28.48,2,Creative / Attacking Players
+181,1287871,Zakaria El Ouahdi,Right Back,Genk,12.0,5.0,6.330909090909092,7.765454545454546,28.43,2,Creative / Attacking Players
+182,818975,Eberechi Eze,Attacking Midfielder,Arsenal,12.0,6.0,5.914285714285716,7.757142857142857,28.4,0,Elite / Top Performers
+183,604044,Junya Ito,Left Winger,Genk,9.0,8.0,6.848979591836734,7.724489795918366,28.28,2,Creative / Attacking Players
+184,209405,Virgil van Dijk,Center Back,Liverpool,11.0,4.0,7.191428571428571,7.695714285714286,28.18,3,Goal-Oriented Players
+185,1033279,Isidro Pitta,Striker,Red Bull Bragantino,12.0,6.0,5.783673469387755,7.691836734693877,28.16,0,Elite / Top Performers
+186,597976,Jesús Gallardo,Left Back,Toluca,10.0,6.0,6.9375,7.66875,28.08,0,Elite / Top Performers
+187,1061249,Vitinha,Central Midfielder,Paris Saint-Germain,7.0,10.0,7.111764705882352,7.655882352941176,28.03,2,Creative / Attacking Players
+188,1031656,Maxi Araújo,Left Back,Sporting CP,9.0,7.0,7.099999999999999,7.649999999999999,28.01,0,Elite / Top Performers
+189,819972,Cherif Ndiaye,Striker,Samsunspor,16.0,3.0,4.48421052631579,7.6421052631578945,27.98,3,Goal-Oriented Players
+190,1680173,Ayoube Amaimouni-Echghouyab,Right Winger,Eintracht Frankfurt,11.0,8.0,5.48,7.639999999999999,27.97,0,Elite / Top Performers
+191,536455,Gonçalo Guedes,Left Winger,Real Sociedad,11.0,8.0,5.443137254901961,7.62156862745098,27.91,0,Elite / Top Performers
+192,1083323,Pedri,Defensive Midfielder,Barcelona,5.0,12.0,7.369841269841269,7.5849206349206355,27.77,2,Creative / Attacking Players
+193,950561,Darwin Núñez,Striker,Al Hilal,10.0,6.0,6.71875,7.559375,27.68,3,Goal-Oriented Players
+194,574077,Ismael Díaz,Left Winger,Leon,11.0,6.0,6.1090909090909085,7.554545454545454,27.66,0,Elite / Top Performers
+195,965764,Iliman Ndiaye,Right Winger,Everton,10.0,7.0,6.292857142857144,7.546428571428573,27.63,0,Elite / Top Performers
+196,848266,Weston McKennie,Right Wing-Back,Juventus,10.0,6.0,6.6390625000000005,7.519531250000001,27.53,3,Goal-Oriented Players
+197,1670377,Gilberto Mora,Central Midfielder,Tijuana,12.0,3.0,6.623684210526315,7.511842105263158,27.5,2,Creative / Attacking Players
+198,1320444,Álex Arce,Striker,Independiente Rivadavia,16.0,1.0,5.004545454545455,7.502272727272728,27.47,3,Goal-Oriented Players
+199,465960,Youri Tielemans,Defensive Midfielder,Manchester United,7.0,10.0,6.792592592592592,7.496296296296296,27.45,0,Elite / Top Performers
+200,1426403,Mostafa Ziko,Left Winger,Pyramids FC,13.0,5.0,5.180851063829787,7.490425531914894,27.43,2,Creative / Attacking Players
+201,1210929,Nadir Benbouali,Striker,Györi ETO,19.0,5.0,1.548888888888889,7.474444444444445,27.37,1,Low-Performance Players
+202,1348329,Max Arfsten,Left Wing-Back,Columbus Crew,8.0,9.0,6.522448979591836,7.461224489795918,27.32,0,Elite / Top Performers
+203,1316930,Jordan Bos,Left Back,Feyenoord,7.0,10.0,6.68627450980392,7.44313725490196,27.25,0,Elite / Top Performers
+204,1342757,João Neves,Central Midfielder,Paris Saint-Germain,11.0,4.0,6.674074074074074,7.437037037037037,27.23,2,Creative / Attacking Players
+205,728365,Alexis Vega,Left Winger,Toluca,5.0,14.0,6.267391304347825,7.433695652173913,27.22,0,Elite / Top Performers
+206,831489,Alexis Mac Allister,Defensive Midfielder,Liverpool,8.0,8.0,6.832857142857143,7.416428571428572,27.16,2,Creative / Attacking Players
+207,1367924,Can Uzun,Attacking Midfielder,Eintracht Frankfurt,11.0,6.0,5.828205128205129,7.414102564102564,27.15,0,Elite / Top Performers
+208,582499,Kieran Tierney,Left Back,Celtic,7.0,12.0,5.797014925373135,7.398507462686569,27.09,0,Elite / Top Performers
+209,1186770,Parfait Guiagon,Left Winger,Sporting Charleroi,12.0,6.0,5.1269230769230765,7.363461538461538,26.96,2,Creative / Attacking Players
+210,1354561,Diego Gómez,Attacking Midfielder,Brighton & Hove Albion,12.0,2.0,6.717307692307693,7.358653846153846,26.94,2,Creative / Attacking Players
+211,750027,Brahim Díaz,Right Winger,Real Madrid,8.0,11.0,5.478571428571428,7.339285714285714,26.87,2,Creative / Attacking Players
+212,534670,Martin Ødegaard,Central Midfielder,Arsenal,5.0,13.0,6.463461538461539,7.33173076923077,26.84,0,Elite / Top Performers
+213,198316,Michael Gregoritsch,Striker,Augsburg,12.0,5.0,5.457446808510638,7.328723404255319,26.83,3,Goal-Oriented Players
+214,196311,Vladimír Darida,Central Midfielder,Hradec Kralove,11.0,4.0,6.439024390243903,7.319512195121951,26.8,2,Creative / Attacking Players
+215,446266,Mario Pasalic,Defensive Midfielder,Atalanta,11.0,6.0,5.631428571428572,7.315714285714286,26.79,3,Goal-Oriented Players
+216,1070052,Amad Diallo,Right Winger,Manchester United,10.0,6.0,6.163636363636364,7.281818181818182,26.66,2,Creative / Attacking Players
+217,530635,Patrick Berg,Central Midfielder,Bodø/Glimt,5.0,12.0,6.741935483870969,7.270967741935484,26.62,0,Elite / Top Performers
+218,183500,Leandro Bacuna,Central Midfielder,Igdir FK,10.0,5.0,6.501999999999999,7.250999999999999,26.55,3,Goal-Oriented Players
+219,821100,Jørgen Strand Larsen,Striker,Crystal Palace,13.0,3.0,5.498484848484848,7.249242424242423,26.54,3,Goal-Oriented Players
+220,1252913,Damián Bobadilla,Defensive Midfielder,Sao Paulo,8.0,8.0,6.488405797101449,7.244202898550725,26.52,0,Elite / Top Performers
+220,1174630,Richard Ríos,Defensive Midfielder,Benfica,8.0,7.0,6.886885245901639,7.24344262295082,26.52,2,Creative / Attacking Players
+222,1132960,Ramón Sosa,Left Winger,Palmeiras,11.0,6.0,5.44,7.22,26.44,2,Creative / Attacking Players
+223,1248482,Antonio Nusa,Left Winger,RB Leipzig,9.0,6.0,6.637735849056604,7.218867924528301,26.43,2,Creative / Attacking Players
+224,921341,Alexis Saelemaekers,Right Midfielder,Milan,5.0,12.0,6.632203389830509,7.216101694915254,26.42,0,Elite / Top Performers
+225,207617,Juan Fernando Quintero,Attacking Midfielder,River Plate,6.0,11.0,6.396428571428571,7.198214285714285,26.36,2,Creative / Attacking Players
+226,941213,Crysencio Summerville,Left Winger,West Ham United,9.0,5.0,6.967499999999999,7.18375,26.3,2,Creative / Attacking Players
+227,1300526,Nico O'Reilly,Left Back,Manchester City,9.0,6.0,6.489999999999999,7.145,26.16,3,Goal-Oriented Players
+228,215151,Marcel Sabitzer,Defensive Midfielder,Borussia Dortmund,8.0,8.0,6.26,7.129999999999999,26.11,2,Creative / Attacking Players
+229,1213430,Elye Wahi,Striker,Eintracht Frankfurt,12.0,5.0,5.058333333333334,7.129166666666666,26.1,0,Elite / Top Performers
+230,1184468,Thelo Aasgaard,Attacking Midfielder,Rangers,11.0,6.0,5.245312500000001,7.12265625,26.08,3,Goal-Oriented Players
+231,1289611,Tshepang Moremi,Left Winger,Orlando Pirates,10.0,7.0,5.430769230769229,7.115384615384615,26.05,2,Creative / Attacking Players
+231,15403,Edin Dzeko,Striker,,13.0,3.0,5.230188679245283,7.115094339622642,26.05,3,Goal-Oriented Players
+233,844226,Firas Al-Buraikan,Striker,Al Ahli,13.0,1.0,6.000000000000001,7.1000000000000005,26.0,2,Creative / Attacking Players
+234,749488,Romano Schmid,Attacking Midfielder,Werder Bremen,6.0,9.0,6.971428571428572,7.085714285714285,25.94,2,Creative / Attacking Players
+235,164684,James Rodríguez,Attacking Midfielder,Minnesota United,5.0,11.0,6.758536585365854,7.079268292682927,25.92,0,Elite / Top Performers
+236,868344,Tijjani Reijnders,Attacking Midfielder,Manchester City,9.0,8.0,5.535714285714286,7.067857142857143,25.88,0,Elite / Top Performers
+237,1287010,Nilson Angulo,Left Winger,Sunderland,10.0,5.0,6.113207547169812,7.056603773584905,25.84,2,Creative / Attacking Players
+238,1032811,Federico Viñas,Striker,Leon,10.0,4.0,6.511111111111111,7.055555555555555,25.83,3,Goal-Oriented Players
+239,1226147,Giuliano Simeone,Right Midfielder,Atletico Madrid,8.0,8.0,6.104285714285715,7.052142857142858,25.82,2,Creative / Attacking Players
+240,915797,Noah Okafor,Left Winger,Leeds United,12.0,4.0,5.295918367346939,7.047959183673469,25.81,3,Goal-Oriented Players
+241,532766,Zizo,Right Winger,Al Ahly SC,6.0,13.0,5.277083333333334,7.038541666666667,25.77,0,Elite / Top Performers
+242,1158945,Nuno Mendes,Left Back,Paris Saint-Germain,7.0,8.0,6.583050847457628,6.991525423728813,25.6,0,Elite / Top Performers
+243,940333,José Luis Rodríguez,Left Winger,FC Juarez,5.0,11.0,6.57090909090909,6.985454545454545,25.58,0,Elite / Top Performers
+244,1404414,Azarías Londoño,Right Winger,Universidad Catolica,7.0,10.0,5.726666666666668,6.963333333333334,25.5,3,Goal-Oriented Players
+245,1230848,Bamba Dieng,Striker,Lorient,15.0,1.0,4.525,6.9625,25.49,2,Creative / Attacking Players
+246,629805,Ritsu Doan,Right Winger,Eintracht Frankfurt,8.0,6.0,6.692592592592592,6.946296296296296,25.43,2,Creative / Attacking Players
+247,599353,Ché Adams,Striker,Torino,12.0,2.0,5.886792452830187,6.943396226415094,25.42,2,Creative / Attacking Players
+248,860752,Rubén Vargas,Left Winger,Sevilla,6.0,10.0,6.266666666666667,6.933333333333334,25.39,2,Creative / Attacking Players
+249,1302121,Brian Cipenga,Left Winger,Almeria,7.0,11.0,5.23404255319149,6.917021276595745,25.33,2,Creative / Attacking Players
+250,724371,Theo Hernández,Left Back,Al Hilal,9.0,5.0,6.431746031746032,6.915873015873016,25.32,3,Goal-Oriented Players
+251,940087,Gonçalo Ramos,Striker,Milan,14.0,2.0,4.6242857142857146,6.912142857142857,25.31,3,Goal-Oriented Players
+252,163205,Gaël Kakuta,Striker,AE Larissa,11.0,5.0,5.220454545454546,6.910227272727273,25.3,2,Creative / Attacking Players
+253,1073143,Azzedine Ounahi,Attacking Midfielder,Girona,9.0,4.0,6.811904761904761,6.90595238095238,25.29,2,Creative / Attacking Players
+254,844544,Pape Gueye,Central Midfielder,Villarreal,11.0,3.0,5.99375,6.896875,25.25,3,Goal-Oriented Players
+255,1441786,Sidny Lopes Cabral,Left Back,Trabzonspor,9.0,8.0,5.106976744186047,6.853488372093024,25.09,2,Creative / Attacking Players
+256,1300385,Amar Memic,Right Wing-Back,Viktoria Plzen,4.0,12.0,6.491228070175439,6.84561403508772,25.07,2,Creative / Attacking Players
+257,988769,Mojmír Chytil,Striker,Slavia Prague,14.0,2.0,4.43,6.815,24.95,3,Goal-Oriented Players
+258,154280,Jordan Ayew,Striker,Leicester City,10.0,6.0,5.139344262295081,6.769672131147541,24.79,3,Goal-Oriented Players
+259,956683,Ryan Gravenberch,Defensive Midfielder,Liverpool,6.0,8.0,6.704411764705883,6.752205882352941,24.72,3,Goal-Oriented Players
+260,839204,Omar Marmoush,Striker,Manchester City,13.0,3.0,4.490625,6.745312499999999,24.7,2,Creative / Attacking Players
+261,806669,David Raum,Left Back,RB Leipzig,4.0,11.0,6.684313725490195,6.742156862745098,24.69,2,Creative / Attacking Players
+262,1406729,Endrick,Right Winger,Lyon,9.0,9.0,4.479166666666667,6.739583333333333,24.68,2,Creative / Attacking Players
+263,1327214,Nestory Irankunda,Striker,Watford,9.0,4.0,6.419298245614035,6.709649122807018,24.57,2,Creative / Attacking Players
+264,844425,Marc Guéhi,Center Back,Manchester City,6.0,7.0,6.971428571428571,6.685714285714285,24.48,3,Goal-Oriented Players
+265,1015128,Elias Achouri,Left Midfielder,FC København,7.0,7.0,6.364000000000001,6.682,24.47,2,Creative / Attacking Players
+266,980311,Gonzalo Plata,Right Winger,Flamengo,6.0,9.0,6.162857142857142,6.681428571428571,24.46,2,Creative / Attacking Players
+267,1116042,Fiston Mayele,Striker,Pyramids FC,12.0,3.0,4.951785714285714,6.675892857142857,24.44,3,Goal-Oriented Players
+268,1624586,Bazoumana Touré,Left Winger,Newcastle United,7.0,10.0,5.122641509433962,6.661320754716981,24.39,0,Elite / Top Performers
+269,1457626,Ibrahim Maza,Attacking Midfielder,Bayer Leverkusen,7.0,7.0,6.319402985074627,6.659701492537314,24.38,2,Creative / Attacking Players
+270,845336,Firas Chaouat,Striker,Club Africain,18.0,1.0,2.063636363636364,6.631818181818182,24.28,1,Low-Performance Players
+271,619824,Sultan Mandash,Right Winger,Al Hilal,10.0,6.0,4.835999999999999,6.617999999999999,24.23,2,Creative / Attacking Players
+272,866373,Mohamed Kanno,Central Midfielder,Al Hilal,8.0,5.0,6.418749999999999,6.609375,24.2,3,Goal-Oriented Players
+273,361757,João Cancelo,Left Back,Al Hilal,5.0,9.0,6.584782608695652,6.592391304347825,24.14,2,Creative / Attacking Players
+273,1156141,Jamal Musiala,Attacking Midfielder,Bayern München,7.0,6.0,6.583870967741936,6.5919354838709685,24.14,2,Creative / Attacking Players
+275,207236,Granit Xhaka,Defensive Midfielder,Sunderland,5.0,8.0,6.969811320754719,6.584905660377359,24.11,3,Goal-Oriented Players
+276,859282,Daniel Muñoz,Right Wing-Back,Crystal Palace,8.0,4.0,6.755737704918033,6.577868852459017,24.08,2,Creative / Attacking Players
+276,858198,Sasa Kalajdzic,Striker,Wolverhampton Wanderers,8.0,9.0,4.751162790697674,6.575581395348837,24.08,3,Goal-Oriented Players
+278,926484,Mohanad Ali,Striker,Dibba Al Fujairah,12.0,1.0,5.513513513513513,6.556756756756756,24.01,3,Goal-Oriented Players
+279,1199383,Ange-Yoan Bonny,Striker,Inter,8.0,7.0,5.48135593220339,6.540677966101695,23.95,3,Goal-Oriented Players
+280,1272349,Elliot Stroud,Left Midfielder,Mjällby,10.0,2.0,6.258064516129033,6.529032258064516,23.91,3,Goal-Oriented Players
+281,750033,George Hirst,Striker,Ipswich Town,11.0,3.0,5.237931034482758,6.518965517241378,23.87,3,Goal-Oriented Players
+282,312159,Cecilio Waterman,Striker,Universidad de Concepcion,11.0,2.0,5.62,6.51,23.84,3,Goal-Oriented Players
+283,365245,Edmílson Junior,Right Winger,Al-Duhail SC,7.0,6.0,6.404651162790699,6.5023255813953496,23.81,2,Creative / Attacking Players
+284,195927,Enner Valencia,Striker,,11.0,1.0,5.972727272727273,6.486363636363636,23.75,2,Creative / Attacking Players
+284,1444231,Matias Fernandez-Pardo,Striker,Lille,8.0,6.0,5.771698113207547,6.485849056603773,23.75,2,Creative / Attacking Players
+286,544312,Cyle Larin,Striker,Southampton,12.0,2.0,4.9603773584905655,6.480188679245282,23.73,3,Goal-Oriented Players
+287,1134467,Yuito Suzuki,Attacking Midfielder,Freiburg,9.0,5.0,5.557142857142858,6.478571428571429,23.72,2,Creative / Attacking Players
+288,1353421,Andrés Gómez,Left Winger,Vasco da Gama,5.0,10.0,5.921538461538462,6.46076923076923,23.66,2,Creative / Attacking Players
+289,1126058,Malik Tillman,Attacking Midfielder,Bayer Leverkusen,10.0,2.0,6.116981132075471,6.458490566037735,23.65,3,Goal-Oriented Players
+290,1211610,Augustine Boakye,Right Winger,Saint-Etienne,5.0,9.0,6.187179487179487,6.393589743589744,23.41,2,Creative / Attacking Players
+291,1338740,Tani Oluwaseyi,Striker,Villarreal,10.0,5.0,4.7714285714285705,6.385714285714285,23.38,3,Goal-Oriented Players
+292,727837,Koki Ogawa,Striker,NEC Nijmegen,11.0,4.0,4.559615384615385,6.3798076923076925,23.36,2,Creative / Attacking Players
+293,401095,Rodrigo Aguirre,Striker,Tigres,9.0,4.0,5.7566037735849065,6.378301886792452,23.35,3,Goal-Oriented Players
+294,593118,Denzel Dumfries,Right Midfielder,Real Madrid,6.0,7.0,6.351162790697675,6.375581395348838,23.34,3,Goal-Oriented Players
+295,1452385,Christopher Bonsu Baah,Left Midfielder,Al Qadsiah,3.0,13.0,5.7176470588235295,6.358823529411765,23.28,2,Creative / Attacking Players
+295,310768,Fredrik Aursnes,Defensive Midfielder,Benfica,4.0,8.0,7.113793103448276,6.356896551724137,23.28,2,Creative / Attacking Players
+297,776159,Ross Stewart,Striker,Southampton,11.0,3.0,4.897435897435898,6.348717948717949,23.25,3,Goal-Oriented Players
+298,352879,Adrien Rabiot,Central Midfielder,Milan,7.0,5.0,6.484615384615385,6.342307692307692,23.22,3,Goal-Oriented Players
+298,784834,Jorge Carrascal,Right Winger,Flamengo,5.0,10.0,5.681428571428571,6.340714285714285,23.22,2,Creative / Attacking Players
+300,1185336,Francisco Conceição,Right Winger,Juventus,7.0,6.0,6.079365079365079,6.339682539682539,23.21,2,Creative / Attacking Players
+300,1395704,Guéla Doué,Right Back,Strasbourg,4.0,9.0,6.68,6.34,23.21,3,Goal-Oriented Players
+302,1272440,Valentín Barco,Defensive Midfielder,Strasbourg,5.0,9.0,6.036842105263158,6.318421052631579,23.13,2,Creative / Attacking Players
+303,621946,Cristian Roldan,Defensive Midfielder,Seattle Sounders FC,3.0,10.0,6.812765957446807,6.306382978723404,23.09,2,Creative / Attacking Players
+304,1137059,Evidence Makgopa,Striker,Orlando Pirates,9.0,5.0,5.159183673469388,6.279591836734694,22.99,3,Goal-Oriented Players
+305,351999,Wout Weghorst,Striker,FC Twente,9.0,4.0,5.546808510638299,6.273404255319149,22.97,3,Goal-Oriented Players
+306,1215064,Martin Baturina,Left Winger,Como,10.0,4.0,4.910526315789474,6.255263157894737,22.9,2,Creative / Attacking Players
+307,1170238,Brian Gutiérrez,Central Midfielder,Chivas,7.0,4.0,6.702173913043478,6.251086956521739,22.89,2,Creative / Attacking Players
+307,1342754,Diego Moreira,Right Winger,Strasbourg,6.0,8.0,5.705263157894737,6.252631578947367,22.89,2,Creative / Attacking Players
+309,1014688,Alexander Bernhardsson,Right Wing-Back,Holstein Kiel,4.0,9.0,6.479411764705882,6.239705882352941,22.85,3,Goal-Oriented Players
+310,643682,Adalberto Carrasquilla,Central Midfielder,Pumas,5.0,7.0,6.650943396226415,6.225471698113208,22.79,2,Creative / Attacking Players
+311,1241302,Gilson Benchimol,Striker,Akron Togliatti,13.0,0.0,4.64375,6.221875,22.78,2,Creative / Attacking Players
+312,1418122,Jeremy Arévalo,Striker,VfB Stuttgart II,13.0,2.0,3.822727272727272,6.211363636363636,22.74,2,Creative / Attacking Players
+313,1232560,Hyun-Jun Yang,Right Winger,Celtic,11.0,2.0,4.9967741935483865,6.198387096774193,22.7,2,Creative / Attacking Players
+313,950824,Josip Stanisic,Right Back,Bayern München,3.0,9.0,7.0,6.2,22.7,3,Goal-Oriented Players
+315,442277,Miguel Almirón,Left Winger,Atlanta United,5.0,6.0,6.96111111111111,6.180555555555555,22.63,2,Creative / Attacking Players
+315,1345875,Farès Chaïbi,Defensive Midfielder,Eintracht Frankfurt,4.0,10.0,5.959016393442622,6.179508196721311,22.63,2,Creative / Attacking Players
+317,1022649,Dan Ndoye,Right Winger,Nottingham Forest,9.0,4.0,5.348437499999999,6.174218749999999,22.61,3,Goal-Oriented Players
+318,720737,Roberto Alvarado,Attacking Midfielder,Chivas,4.0,8.0,6.728846153846154,6.164423076923077,22.57,2,Creative / Attacking Players
+319,643232,Kenji Gorré,Left Winger,Maccabi Haifa,6.0,7.0,5.886486486486485,6.143243243243242,22.49,2,Creative / Attacking Players
+320,940446,Brian Brobbey,Striker,Sunderland,10.0,2.0,5.472340425531915,6.136170212765958,22.47,2,Creative / Attacking Players
+321,1395447,Nathaniel Brown,Left Back,Bayern München,5.0,7.0,6.4490566037735855,6.124528301886793,22.42,2,Creative / Attacking Players
+322,352358,Brandley Kuwas,Striker,FC Volendam,7.0,5.0,6.03720930232558,6.118604651162791,22.4,2,Creative / Attacking Players
+323,237606,Leandro Paredes,Central Midfielder,Boca Juniors,4.0,7.0,7.028846153846154,6.114423076923077,22.39,2,Creative / Attacking Players
+324,789066,Cristian Romero,Center Back,Tottenham Hotspur,7.0,3.0,6.824999999999999,6.112499999999999,22.38,3,Goal-Oriented Players
+325,1553105,Víctor Muñoz,Left Winger,Liverpool,8.0,5.0,5.420408163265306,6.110204081632653,22.37,2,Creative / Attacking Players
+326,979376,Emam Ashour,Attacking Midfielder,Al Ahly SC,4.0,8.0,6.611111111111111,6.105555555555556,22.36,2,Creative / Attacking Players
+327,1202110,Nico Williams,Left Winger,Athletic Club,6.0,6.0,6.15,6.075,22.24,2,Creative / Attacking Players
+328,505281,Saeid Ezatolahi,Defensive Midfielder,Shabab Al-Ahli Dubai FC,8.0,2.0,6.524390243902439,6.06219512195122,22.2,3,Goal-Oriented Players
+329,1084981,Noni Madueke,Right Winger,Arsenal,9.0,3.0,5.503030303030304,6.051515151515151,22.16,2,Creative / Attacking Players
+330,289441,Jürgen Locadia,Striker,Miami FC,7.0,3.0,6.7,6.050000000000001,22.15,3,Goal-Oriented Players
+331,1026781,Gue-Sung Cho,Striker,FC Midtjylland,10.0,1.0,5.687272727272728,6.043636363636364,22.13,3,Goal-Oriented Players
+332,1089691,Elliot Anderson,Defensive Midfielder,Manchester City,4.0,6.0,7.28,6.04,22.12,2,Creative / Attacking Players
+333,307317,Vladimír Coufal,Right Back,Hoffenheim,2.0,10.0,6.873913043478261,6.03695652173913,22.1,2,Creative / Attacking Players
+334,687008,Gonzalo Montiel,Right Back,River Plate,9.0,2.0,5.866666666666667,6.033333333333333,22.09,2,Creative / Attacking Players
+335,1291391,Mahmoud Saber,Central Midfielder,Pyramids FC,8.0,7.0,4.428846153846154,6.014423076923077,22.02,2,Creative / Attacking Players
+336,1603755,Gessime Yassine,Right Winger,Strasbourg,5.0,10.0,5.0245614035087725,6.012280701754387,22.01,2,Creative / Attacking Players
+337,848361,Teboho Mokoena,Defensive Midfielder,Mamelodi Sundowns FC,8.0,2.0,6.4,6.0,21.97,2,Creative / Attacking Players
+338,1489449,Joaquin Seys,Left Back,Club Brugge,5.0,8.0,5.784285714285715,5.992142857142857,21.94,2,Creative / Attacking Players
+339,1346860,Esmir Bajraktarevic,Right Winger,PSV Eindhoven,8.0,5.0,5.159677419354838,5.979838709677419,21.9,2,Creative / Attacking Players
+340,966019,Felix Nmecha,Defensive Midfielder,Borussia Dortmund,6.0,4.0,6.749090909090908,5.974545454545454,21.88,3,Goal-Oriented Players
+341,622980,Kim Jin-Gyu,Attacking Midfielder,Jeonbuk Hyundai Motors FC,6.0,5.0,6.334,5.967,21.85,2,Creative / Attacking Players
+342,1168311,Yasin Ayari,Defensive Midfielder,Brighton & Hove Albion,7.0,5.0,5.725999999999999,5.962999999999999,21.83,2,Creative / Attacking Players
+343,523749,Jae-Sung Lee,Central Midfielder,Mainz 05,6.0,5.0,6.301960784313726,5.950980392156863,21.79,2,Creative / Attacking Players
+344,1338361,Besfort Zeneli,Central Midfielder,Union St.Gilloise,4.0,9.0,5.880487804878049,5.940243902439025,21.75,3,Goal-Oriented Players
+345,1059490,Mauricio,Attacking Midfielder,Palmeiras,5.0,8.0,5.612857142857143,5.906428571428572,21.63,2,Creative / Attacking Players
+346,445873,Brandon Mechele,Center Back,Club Brugge,8.0,2.0,6.188571428571429,5.894285714285715,21.58,3,Goal-Oriented Players
+347,1528815,Ermin Mahmic,Attacking Midfielder,Slovan Liberec,10.0,3.0,4.575,5.887499999999999,21.56,3,Goal-Oriented Players
+348,861668,Dejan Ljubicic,Right Winger,Schalke 04,6.0,6.0,5.689130434782609,5.844565217391304,21.4,3,Goal-Oriented Players
+349,277771,Thomas Meunier,Right Back,Sunderland,4.0,7.0,6.445098039215687,5.822549019607844,21.32,3,Goal-Oriented Players
+349,1161211,Fabian Rieder,Attacking Midfielder,Augsburg,6.0,5.0,6.048076923076922,5.824038461538461,21.32,2,Creative / Attacking Players
+349,940976,Kang-In Lee,Central Midfielder,Paris Saint-Germain,4.0,8.0,6.046551724137931,5.823275862068966,21.32,2,Creative / Attacking Players
+352,1477417,Denil Castillo,Central Midfielder,FC Midtjylland,6.0,6.0,5.621666666666667,5.810833333333334,21.28,3,Goal-Oriented Players
+353,892816,Sergiño Dest,Right Back,PSV Eindhoven,3.0,7.0,7.018,5.809,21.27,2,Creative / Attacking Players
+354,641121,Shahriyar Moghanloo,Striker,Al Ittihad Kalba,8.0,2.0,5.993548387096775,5.796774193548387,21.22,3,Goal-Oriented Players
+355,825593,Francis de Vries,Left Back,Auckland FC,1.0,10.0,6.984999999999999,5.7925,21.21,3,Goal-Oriented Players
+356,1053963,Juan Sanabria,Left Back,Real Salt Lake,3.0,9.0,6.173809523809524,5.786904761904762,21.19,2,Creative / Attacking Players
+357,1436305,Lamine Camara,Defensive Midfielder,Monaco,5.0,5.0,6.56923076923077,5.784615384615385,21.18,2,Creative / Attacking Players
+358,881500,Lyle Foster,Striker,Burnley,6.0,6.0,5.478260869565218,5.739130434782608,21.01,2,Creative / Attacking Players
+359,795179,Gabriel,Center Back,Arsenal,4.0,6.0,6.657575757575758,5.728787878787879,20.98,3,Goal-Oriented Players
+360,1049799,Nathanaël Mbuku,Left Winger,Augsburg,6.0,5.0,5.85625,5.728125,20.97,2,Creative / Attacking Players
+361,1031319,Amirhossein Hosseinzadeh,Striker,Tractor,14.0,2.0,2.2075,5.70375,20.88,1,Low-Performance Players
+362,558539,Guillermo Martínez,Striker,Pumas,10.0,0.0,5.397619047619048,5.698809523809524,20.87,3,Goal-Oriented Players
+363,600850,Alejandro Romero,Central Midfielder,Al-Ain,5.0,8.0,5.164102564102564,5.682051282051281,20.8,2,Creative / Attacking Players
+364,1202885,Denis Visinsky,Left Winger,Viktoria Plzen,10.0,1.0,4.949999999999999,5.675,20.78,2,Creative / Attacking Players
+365,638622,Frenkie de Jong,Defensive Midfielder,Barcelona,1.0,10.0,6.716666666666668,5.658333333333333,20.72,2,Creative / Attacking Players
+366,559065,Ramy Bensebaini,Center Back,Borussia Dortmund,7.0,3.0,5.911111111111113,5.655555555555557,20.71,3,Goal-Oriented Players
+367,785716,Jovane Cabral,Left Winger,Gremio,8.0,1.0,6.074285714285714,5.637142857142857,20.64,2,Creative / Attacking Players
+367,604105,Iñaki Williams,Right Winger,Athletic Club,5.0,6.0,5.8740000000000006,5.6370000000000005,20.64,3,Goal-Oriented Players
+369,941573,Pedro Porro,Right Back,Tottenham Hotspur,4.0,5.0,6.857971014492755,5.6289855072463775,20.61,2,Creative / Attacking Players
+370,1242314,Lenny Joseph,Striker,Ferencvaros,12.0,3.0,2.851785714285714,5.625892857142857,20.6,1,Low-Performance Players
+370,1220549,Tete Yengi,Striker,Machida Zelvia,9.0,1.0,5.45,5.625,20.6,3,Goal-Oriented Players
+372,1047676,Yéremi Pino,Attacking Midfielder,Crystal Palace,6.0,5.0,5.6485714285714295,5.6242857142857146,20.59,2,Creative / Attacking Players
+373,1288146,Stepán Chaloupek,Center Back,Slavia Prague,9.0,2.0,5.033333333333333,5.616666666666667,20.57,3,Goal-Oriented Players
+374,1107280,Pape Sarr,Central Midfielder,Tottenham Hotspur,7.0,4.0,5.431746031746031,5.615873015873016,20.56,2,Creative / Attacking Players
+375,1002058,Nico Schlotterbeck,Center Back,Borussia Dortmund,6.0,1.0,7.185416666666666,5.592708333333333,20.48,3,Goal-Oriented Players
+375,707970,Djibril Sow,Central Midfielder,Sevilla,6.0,5.0,5.587272727272728,5.593636363636364,20.48,3,Goal-Oriented Players
+377,1615927,Caleb Yirenkyi,Central Midfielder,Nordsjælland,4.0,6.0,6.382978723404256,5.591489361702128,20.47,3,Goal-Oriented Players
+378,675762,Ajdin Hrustic,Central Midfielder,Heracles,4.0,7.0,5.954761904761905,5.5773809523809526,20.42,2,Creative / Attacking Players
+379,316544,Irfan Kahveci,Right Winger,Fenerbahçe,7.0,4.0,5.317391304347826,5.558695652173912,20.35,2,Creative / Attacking Players
+380,1130583,Samú,Defensive Midfielder,Mallorca,7.0,2.0,6.104255319148937,5.552127659574468,20.33,2,Creative / Attacking Players
+381,488139,Bernardo Silva,Attacking Midfielder,Real Madrid,4.0,6.0,6.252857142857144,5.526428571428572,20.23,2,Creative / Attacking Players
+382,1033111,Kaishu Sano,Central Midfielder,Mainz 05,3.0,6.0,6.81639344262295,5.508196721311475,20.17,2,Creative / Attacking Players
+382,1685596,Rayan Elloumi,Striker,Vancouver Whitecaps,8.0,5.0,4.218367346938775,5.509183673469387,20.17,3,Goal-Oriented Players
+384,1736527,Alexandro Maidana,Left Back,Talleres,7.0,1.0,6.381818181818182,5.490909090909091,20.1,2,Creative / Attacking Players
+385,605654,Fabián Ruiz,Central Midfielder,Paris Saint-Germain,3.0,6.0,6.771111111111111,5.485555555555556,20.09,3,Goal-Oriented Players
+386,690107,Alexander Isak,Striker,Liverpool,6.0,4.0,5.708333333333333,5.454166666666667,19.97,3,Goal-Oriented Players
+387,201939,Cédric Bakambu,Striker,Real Betis,9.0,5.0,3.5016129032258063,5.450806451612903,19.96,2,Creative / Attacking Players
+388,666857,Yoane Wissa,Striker,Newcastle United,8.0,3.0,4.879069767441861,5.439534883720929,19.92,2,Creative / Attacking Players
+389,1074967,Ramiz Zerrouki,Defensive Midfielder,Feyenoord,3.0,7.0,6.248076923076923,5.424038461538462,19.86,2,Creative / Attacking Players
+390,1055316,Anis Ben Slimane,Attacking Midfielder,Norwich City,5.0,6.0,5.44102564102564,5.42051282051282,19.85,3,Goal-Oriented Players
+391,1097466,Micky van de Ven,Center Back,Tottenham Hotspur,7.0,1.0,6.237878787878787,5.418939393939394,19.84,3,Goal-Oriented Players
+392,621515,Daichi Kamada,Defensive Midfielder,Crystal Palace,4.0,4.0,6.810000000000001,5.405,19.79,2,Creative / Attacking Players
+392,566187,Ali Abdi,Left Back,Nice,6.0,3.0,6.01,5.404999999999999,19.79,2,Creative / Attacking Players
+394,1028896,Ali Olwan,Striker,Al-Sailiya,9.0,0.0,5.4,5.4,19.77,3,Goal-Oriented Players
+395,190851,Kenny McLean,Defensive Midfielder,Norwich City,4.0,5.0,6.393103448275863,5.396551724137932,19.76,2,Creative / Attacking Players
+396,970563,Quinten Timber,Defensive Midfielder,Marseille,5.0,4.0,6.184615384615384,5.392307692307692,19.74,2,Creative / Attacking Players
+397,841672,Nicolás González,Left Midfielder,Juventus,5.0,5.0,5.7714285714285705,5.385714285714285,19.72,2,Creative / Attacking Players
+398,1034995,Ben Waine,Striker,Port Vale,9.0,1.0,4.964705882352941,5.38235294117647,19.71,2,Creative / Attacking Players
+399,1288119,Ismaël Koné,Central Midfielder,Sassuolo,7.0,0.0,6.558000000000002,5.379000000000001,19.7,3,Goal-Oriented Players
+400,688876,Dodi Lukébakio,Right Winger,Benfica,8.0,3.0,4.757777777777777,5.378888888888888,19.69,3,Goal-Oriented Players
+401,602563,Marcos Llorente,Right Back,Atletico Madrid,4.0,6.0,5.95,5.375,19.68,2,Creative / Attacking Players
+401,1057426,Armin Gigovic,Defensive Midfielder,Young Boys,5.0,6.0,5.347368421052632,5.373684210526316,19.68,3,Goal-Oriented Players
+403,1071186,Angelo Stiller,Defensive Midfielder,VfB Stuttgart,2.0,8.0,6.346875000000001,5.3734375000000005,19.67,2,Creative / Attacking Players
+404,887703,Wilson Isidor,Striker,Sunderland,9.0,1.0,4.927083333333333,5.363541666666666,19.64,2,Creative / Attacking Players
+405,946703,Herman Johansson,Right Midfielder,FC Dallas,3.0,7.0,6.1083333333333325,5.354166666666666,19.6,3,Goal-Oriented Players
+406,1543647,Mohammed Abu Al Shamat,Right Back,Al Qadsiah,2.0,8.0,6.255102040816326,5.327551020408164,19.51,2,Creative / Attacking Players
+407,559986,Orbelín Pineda,Central Midfielder,Monterrey,5.0,5.0,5.630882352941176,5.315441176470588,19.46,2,Creative / Attacking Players
+408,1075065,Braian Ojeda,Central Midfielder,Orlando City,5.0,4.0,6.014893617021275,5.307446808510638,19.43,2,Creative / Attacking Players
+409,532220,Saman Ghoddos,Central Midfielder,Al Ittihad Kalba,5.0,4.0,6.008823529411765,5.304411764705882,19.42,2,Creative / Attacking Players
+409,1382000,Petar Sucic,Central Midfielder,Inter,5.0,5.0,5.605714285714286,5.302857142857143,19.42,2,Creative / Attacking Players
+411,1197250,Malo Gusto,Right Back,Chelsea,3.0,8.0,5.598571428571429,5.299285714285714,19.4,2,Creative / Attacking Players
+412,274392,Gustavo Gómez,Center Back,Palmeiras,6.0,1.0,6.592857142857143,5.296428571428572,19.39,2,Creative / Attacking Players
+413,1220633,Prince Adu,Striker,Viktoria Plzen,8.0,1.0,5.383333333333333,5.291666666666667,19.38,2,Creative / Attacking Players
+414,873289,Marc Cucurella,Left Back,Real Madrid,2.0,7.0,6.570000000000001,5.285000000000001,19.35,2,Creative / Attacking Players
+415,1108611,Pedro Vite,Central Midfielder,Pumas,4.0,3.0,6.958620689655171,5.279310344827586,19.33,2,Creative / Attacking Players
+416,1050166,Anthony Elanga,Right Winger,Newcastle United,8.0,1.0,5.302857142857142,5.251428571428571,19.23,2,Creative / Attacking Players
+417,169719,Chris Wood,Striker,Nottingham Forest,7.0,2.0,5.471428571428572,5.235714285714287,19.17,3,Goal-Oriented Players
+418,1113785,Hannibal Mejbri,Attacking Midfielder,Burnley,2.0,10.0,5.242000000000001,5.221,19.12,2,Creative / Attacking Players
+419,1199714,Marco Pasalic,Right Midfielder,Orlando City,6.0,3.0,5.640909090909091,5.220454545454546,19.11,2,Creative / Attacking Players
+420,1026135,Tajon Buchanan,Right Midfielder,Villarreal,7.0,1.0,5.828125,5.2140625,19.09,3,Goal-Oriented Players
+421,1611223,Kento Shiogai,Striker,Wolfsburg,10.0,1.0,4.023255813953489,5.211627906976745,19.08,1,Low-Performance Players
+422,888966,César Blackman,Right Back,Slovan Bratislava,4.0,6.0,5.616666666666666,5.208333333333333,19.07,2,Creative / Attacking Players
+423,1338696,Alex Freeman,Right Back,Villarreal,5.0,5.0,5.4,5.2,19.04,3,Goal-Oriented Players
+424,31097,Luka Modric,Central Midfielder,Milan,3.0,5.0,6.589285714285714,5.194642857142857,19.02,2,Creative / Attacking Players
+425,858340,Amir Al-Ammari,Central Midfielder,Cracovia,2.0,6.0,6.7727272727272725,5.1863636363636365,18.99,2,Creative / Attacking Players
+426,1107251,Tae-Seok Lee,Left Wing-Back,Austria Wien,4.0,4.0,6.3644444444444455,5.182222222222222,18.97,2,Creative / Attacking Players
+426,660213,Mohamed Hany,Right Back,Al Ahly SC,0.0,10.0,6.362264150943396,5.181132075471698,18.97,3,Goal-Oriented Players
+428,304348,Rani Khedira,Defensive Midfielder,Union Berlin,6.0,1.0,6.341860465116278,5.170930232558139,18.93,3,Goal-Oriented Players
+429,696932,Simon Banza,Striker,Al-Jazira,9.0,1.0,4.5285714285714285,5.164285714285714,18.91,3,Goal-Oriented Players
+429,1216798,Nathan Saliba,Defensive Midfielder,Anderlecht,6.0,3.0,5.527868852459016,5.163934426229508,18.91,2,Creative / Attacking Players
+431,1132818,Seol Young-Woo,Right Back,FK Crvena Zvezda,2.0,6.0,6.701639344262294,5.150819672131147,18.86,2,Creative / Attacking Players
+432,1176214,Luiz Henrique,Right Winger,Zenit St. Petersburg,5.0,5.0,5.276,5.138,18.81,3,Goal-Oriented Players
+433,1406300,Deniz Gül,Striker,FC Porto,9.0,1.0,4.407936507936508,5.103968253968254,18.69,3,Goal-Oriented Players
+433,524437,Tomás Soucek,Defensive Midfielder,West Ham United,8.0,0.0,5.408928571428571,5.104464285714285,18.69,3,Goal-Oriented Players
+435,343748,Leon Goretzka,Defensive Midfielder,,5.0,5.0,5.204285714285715,5.102142857142857,18.68,3,Goal-Oriented Players
+436,461357,Alessandro Schöpf,Defensive Midfielder,Wolfsberger AC,5.0,5.0,5.170731707317073,5.085365853658537,18.62,2,Creative / Attacking Players
+437,848289,Takefusa Kubo,Right Winger,Real Sociedad,3.0,7.0,5.564285714285714,5.082142857142857,18.61,2,Creative / Attacking Players
+438,705450,Jules Koundé,Right Back,Barcelona,3.0,5.0,6.354285714285714,5.0771428571428565,18.59,2,Creative / Attacking Players
+438,1209228,Daniel Svensson,Left Wing-Back,Borussia Dortmund,4.0,3.0,6.553968253968254,5.076984126984128,18.59,3,Goal-Oriented Players
+440,921921,Kristian Thorstvedt,Central Midfielder,Sassuolo,4.0,4.0,6.15111111111111,5.075555555555555,18.58,3,Goal-Oriented Players
+441,1151313,Lukás Cerv,Defensive Midfielder,Viktoria Plzen,4.0,4.0,6.13,5.065,18.55,2,Creative / Attacking Players
+442,974618,Jan Paul van Hecke,Center Back,Tottenham Hotspur,4.0,3.0,6.529090909090908,5.064545454545455,18.54,3,Goal-Oriented Players
+443,1137668,Moisés Caicedo,Defensive Midfielder,Chelsea,5.0,1.0,6.71076923076923,5.055384615384615,18.51,2,Creative / Attacking Players
+444,1439121,Tyrese Noslin,Right Wing-Back,Barnsley,4.0,4.0,6.092156862745098,5.046078431372549,18.48,2,Creative / Attacking Players
+445,1331597,Gustavo Puerta,Defensive Midfielder,Racing Santander,4.0,2.0,6.88888888888889,5.044444444444445,18.47,2,Creative / Attacking Players
+446,1285866,Habib Diarra,Central Midfielder,Sunderland,6.0,3.0,5.276744186046511,5.038372093023256,18.45,2,Creative / Attacking Players
+447,1073498,Patrick Wimmer,Left Winger,Hoffenheim,4.0,5.0,5.670731707317073,5.035365853658536,18.44,3,Goal-Oriented Players
+448,210428,Kalidou Koulibaly,Center Back,Al Hilal,3.0,4.0,6.638095238095239,5.019047619047619,18.38,3,Goal-Oriented Players
+449,1327149,Paul Wanner,Defensive Midfielder,PSV Eindhoven,5.0,5.0,5.031481481481482,5.015740740740741,18.36,2,Creative / Attacking Players
+450,1401228,Nawaf Al-Boushail,Right Back,Al Nassr FC,0.0,9.0,6.408823529411765,5.004411764705883,18.32,2,Creative / Attacking Players
+450,1553870,Mohammad Al Manai,Attacking Midfielder,Al-Shamal,5.0,2.0,6.209375,5.0046875,18.32,2,Creative / Attacking Players
+452,1002617,Saud Abdulhamid,Right Wing-Back,Lens,3.0,7.0,5.3803921568627455,4.990196078431373,18.27,2,Creative / Attacking Players
+453,172615,Ryan Mendes,Right Winger,Igdir FK,5.0,4.0,5.355102040816326,4.977551020408163,18.23,2,Creative / Attacking Players
+454,857269,Gleison Bremer,Center Back,Juventus,5.0,3.0,5.750000000000001,4.975,18.22,3,Goal-Oriented Players
+454,932308,Liam Millar,Left Winger,Hull City,3.0,5.0,6.151999999999999,4.975999999999999,18.22,3,Goal-Oriented Players
+454,883759,David Doudera,Right Midfielder,Slavia Prague,2.0,8.0,5.551282051282052,4.975641025641027,18.22,2,Creative / Attacking Players
+457,909198,Abdullah Al-Hamdan,Striker,Al Nassr FC,10.0,2.0,3.141935483870968,4.9709677419354845,18.2,1,Low-Performance Players
+458,1367615,Warren Zaïre-Emery,Central Midfielder,Paris Saint-Germain,3.0,5.0,6.111428571428571,4.9557142857142855,18.15,2,Creative / Attacking Players
+459,1031325,Martín Zubimendi,Central Midfielder,Arsenal,5.0,3.0,5.708571428571429,4.954285714285714,18.14,2,Creative / Attacking Players
+460,837870,Jaminton Campaz,Left Winger,Rosario Central,3.0,5.0,6.102222222222223,4.951111111111112,18.13,2,Creative / Attacking Players
+460,1249993,Abbosbek Fayzullayev,Right Winger,Başakşehir,5.0,4.0,5.303030303030303,4.951515151515151,18.13,2,Creative / Attacking Players
+462,914458,Aurélien Tchouaméni,Central Midfielder,Real Madrid,2.0,5.0,6.698461538461539,4.94923076923077,18.12,3,Goal-Oriented Players
+463,643635,Amir Murillo,Right Back,Beşiktaş,4.0,5.0,5.467796610169492,4.933898305084746,18.07,3,Goal-Oriented Players
+463,1473580,Aleksandar Pavlovic,Defensive Midfielder,Bayern München,4.0,3.0,6.273015873015873,4.936507936507937,18.07,3,Goal-Oriented Players
+465,848314,Mehdi Ghayedi,Striker,Al-Nasr SC,6.0,4.0,4.665517241379311,4.932758620689655,18.06,2,Creative / Attacking Players
+466,862538,Roger Ibañez,Center Back,Al Ahli,4.0,2.0,6.660714285714286,4.930357142857143,18.05,3,Goal-Oriented Players
+467,955271,Thiago Almada,Left Midfielder,Atletico Madrid,5.0,4.0,5.24927536231884,4.92463768115942,18.03,2,Creative / Attacking Players
+468,616179,Aubrey Modiba,Left Back,Mamelodi Sundowns FC,1.0,7.0,6.43157894736842,4.91578947368421,18.0,2,Creative / Attacking Players
+469,359188,Fabinho,Defensive Midfielder,Al Ittihad,3.0,4.0,6.426785714285714,4.913392857142857,17.99,3,Goal-Oriented Players
+470,179410,Idrissa Gueye,Defensive Midfielder,Everton,3.0,5.0,6.016326530612245,4.908163265306122,17.97,2,Creative / Attacking Players
+471,740944,Leo Østigard,Center Back,Genoa,6.0,1.0,5.797872340425532,4.898936170212767,17.94,3,Goal-Oriented Players
+472,921919,Sebastian Tounekti,Left Winger,Celtic,6.0,3.0,4.994117647058824,4.897058823529411,17.93,3,Goal-Oriented Players
+473,921174,Luis Romo,Center Back,Chivas,2.0,4.0,6.9840909090909085,4.892045454545454,17.91,3,Goal-Oriented Players
+474,1565865,Lachlan Bayliss,Attacking Midfielder,Auckland FC,5.0,3.0,5.568421052631578,4.884210526315789,17.88,2,Creative / Attacking Players
+475,439369,Ryan Christie,Defensive Midfielder,AFC Bournemouth,5.0,1.0,6.3625,4.8812500000000005,17.87,2,Creative / Attacking Players
+476,952322,Brenden Aaronson,Right Winger,Leeds United,4.0,5.0,5.3517241379310345,4.875862068965517,17.85,2,Creative / Attacking Players
+477,892709,Dennis Eckert,Attacking Midfielder,Standard Liege,7.0,0.0,5.546341463414635,4.873170731707317,17.84,3,Goal-Oriented Players
+478,1227012,Simon Adingra,Left Winger,Sunderland,7.0,4.0,3.9127272727272726,4.856363636363636,17.78,2,Creative / Attacking Players
+479,1451566,Kamogelo Sebelebele,Right Back,Orlando Pirates,6.0,1.0,5.702564102564103,4.851282051282051,17.76,2,Creative / Attacking Players
+480,942372,Álex Baena,Left Winger,Atletico Madrid,3.0,5.0,5.897058823529412,4.848529411764706,17.75,2,Creative / Attacking Players
+480,557325,Stefan Posch,Center Back,Como,6.0,2.0,5.294444444444444,4.847222222222222,17.75,3,Goal-Oriented Players
+482,623698,In-Beom Hwang,Defensive Midfielder,Feyenoord,2.0,6.0,6.08,4.84,17.72,2,Creative / Attacking Players
+483,1023943,Jacob Shaffelburg,Left Winger,Los Angeles FC,3.0,5.0,5.872972972972973,4.836486486486487,17.71,2,Creative / Attacking Players
+484,729506,Richie Laryea,Left Back,Toronto FC,3.0,2.0,7.062162162162163,4.831081081081082,17.69,2,Creative / Attacking Players
+485,517346,Nico Elvedi,Center Back,Borussia Mönchengladbach,3.0,2.0,7.0584905660377375,4.829245283018869,17.68,3,Goal-Oriented Players
+486,1070712,Josko Gvardiol,Center Back,Manchester City,3.0,4.0,6.252631578947367,4.826315789473683,17.67,3,Goal-Oriented Players
+487,1107283,Ji-Sung Eom,Left Winger,Swansea City,4.0,3.0,6.036065573770491,4.8180327868852455,17.64,2,Creative / Attacking Players
+488,1178324,Jaouen Hadjam,Left Back,Young Boys,3.0,4.0,6.229545454545456,4.814772727272728,17.63,3,Goal-Oriented Players
+489,421328,Awer Mabil,Right Winger,Castellon,4.0,6.0,4.817021276595744,4.808510638297872,17.61,2,Creative / Attacking Players
+490,1288907,Yacine Titraoui,Defensive Midfielder,Sporting Charleroi,5.0,3.0,5.40566037735849,4.802830188679245,17.59,2,Creative / Attacking Players
+491,192735,Aziz Behich,Left Back,Melbourne City FC,3.0,3.0,6.604761904761904,4.802380952380952,17.58,2,Creative / Attacking Players
+492,867225,Zeki Çelik,Right Wing-Back,Juventus,2.0,5.0,6.39375,4.796875,17.56,2,Creative / Attacking Players
+493,96488,Kosta Barbarouses,Striker,Western Sydney Wanderers FC,6.0,1.0,5.579411764705882,4.7897058823529415,17.54,2,Creative / Attacking Players
+494,1328540,Oumar Diakité,Striker,Reims,8.0,1.0,4.353488372093023,4.776744186046511,17.49,3,Goal-Oriented Players
+495,470834,Nélson Semedo,Right Back,Fenerbahçe,1.0,5.0,6.929411764705882,4.76470588235294,17.45,2,Creative / Attacking Players
+496,768635,Lyndon Dykes,Striker,Charlton Athletic,6.0,4.0,4.316393442622951,4.758196721311475,17.42,3,Goal-Oriented Players
+496,875845,Kevin Felida,Central Midfielder,FC Den Bosch,4.0,3.0,5.917647058823529,4.758823529411764,17.42,2,Creative / Attacking Players
+498,1413996,Luka Vuskovic,Center Back,Brighton & Hove Albion,7.0,0.0,5.307843137254902,4.753921568627451,17.41,3,Goal-Oriented Players
+499,469700,Jonathan Tah,Center Back,Bayern München,4.0,2.0,6.299999999999998,4.749999999999999,17.39,3,Goal-Oriented Players
+500,919848,Gustaf Lagerbielke,Center Back,Braga,5.0,1.0,6.040909090909091,4.720454545454546,17.28,3,Goal-Oriented Players
+501,630228,Fredrik André Bjørkan,Left Back,Bodø/Glimt,4.0,4.0,5.422807017543859,4.711403508771929,17.25,2,Creative / Attacking Players
+502,807729,Reece James,Right Back,Chelsea,2.0,7.0,5.414516129032258,4.707258064516129,17.24,3,Goal-Oriented Players
+503,620027,Xaver Schlager,Central Midfielder,,3.0,3.0,6.40909090909091,4.704545454545455,17.23,2,Creative / Attacking Players
+504,1023887,Tsuyoshi Watanabe,Center Back,Feyenoord,5.0,0.0,6.40377358490566,4.701886792452831,17.22,3,Goal-Oriented Players
+505,727101,Cristian Martínez,Defensive Midfielder,Slovan Bratislava,4.0,1.0,6.581818181818181,4.6909090909090905,17.18,2,Creative / Attacking Players
+505,759817,Miro Muheim,Left Midfielder,Hamburger SV,0.0,8.0,6.182978723404256,4.6914893617021285,17.18,2,Creative / Attacking Players
+507,1558461,Findlay Curtis,Left Winger,Rangers,9.0,2.0,3.1737704918032787,4.68688524590164,17.16,1,Low-Performance Players
+508,1107620,Jarell Quansah,Center Back,Bayer Leverkusen,6.0,0.0,5.755737704918033,4.677868852459016,17.13,3,Goal-Oriented Players
+509,198559,Marten de Roon,Defensive Midfielder,Atalanta,2.0,5.0,6.148333333333334,4.674166666666667,17.11,3,Goal-Oriented Players
+510,1134871,Maxim De Cuyper,Left Back,Brighton & Hove Albion,4.0,5.0,4.933928571428572,4.666964285714286,17.09,3,Goal-Oriented Players
+510,1329461,Danley Jean Jacques,Central Midfielder,Philadelphia Union,4.0,1.0,6.532608695652174,4.666304347826087,17.09,2,Creative / Attacking Players
+512,889093,Jacob Italiano,Attacking Midfielder,Grazer AK,4.0,0.0,6.925,4.6625,17.07,2,Creative / Attacking Players
+513,620026,Hwang Hee-Chan,Striker,Wolverhampton Wanderers,5.0,4.0,4.720754716981132,4.660377358490566,17.06,2,Creative / Attacking Players
+514,848600,Abdulelah Al Amri,Center Back,Al Nassr FC,5.0,2.0,5.498333333333333,4.649166666666667,17.02,3,Goal-Oriented Players
+515,1478238,Ali Jasim,Left Winger,Como,4.0,2.0,6.068292682926829,4.634146341463415,16.97,2,Creative / Attacking Players
+516,174321,Nicolás Otamendi,Center Back,River Plate,4.0,1.0,6.465217391304346,4.6326086956521735,16.96,3,Goal-Oriented Players
+516,1137407,Malick Thiaw,Center Back,Newcastle United,5.0,1.0,5.861428571428571,4.630714285714286,16.96,3,Goal-Oriented Players
+518,889536,Timothy Weah,Right Wing-Back,Marseille,3.0,4.0,5.859999999999999,4.63,16.95,2,Creative / Attacking Players
+519,950485,Maxence Lacroix,Center Back,Crystal Palace,3.0,3.0,6.238571428571428,4.619285714285715,16.91,3,Goal-Oriented Players
+520,734637,Pedro Miguel,Center Back,Al-Sadd,3.0,4.0,5.8175,4.60875,16.87,3,Goal-Oriented Players
+521,604126,Giovani Lo Celso,Attacking Midfielder,Real Betis,5.0,3.0,5.011538461538461,4.60576923076923,16.86,2,Creative / Attacking Players
+522,798029,Ladislav Krejcí,Center Back,Wolverhampton Wanderers,5.0,1.0,5.793877551020408,4.596938775510204,16.83,3,Goal-Oriented Players
+522,1209597,Marko Stamenic,Defensive Midfielder,Swansea City,3.0,3.0,6.192452830188679,4.596226415094339,16.83,3,Goal-Oriented Players
+524,1274060,Neil El Aynaoui,Defensive Midfielder,Roma,4.0,2.0,5.988059701492538,4.594029850746269,16.82,2,Creative / Attacking Players
+524,526710,Yoel Bárcenas,Central Midfielder,Mazatlan FC,4.0,1.0,6.385714285714287,4.592857142857143,16.82,2,Creative / Attacking Players
+526,1087966,Evann Guessand,Right Winger,Aston Villa,7.0,2.0,4.183333333333334,4.591666666666667,16.81,3,Goal-Oriented Players
+526,806551,Michal Sadílek,Defensive Midfielder,Slavia Prague,3.0,5.0,5.383636363636363,4.591818181818182,16.81,2,Creative / Attacking Players
+528,710159,Ezri Konsa,Center Back,Aston Villa,4.0,1.0,6.368571428571429,4.5842857142857145,16.79,3,Goal-Oriented Players
+529,1016132,Manu Koné,Defensive Midfielder,Roma,2.0,4.0,6.367796610169491,4.5838983050847455,16.78,3,Goal-Oriented Players
+530,848102,Seung-Ho Paik,Defensive Midfielder,Birmingham City,4.0,1.0,6.346551724137932,4.573275862068966,16.74,3,Goal-Oriented Players
+531,1386482,Jun-Ho Bae,Attacking Midfielder,Stoke City,4.0,3.0,5.525000000000001,4.5625,16.71,2,Creative / Attacking Players
+531,647900,Mattias Svanberg,Defensive Midfielder,Wolfsburg,6.0,3.0,4.329268292682927,4.564634146341463,16.71,2,Creative / Attacking Players
+531,1250885,Nishan Velupillay,Right Winger,Melbourne Victory,4.0,2.0,5.926666666666667,4.5633333333333335,16.71,3,Goal-Oriented Players
+534,725655,Nikola Katic,Center Back,Schalke 04,3.0,2.0,6.519512195121951,4.559756097560976,16.7,3,Goal-Oriented Players
+535,616170,Martin Erlic,Center Back,FC Midtjylland,7.0,1.0,4.510169491525424,4.555084745762712,16.68,3,Goal-Oriented Players
+536,712132,Mortadha Ben Ouanes,Left Winger,Kasımpaşa,2.0,6.0,5.486046511627907,4.543023255813954,16.63,2,Creative / Attacking Players
+537,658554,Dayot Upamecano,Center Back,Bayern München,2.0,4.0,6.265714285714285,4.532857142857143,16.6,3,Goal-Oriented Players
+538,324305,Tim Payne,Right Back,Olimpia,0.0,7.0,6.262962962962963,4.531481481481482,16.59,2,Creative / Attacking Players
+538,1478281,Alexandr Sojka,Left Midfielder,Viktoria Plzen,4.0,3.0,5.463636363636362,4.531818181818181,16.59,3,Goal-Oriented Players
+538,1180735,Arjany Martha,Right Winger,Rotherham United,4.0,3.0,5.464406779661017,4.532203389830508,16.59,2,Creative / Attacking Players
+541,1384425,Hossam Abdelmaguid,Center Back,Zamalek SC,6.0,0.0,5.444827586206896,4.522413793103448,16.56,3,Goal-Oriented Players
+541,264096,Ahmed Alaa,Striker,Al-Rayyan,6.0,2.0,4.644444444444444,4.522222222222222,16.56,2,Creative / Attacking Players
+541,1524518,Hélio Varela,Left Winger,Maccabi Tel Aviv,4.0,3.0,5.447169811320754,4.5235849056603765,16.56,2,Creative / Attacking Players
+544,1593857,Ibrahim Mbaye,Right Winger,Paris Saint-Germain,6.0,3.0,4.201587301587302,4.500793650793651,16.48,2,Creative / Attacking Players
+544,1486541,Assan Ouédraogo,Central Midfielder,RB Leipzig,6.0,4.0,3.8,4.5,16.48,3,Goal-Oriented Players
+546,167008,Pascal Groß,Defensive Midfielder,Brighton & Hove Albion,2.0,7.0,4.986206896551724,4.493103448275862,16.45,2,Creative / Attacking Players
+547,955529,Matheus Nunes,Right Back,Manchester City,1.0,7.0,5.5771428571428565,4.488571428571428,16.43,2,Creative / Attacking Players
+547,432605,Jonathan Osorio,Defensive Midfielder,Toronto FC,3.0,4.0,5.575,4.4875,16.43,2,Creative / Attacking Players
+549,1285773,Elias Saad,Left Winger,Nashville SC,3.0,6.0,4.75625,4.478125,16.4,3,Goal-Oriented Players
+550,319300,N'Golo Kanté,Defensive Midfielder,Fenerbahçe,4.0,2.0,5.755,4.4775,16.39,2,Creative / Attacking Players
+551,1165710,Gonçalo Inácio,Center Back,Sporting CP,3.0,3.0,5.922222222222223,4.461111111111112,16.33,3,Goal-Oriented Players
+552,671327,Sherel Floranus,Left Back,PEC Zwolle,1.0,4.0,6.706666666666665,4.453333333333332,16.31,2,Creative / Attacking Players
+553,802462,Christopher Opéri,Left Back,Başakşehir,2.0,8.0,4.5062500000000005,4.453125,16.3,2,Creative / Attacking Players
+553,629823,Aziz G'aniev,Central Midfielder,Al Bataeh,2.0,3.0,6.502941176470589,4.451470588235295,16.3,2,Creative / Attacking Players
+555,924610,Yukinari Sugawara,Right Back,Southampton,0.0,7.0,6.08936170212766,4.44468085106383,16.27,2,Creative / Attacking Players
+555,533403,Yasser Ibrahim,Center Back,Al Ahly SC,4.0,0.0,6.484444444444444,4.442222222222222,16.27,3,Goal-Oriented Players
+557,766159,Jordy Caicedo,Striker,Huracan,9.0,0.0,3.483333333333333,4.441666666666666,16.26,1,Low-Performance Players
+557,823078,Merih Demiral,Center Back,Al Ahli,4.0,0.0,6.4840909090909085,4.442045454545454,16.26,3,Goal-Oriented Players
+557,598355,Denis Zakaria,Center Back,Monaco,2.0,3.0,6.48125,4.440625000000001,16.26,3,Goal-Oriented Players
+560,201704,Remo Freuler,Defensive Midfielder,Bologna,1.0,4.0,6.6385964912280695,4.419298245614034,16.18,2,Creative / Attacking Players
+561,1241301,João Paulo,Left Back,FCSB,3.0,3.0,5.8260000000000005,4.413,16.16,2,Creative / Attacking Players
+562,1460591,Wagner Pina,Right Back,Trabzonspor,0.0,9.0,5.21923076923077,4.409615384615385,16.15,2,Creative / Attacking Players
+562,958010,Amar Dedic,Right Back,Benfica,1.0,5.0,6.220338983050848,4.410169491525424,16.15,2,Creative / Attacking Players
+564,787242,Evan N'Dicka,Center Back,Roma,5.0,0.0,5.79516129032258,4.397580645161289,16.1,3,Goal-Oriented Players
+564,1666494,Christ Inao Oulaï,Defensive Midfielder,Fiorentina,2.0,4.0,5.995652173913043,4.397826086956521,16.1,2,Creative / Attacking Players
+566,1024672,Nicolas Seiwald,Central Midfielder,RB Leipzig,1.0,3.0,6.980392156862745,4.390196078431373,16.07,2,Creative / Attacking Players
+567,1231029,Rafik Belghali,Right Midfielder,Hellas Verona,4.0,0.0,6.370833333333333,4.385416666666666,16.06,2,Creative / Attacking Players
+568,523801,Léo Pereira,Center Back,Flamengo,4.0,1.0,5.961428571428573,4.380714285714286,16.04,3,Goal-Oriented Players
+569,275034,Silvan Widmer,Right Midfielder,Mainz 05,4.0,2.0,5.541935483870967,4.370967741935484,16.0,3,Goal-Oriented Players
+570,1354085,Joel Ordóñez,Center Back,Club Brugge,4.0,0.0,6.301639344262295,4.350819672131148,15.93,2,Creative / Attacking Players
+571,592102,Moussa Niakhaté,Center Back,Lyon,1.0,3.0,6.896774193548388,4.348387096774194,15.92,3,Goal-Oriented Players
+572,1095207,Ayman Yahya,Left Back,Al Nassr FC,3.0,3.0,5.690909090909092,4.345454545454546,15.91,2,Creative / Attacking Players
+573,909803,Edo Kayembe,Central Midfielder,Watford,4.0,2.0,5.463157894736843,4.331578947368421,15.86,3,Goal-Oriented Players
+574,671326,Nuno da Costa,Striker,Başakşehir,6.0,3.0,3.8226415094339616,4.311320754716981,15.79,1,Low-Performance Players
+575,560416,Karim Hafez,Left Back,Pyramids FC,3.0,4.0,5.1925,4.29625,15.73,2,Creative / Attacking Players
+576,1311408,Hazem Mastouri,Striker,Dynamo Makhachkala,6.0,1.0,4.584782608695653,4.292391304347826,15.72,3,Goal-Oriented Players
+577,1032039,Jackson Porozo,Center Back,Tijuana,4.0,0.0,6.159090909090907,4.279545454545453,15.67,3,Goal-Oriented Players
+578,795371,Ibrahim Sangaré,Defensive Midfielder,Nottingham Forest,3.0,4.0,5.13623188405797,4.268115942028985,15.63,3,Goal-Oriented Players
+579,789596,Yan Valery,Right Back,Young Boys,0.0,5.0,6.524528301886791,4.262264150943396,15.61,2,Creative / Attacking Players
+580,1252070,Nathan Ngoy,Center Back,Lille,3.0,2.0,5.920370370370371,4.260185185185185,15.6,2,Creative / Attacking Players
+580,1451265,Malick Diouf,Left Back,West Ham United,0.0,7.0,5.718965517241379,4.25948275862069,15.6,2,Creative / Attacking Players
+582,188058,Daniel Burn,Center Back,Newcastle United,2.0,5.0,5.285074626865671,4.242537313432836,15.53,3,Goal-Oriented Players
+583,848345,Joe Bell,Defensive Midfielder,Viking,1.0,5.0,5.878378378378379,4.239189189189189,15.52,3,Goal-Oriented Players
+583,860890,José Canale,Center Back,Lanus,5.0,0.0,5.478571428571429,4.239285714285714,15.52,3,Goal-Oriented Players
+585,1415104,Benjamin Tahirovic,Central Midfielder,Brøndby IF,3.0,2.0,5.86875,4.234375,15.5,3,Goal-Oriented Players
+586,688449,Andrés Andrade,Center Back,LASK,1.0,4.0,6.244680851063831,4.222340425531916,15.46,3,Goal-Oriented Players
+586,1274400,Alan Minda,Striker,Atletico MG,6.0,2.0,4.046031746031747,4.223015873015873,15.46,2,Creative / Attacking Players
+586,943428,Mathieu Choinière,Central Midfielder,Los Angeles FC,3.0,3.0,5.444444444444445,4.222222222222222,15.46,2,Creative / Attacking Players
+589,846392,Montassar Talbi,Center Back,Lorient,2.0,1.0,6.8282608695652165,4.214130434782608,15.43,3,Goal-Oriented Players
+590,1073012,Mohammad Mohebi,Striker,FC Rostov,4.0,3.0,4.823809523809524,4.211904761904762,15.42,3,Goal-Oriented Players
+590,643533,Davinson Sánchez,Center Back,Galatasaray,3.0,1.0,6.222388059701492,4.211194029850746,15.42,3,Goal-Oriented Players
+592,466672,Jefferson Lerma,Defensive Midfielder,Crystal Palace,2.0,5.0,5.211428571428573,4.205714285714286,15.4,2,Creative / Attacking Players
+593,1133495,Juan Cáceres,Right Back,Dinamo Moscow,0.0,9.0,4.798039215686274,4.199019607843137,15.37,2,Creative / Attacking Players
+593,676431,Logan Rogerson,Right Midfielder,Auckland FC,3.0,2.0,5.797368421052632,4.198684210526316,15.37,2,Creative / Attacking Players
+595,531327,Eric Smith,Center Back,St. Pauli,2.0,3.0,5.967567567567568,4.183783783783785,15.32,3,Goal-Oriented Players
+596,914103,Johan Vásquez,Center Back,Genoa,3.0,0.0,6.5618181818181816,4.180909090909091,15.31,3,Goal-Oriented Players
+596,1137803,César Yanis,Central Midfielder,Cobresal,0.0,8.0,5.161538461538462,4.180769230769231,15.31,2,Creative / Attacking Players
+598,1353364,Anthony Valencia,Attacking Midfielder,Royal Antwerp,5.0,2.0,4.538461538461538,4.1692307692307695,15.27,2,Creative / Attacking Players
+599,1195369,Nizar Al Rashdan,Central Midfielder,Qatar SC,4.0,1.0,5.532352941176471,4.166176470588235,15.25,3,Goal-Oriented Players
+600,1418549,Marwan Ateya,Defensive Midfielder,Al Ahly SC,1.0,3.0,6.5265306122448985,4.163265306122449,15.24,2,Creative / Attacking Players
+601,726345,Nahuel Molina,Right Back,Atletico Madrid,2.0,5.0,5.12,4.16,15.23,2,Creative / Attacking Players
+601,1110550,Henrik Falchener,Center Back,Viking,5.0,1.0,4.92,4.16,15.23,3,Goal-Oriented Players
+603,1232253,Han-Beom Lee,Center Back,FC Midtjylland,2.0,3.0,5.914705882352941,4.157352941176471,15.22,3,Goal-Oriented Players
+603,357880,Andrew Robertson,Left Back,Tottenham Hotspur,3.0,5.0,4.511428571428572,4.155714285714286,15.22,2,Creative / Attacking Players
+603,210111,Lucas Digne,Left Back,Aston Villa,0.0,8.0,5.111428571428572,4.155714285714286,15.22,2,Creative / Attacking Players
+606,959696,Joseph Scally,Right Wing-Back,Borussia Mönchengladbach,2.0,3.0,5.908333333333334,4.154166666666667,15.21,2,Creative / Attacking Players
+607,1027194,Alexander Prass,Left Midfielder,Hoffenheim,4.0,3.0,4.686,4.143000000000001,15.17,2,Creative / Attacking Players
+608,424380,Samet Akaydin,Center Back,Trabzonspor,4.0,2.0,5.07608695652174,4.138043478260871,15.15,3,Goal-Oriented Players
+609,306168,Tomás Holes,Center Back,Slavia Prague,2.0,3.0,5.865,4.1325,15.13,2,Creative / Attacking Players
+610,1527363,Paul Okon-Engstler,Defensive Midfielder,Sydney FC,0.0,3.0,7.051162790697674,4.125581395348837,15.11,3,Goal-Oriented Players
+610,957203,Éderson,Defensive Midfielder,Atalanta,3.0,2.0,5.652830188679245,4.126415094339623,15.11,2,Creative / Attacking Players
+612,941579,Kevin Yakob,Central Midfielder,AGF,4.0,2.0,5.0375000000000005,4.11875,15.08,3,Goal-Oriented Players
+612,697618,Alaa Hajji,Central Midfielder,Neom SC,3.0,2.0,5.636363636363637,4.118181818181818,15.08,2,Creative / Attacking Players
+614,1082106,Jayden Nelson,Left Winger,Austin FC,4.0,3.0,4.634090909090909,4.117045454545455,15.07,2,Creative / Attacking Players
+615,617044,Florian Grillitsch,Central Midfielder,,3.0,3.0,5.218518518518517,4.109259259259259,15.05,3,Goal-Oriented Players
+616,551805,Scott McKenna,Center Back,Dinamo Zagreb,2.0,3.0,5.810526315789473,4.105263157894736,15.03,3,Goal-Oriented Players
+617,873832,Willy Semedo,Left Winger,Omonia Nicosia,7.0,1.0,3.5500000000000003,4.075,14.92,1,Low-Performance Players
+618,792756,Michel Aebischer,Central Midfielder,Pisa,1.0,3.0,6.334,4.067,14.89,3,Goal-Oriented Players
+619,634110,Carlens Arcus,Right Back,Angers,0.0,5.0,6.1275,4.06375,14.88,2,Creative / Attacking Players
+620,1183589,Ismail Yüksek,Defensive Midfielder,Fenerbahçe,2.0,3.0,5.719999999999999,4.06,14.87,3,Goal-Oriented Players
+620,675088,Rodri,Defensive Midfielder,Manchester City,2.0,0.0,6.922916666666667,4.061458333333333,14.87,3,Goal-Oriented Players
+622,959597,Luka Sucic,Attacking Midfielder,Real Sociedad,5.0,3.0,3.919230769230769,4.059615384615384,14.86,1,Low-Performance Players
+623,1494508,Niko Sigur,Right Back,Hajduk Split,2.0,3.0,5.7,4.050000000000001,14.83,2,Creative / Attacking Players
+624,588626,Abdoulaye Seck,Center Back,Maccabi Haifa,5.0,1.0,4.688235294117647,4.044117647058823,14.81,3,Goal-Oriented Players
+625,950396,Jordy Alcívar,Defensive Midfielder,Independiente del Valle,3.0,3.0,5.085245901639345,4.0426229508196725,14.8,2,Creative / Attacking Players
+626,849334,Ahmed Abou El Fotouh,Left Back,Zamalek SC,1.0,5.0,5.4750000000000005,4.0375,14.78,2,Creative / Attacking Players
+627,751550,Diogo Dalot,Right Back,Manchester United,1.0,4.0,5.870370370370371,4.035185185185186,14.77,3,Goal-Oriented Players
+627,951921,Michael Svoboda,Center Back,Brighton & Hove Albion,3.0,2.0,5.465116279069767,4.032558139534884,14.77,3,Goal-Oriented Players
+627,1325761,Finn Surman,Center Back,Portland Timbers,2.0,1.0,6.467391304347826,4.033695652173913,14.77,3,Goal-Oriented Players
+627,521318,Manuel Akanji,Center Back,Inter,3.0,0.0,6.266666666666667,4.033333333333333,14.77,3,Goal-Oriented Players
+631,324910,Abdul Rahman Baba,Left Back,PAOK Thessaloniki,3.0,3.0,5.061666666666667,4.030833333333334,14.76,2,Creative / Attacking Players
+632,954092,Santiago Giménez,Striker,Milan,3.0,2.0,5.457575757575757,4.028787878787878,14.75,2,Creative / Attacking Players
+633,643448,Kristijan Jakic,Defensive Midfielder,Augsburg,4.0,1.0,5.245652173913044,4.022826086956522,14.73,2,Creative / Attacking Players
+633,940573,Eric García,Center Back,Barcelona,2.0,3.0,5.646376811594204,4.023188405797102,14.73,3,Goal-Oriented Players
+633,861661,Joaquín Piquerez,Left Back,Palmeiras,1.0,4.0,5.845614035087719,4.022807017543859,14.73,3,Goal-Oriented Players
+636,1250485,Tarik Muharemovic,Center Back,Leeds United,2.0,2.0,6.03265306122449,4.016326530612245,14.71,3,Goal-Oriented Players
+636,1210947,Jeremy Antonisse,Left Winger,Kifisia FC,1.0,3.0,6.236363636363637,4.0181818181818185,14.71,2,Creative / Attacking Players
+638,664644,César Montes,Center Back,Lokomotiv Moscow,4.0,0.0,5.6063829787234045,4.003191489361702,14.66,3,Goal-Oriented Players
+639,832171,Alan Franco,Defensive Midfielder,Atletico MG,1.0,2.0,6.601428571428571,4.000714285714285,14.65,2,Creative / Attacking Players
+640,837341,Noa Lang,Left Winger,Napoli,3.0,5.0,4.198529411764706,3.9992647058823527,14.64,2,Creative / Attacking Players
+640,525445,Duckens Nazon,Striker,Esteghlal,5.0,1.0,4.595833333333333,3.997916666666667,14.64,3,Goal-Oriented Players
+642,1049679,David Møller Wolfe,Left Back,Wolverhampton Wanderers,2.0,7.0,3.9933333333333336,3.996666666666667,14.63,3,Goal-Oriented Players
+643,1318686,Alessandro Circati,Center Back,Parma,2.0,0.0,6.773913043478259,3.9869565217391294,14.6,3,Goal-Oriented Players
+644,940010,Khuliso Mudau,Right Back,Mamelodi Sundowns FC,1.0,2.0,6.56530612244898,3.98265306122449,14.58,2,Creative / Attacking Players
+645,833641,Frantzdy Pierrot,Striker,AEK Athens,5.0,2.0,4.157142857142857,3.978571428571428,14.57,3,Goal-Oriented Players
+646,170323,Thibaut Courtois,Keeper,Real Madrid,0.0,2.0,7.15,3.975,14.55,3,Goal-Oriented Players
+647,910986,Ali Majrashi,Right Back,Al Ahli,1.0,4.0,5.7265625,3.96328125,14.51,2,Creative / Attacking Players
+647,1185748,Amadou Onana,Defensive Midfielder,Aston Villa,3.0,0.0,6.126315789473684,3.9631578947368418,14.51,3,Goal-Oriented Players
+647,664970,Waldemar Anton,Center Back,Borussia Dortmund,3.0,0.0,6.126229508196721,3.96311475409836,14.51,2,Creative / Attacking Players
+650,529625,Andrés Cubas,Defensive Midfielder,Vancouver Whitecaps,0.0,2.0,7.114999999999999,3.9575,14.49,2,Creative / Attacking Players
+651,291399,Abdülkerim Bardakci,Center Back,Galatasaray,1.0,2.0,6.492063492063493,3.946031746031746,14.45,3,Goal-Oriented Players
+651,872396,Pathé Ciss,Center Back,Rayo Vallecano,2.0,3.0,5.495384615384615,3.947692307692308,14.45,3,Goal-Oriented Players
+651,680905,Jamiro Monteiro,Central Midfielder,NEC Nijmegen,2.0,4.0,5.091176470588235,3.945588235294117,14.45,2,Creative / Attacking Players
+654,1686118,Lucas Herrington,Center Back,Colorado Rapids,2.0,1.0,6.282051282051282,3.941025641025641,14.43,3,Goal-Oriented Players
+655,1199113,Merchas Doski,Left Back,Viktoria Plzen,2.0,2.0,5.8625,3.93125,14.39,2,Creative / Attacking Players
+656,1089685,Carney Chukwuemeka,Attacking Midfielder,Borussia Dortmund,4.0,2.0,4.654,3.927,14.38,3,Goal-Oriented Players
+656,1135782,Taha Abdi Ali,Right Midfielder,PAOK Thessaloniki,3.0,4.0,4.452777777777778,3.926388888888889,14.38,3,Goal-Oriented Players
+658,860913,Jhon Lucumí,Center Back,Bologna,2.0,1.0,6.247619047619048,3.923809523809524,14.37,3,Goal-Oriented Players
+659,1642793,Ali Al-Azaizeh,Right Midfielder,Kazma,6.0,1.0,3.835714285714286,3.917857142857143,14.35,2,Creative / Attacking Players
+660,751202,Alphonso Davies,Left Back,Bayern München,1.0,5.0,5.2250000000000005,3.9125,14.33,2,Creative / Attacking Players
+661,1326507,Cho Wi-Je,Center Back,Jeonbuk Hyundai Motors FC,3.0,0.0,6.0162162162162165,3.908108108108108,14.31,3,Goal-Oriented Players
+661,729769,Tyler Adams,Defensive Midfielder,AFC Bournemouth,2.0,2.0,5.817948717948718,3.908974358974359,14.31,2,Creative / Attacking Players
+663,564842,Cameron Burgess,Center Back,Swansea City,2.0,0.0,6.612307692307692,3.9061538461538463,14.3,3,Goal-Oriented Players
+664,1823348,Odeh Fakhouri,Left Midfielder,Pyramids FC,5.0,2.0,4.007142857142857,3.903571428571429,14.29,1,Low-Performance Players
+664,1138003,Moteb Al-Harbi,Right Back,Al Hilal,2.0,2.0,5.805660377358492,3.902830188679246,14.29,2,Creative / Attacking Players
+666,620618,Rodrigo Bentancur,Defensive Midfielder,Tottenham Hotspur,1.0,1.0,6.78695652173913,3.893478260869565,14.26,3,Goal-Oriented Players
+667,614574,Juninho Bacuna,Defensive Midfielder,Gaziantep FK,2.0,5.0,4.585106382978723,3.8925531914893616,14.25,2,Creative / Attacking Players
+667,774448,Ferdi Kadioglu,Left Back,Brighton & Hove Albion,2.0,0.0,6.585185185185185,3.892592592592592,14.25,2,Creative / Attacking Players
+669,1242587,Amine Sbaï,Left Winger,Angers,4.0,1.0,4.97027027027027,3.885135135135135,14.23,2,Creative / Attacking Players
+670,1137670,Willian Pacho,Center Back,Paris Saint-Germain,2.0,1.0,6.1484375,3.87421875,14.19,3,Goal-Oriented Players
+671,1055426,Alistair Johnston,Right Back,Celtic,1.0,2.0,6.344444444444445,3.8722222222222222,14.18,2,Creative / Attacking Players
+672,965205,Willer Ditta,Center Back,Cruz Azul,1.0,2.0,6.341935483870967,3.870967741935483,14.17,3,Goal-Oriented Players
+672,1210913,Ahmed Al Ganehi,Right Winger,Al-Rayyan,3.0,3.0,4.741666666666667,3.8708333333333336,14.17,2,Creative / Attacking Players
+674,1114979,Emmanuel Agbadou,Center Back,Beşiktaş,2.0,5.0,4.53,3.865,14.15,3,Goal-Oriented Players
+674,1054138,Tomás Rodríguez,Striker,Barcelona SC,12.0,0.0,0.5306122448979592,3.8653061224489793,14.15,1,Low-Performance Players
+676,1598170,Samir El Mourabet,Defensive Midfielder,Strasbourg,2.0,2.0,5.722222222222223,3.861111111111112,14.14,3,Goal-Oriented Players
+677,971628,Érik Lira,Center Back,Cruz Azul,1.0,1.0,6.713432835820896,3.856716417910448,14.12,2,Creative / Attacking Players
+678,500520,Nabil Bentaleb,Defensive Midfielder,Lille,2.0,3.0,5.30576923076923,3.8528846153846152,14.11,2,Creative / Attacking Players
+679,1017520,Carlos Harvey,Center Back,Minnesota United,4.0,0.0,5.294117647058823,3.8470588235294114,14.09,3,Goal-Oriented Players
+680,852168,Yazan Al Arab,Center Back,FC Seoul,2.0,1.0,6.089130434782608,3.844565217391304,14.08,3,Goal-Oriented Players
+680,496648,Diney Borges,Center Back,Sharjah Cultural Club,3.0,1.0,5.492105263157894,3.846052631578947,14.08,3,Goal-Oriented Players
+682,845990,Ozan Kabak,Center Back,Hoffenheim,4.0,0.0,5.272222222222222,3.8361111111111112,14.05,3,Goal-Oriented Players
+683,1368654,Chemsdine Talbi,Right Winger,Sunderland,4.0,3.0,4.070689655172414,3.835344827586207,14.04,2,Creative / Attacking Players
+683,1033099,Hicham Boudaoui,Central Midfielder,Nice,1.0,3.0,5.870588235294118,3.835294117647059,14.04,3,Goal-Oriented Players
+685,744494,Gabriel Gudmundsson,Left Wing-Back,Leeds United,1.0,1.0,6.662000000000001,3.831,14.03,2,Creative / Attacking Players
+685,1041660,Eren Elmali,Left Back,Galatasaray,4.0,1.0,4.863793103448276,3.831896551724138,14.03,2,Creative / Attacking Players
+685,942834,Ibrahim Bayesh,Right Midfielder,Al-Dhafra,1.0,2.0,6.265625,3.8328125,14.03,3,Goal-Oriented Players
+688,970243,Mats Wieffer,Right Back,Brighton & Hove Albion,2.0,3.0,5.23888888888889,3.819444444444445,13.98,3,Goal-Oriented Players
+689,662428,Antonee Robinson,Left Back,Fulham,2.0,2.0,5.629268292682926,3.814634146341463,13.97,3,Goal-Oriented Players
+689,346000,Douglas Santos,Left Back,Zenit St. Petersburg,2.0,1.0,6.03170731707317,3.8158536585365854,13.97,2,Creative / Attacking Players
+691,915111,Shuto Machino,Striker,Borussia Mönchengladbach,5.0,1.0,4.226086956521739,3.8130434782608695,13.96,1,Low-Performance Players
+692,1386775,Lucas Bergvall,Central Midfielder,Tottenham Hotspur,1.0,5.0,5.005555555555556,3.8027777777777776,13.92,3,Goal-Oriented Players
+693,1053987,Yusuf Abdurisag,Right Winger,Al-Sadd,4.0,2.0,4.386206896551724,3.7931034482758617,13.89,2,Creative / Attacking Players
+693,837061,Krépin Diatta,Right Back,Monaco,0.0,4.0,5.986666666666667,3.793333333333334,13.89,2,Creative / Attacking Players
+695,688271,Auston Trusty,Center Back,Celtic,3.0,2.0,4.971929824561404,3.785964912280702,13.86,3,Goal-Oriented Players
+695,474673,Johan Mojica,Left Back,Mallorca,0.0,4.0,5.971153846153846,3.785576923076923,13.86,2,Creative / Attacking Players
+695,950829,Chris Richards,Center Back,Crystal Palace,2.0,0.0,6.368181818181817,3.7840909090909087,13.86,3,Goal-Oriented Players
+698,785411,Marcos Senesi,Center Back,Tottenham Hotspur,0.0,5.0,5.567272727272728,3.783636363636364,13.85,3,Goal-Oriented Players
+699,624405,Otabek Shukurov,Defensive Midfielder,Baniyas,0.0,4.0,5.935714285714286,3.7678571428571432,13.8,3,Goal-Oriented Players
+700,955406,William Saliba,Center Back,Arsenal,1.0,1.0,6.5285714285714285,3.764285714285714,13.78,3,Goal-Oriented Players
+701,496356,Ryan Thomas,Defensive Midfielder,PEC Zwolle,1.0,1.0,6.510256410256409,3.7551282051282047,13.75,2,Creative / Attacking Players
+702,653982,Stjepan Radeljic,Center Back,Dinamo Zagreb,2.0,4.0,4.6909090909090905,3.745454545454545,13.71,3,Goal-Oriented Players
+703,971787,Haissem Hassan,Right Winger,Real Oviedo,0.0,4.0,5.883673469387755,3.7418367346938775,13.7,2,Creative / Attacking Players
+704,1719066,Mbekezeli Mbokazi,Center Back,Chicago Fire FC,2.0,1.0,5.876,3.738,13.69,2,Creative / Attacking Players
+705,866516,Teun Koopmeiners,Center Back,Juventus,2.0,2.0,5.465624999999999,3.7328125,13.67,3,Goal-Oriented Players
+706,1532137,Pau Cubarsí,Center Back,Barcelona,1.0,2.0,6.042857142857144,3.721428571428572,13.63,3,Goal-Oriented Players
+706,1247323,David Jurásek,Left Wing-Back,Slavia Prague,1.0,6.0,4.447058823529412,3.723529411764706,13.63,3,Goal-Oriented Players
+708,820140,Ibrahima Konaté,Center Back,Real Madrid,2.0,1.0,5.84,3.72,13.62,3,Goal-Oriented Players
+709,1257745,Benjamin Old,Left Back,Saint-Etienne,2.0,2.0,5.412499999999999,3.70625,13.57,2,Creative / Attacking Players
+710,644014,Sultan Al Brake,Left Back,Al-Duhail SC,1.0,3.0,5.59047619047619,3.695238095238095,13.53,2,Creative / Attacking Players
+711,465614,Guillermo Varela,Right Back,Flamengo,1.0,5.0,4.782857142857144,3.691428571428572,13.52,2,Creative / Attacking Players
+711,519240,Alex Rufer,Central Midfielder,Wellington Phoenix,2.0,1.0,5.782857142857143,3.691428571428572,13.52,3,Goal-Oriented Players
+713,1298186,Redouane Halhal,Center Back,KV Mechelen,1.0,2.0,5.977272727272726,3.6886363636363626,13.51,3,Goal-Oriented Players
+714,1335315,Deveron Fonville,Center Back,NEC Nijmegen,0.0,4.0,5.776744186046511,3.688372093023256,13.5,2,Creative / Attacking Players
+715,496042,Yerry Mina,Center Back,Cagliari,3.0,1.0,5.163414634146342,3.681707317073171,13.48,3,Goal-Oriented Players
+716,1185902,Jens Castrop,Left Wing-Back,Borussia Mönchengladbach,3.0,1.0,5.1571428571428575,3.678571428571429,13.47,2,Creative / Attacking Players
+716,1073980,David Affengruber,Center Back,Elche,1.0,2.0,5.958695652173914,3.679347826086957,13.47,3,Goal-Oriented Players
+718,674520,Mahmoud Al Mardi,Left Winger,Al-Hussein SC,1.0,3.0,5.549999999999999,3.675,13.46,2,Creative / Attacking Players
+718,423812,Phillipp Mwene,Left Midfielder,Mainz 05,1.0,2.0,5.950000000000001,3.675,13.46,2,Creative / Attacking Players
+720,1027472,Wilfried Singo,Center Back,Galatasaray,3.0,3.0,4.342553191489362,3.671276595744681,13.44,3,Goal-Oriented Players
+721,866108,Samuel Moutoussamy,Defensive Midfielder,Atromitos,3.0,0.0,5.528301886792452,3.664150943396226,13.42,2,Creative / Attacking Players
+722,895954,Álvaro Fidalgo,Attacking Midfielder,Real Betis,3.0,0.0,5.518867924528302,3.659433962264151,13.4,2,Creative / Attacking Players
+722,1469826,Olwethu Makhanya,Center Back,Philadelphia Union,2.0,0.0,6.11891891891892,3.65945945945946,13.4,3,Goal-Oriented Players
+724,1308909,Cristian Volpato,Right Winger,Sassuolo,2.0,4.0,4.507692307692308,3.653846153846154,13.38,3,Goal-Oriented Players
+724,210683,Aïssa Mandi,Center Back,Levante,2.0,0.0,6.109375,3.6546875,13.38,3,Goal-Oriented Players
+726,249063,Jaroslav Zeleny,Center Back,Sparta Prague,1.0,5.0,4.703703703703703,3.651851851851852,13.37,3,Goal-Oriented Players
+727,500932,Joris Kayembe Ditu,Left Back,Genk,1.0,2.0,5.886206896551725,3.643103448275862,13.34,2,Creative / Attacking Players
+728,1254394,Obed Vargas,Defensive Midfielder,Atletico Madrid,4.0,1.0,4.4828125,3.64140625,13.33,2,Creative / Attacking Players
+729,1127585,Sondre Klingen Langås,Center Back,Derby County,3.0,1.0,5.0736842105263165,3.6368421052631583,13.32,3,Goal-Oriented Players
+730,1107735,Sphephelo Sithole,Defensive Midfielder,Tondela,3.0,0.0,5.462790697674419,3.631395348837209,13.3,3,Goal-Oriented Players
+730,848607,Hassan Al Tambakti,Center Back,Al Hilal,2.0,0.0,6.064285714285714,3.632142857142857,13.3,3,Goal-Oriented Players
+732,1600334,Ime Okon,Center Back,Hannover 96,2.0,0.0,6.052777777777778,3.626388888888889,13.28,3,Goal-Oriented Players
+733,727586,Jorge Sánchez,Right Back,Atlas,2.0,3.0,4.814999999999999,3.6075,13.21,2,Creative / Attacking Players
+734,848034,Santiago Bueno,Center Back,Wolverhampton Wanderers,4.0,1.0,4.394545454545455,3.597272727272728,13.17,3,Goal-Oriented Players
+735,751998,Omar Alderete,Center Back,Sunderland,1.0,1.0,6.188,3.594,13.16,3,Goal-Oriented Players
+735,1337765,Junnosuke Suzuki,Right Back,FC København,2.0,1.0,5.588679245283018,3.594339622641509,13.16,2,Creative / Attacking Players
+735,847983,Lisandro Martínez,Center Back,Manchester United,1.0,1.0,6.19,3.595,13.16,2,Creative / Attacking Players
+738,823457,Abdullah Alkhaibari,Central Midfielder,Al Nassr FC,1.0,1.0,6.180597014925373,3.5902985074626863,13.15,2,Creative / Attacking Players
+738,785377,Aiden O'Neill,Defensive Midfielder,New York City FC,0.0,1.0,6.7844444444444445,3.5922222222222224,13.15,2,Creative / Attacking Players
+740,935728,Ao Tanaka,Defensive Midfielder,Leeds United,4.0,0.0,4.775925925925925,3.587962962962963,13.14,2,Creative / Attacking Players
+741,1085401,David Zima,Center Back,Slavia Prague,1.0,3.0,5.37,3.585,13.13,3,Goal-Oriented Players
+742,1243246,Livano Comenencia,Central Midfielder,FC Zürich,2.0,0.0,5.968421052631579,3.5842105263157897,13.12,3,Goal-Oriented Players
+743,822716,Hannes Delcroix,Center Back,Lugano,1.0,1.0,6.153571428571429,3.5767857142857147,13.1,3,Goal-Oriented Players
+744,1343750,Renato Veiga,Center Back,Villarreal,2.0,0.0,5.934426229508197,3.5672131147540984,13.06,3,Goal-Oriented Players
+745,724531,Sarpreet Singh,Attacking Midfielder,TSC Backa Topola,2.0,2.0,5.11875,3.559375,13.03,2,Creative / Attacking Players
+746,411617,Aymeric Laporte,Center Back,Athletic Club,0.0,2.0,6.314285714285715,3.5571428571428574,13.02,3,Goal-Oriented Players
+747,1247001,Mohannad Abu Taha,Left Wing-Back,Al Quwa Al Jawiya,1.0,1.0,6.1066666666666665,3.553333333333333,13.01,2,Creative / Attacking Players
+748,1124424,Thalente Mbatha,Defensive Midfielder,Orlando Pirates,2.0,1.0,5.502127659574469,3.5510638297872346,13.0,2,Creative / Attacking Players
+748,888921,Lewis Ferguson,Defensive Midfielder,Bologna,2.0,1.0,5.5030769230769225,3.551538461538461,13.0,2,Creative / Attacking Players
+750,439148,Morten Thorsby,Central Midfielder,Cremonese,3.0,4.0,3.694230769230769,3.5471153846153847,12.99,1,Low-Performance Players
+751,906944,Mohanad Lasheen,Defensive Midfielder,Pyramids FC,0.0,2.0,6.2875000000000005,3.54375,12.98,2,Creative / Attacking Players
+752,885870,Connor Metcalfe,Attacking Midfielder,St. Pauli,1.0,4.0,4.876744186046512,3.538372093023256,12.96,2,Creative / Attacking Players
+752,1113688,Ali Al Hamadi,Striker,Ipswich Town,3.0,1.0,4.88,3.54,12.96,3,Goal-Oriented Players
+754,1178629,Jayden Adams,Defensive Midfielder,,2.0,1.0,5.476,3.5380000000000003,12.95,2,Creative / Attacking Players
+755,751066,Tahith Chong,Right Midfielder,Sheffield United,3.0,2.0,4.467567567567568,3.533783783783784,12.94,3,Goal-Oriented Players
+756,1200016,Ruben Providence,Left Winger,Almere City FC,3.0,3.0,4.0431372549019615,3.5215686274509808,12.89,2,Creative / Attacking Players
+757,848612,Nasser Al-Dawsari,Central Midfielder,Al Hilal,1.0,1.0,6.012500000000001,3.5062500000000005,12.84,2,Creative / Attacking Players
+758,643724,Philipp Lienhart,Center Back,Freiburg,2.0,0.0,5.808,3.504,12.83,3,Goal-Oriented Players
+759,1241957,Matías Galarza,Central Midfielder,River Plate,3.0,1.0,4.800000000000001,3.5000000000000004,12.82,2,Creative / Attacking Players
+760,1137667,Piero Hincapié,Left Back,Arsenal,1.0,2.0,5.569841269841271,3.484920634920635,12.76,2,Creative / Attacking Players
+761,1162514,Marko Lawk Farji,Left Winger,Venezia,3.0,2.0,4.364864864864865,3.4824324324324323,12.75,3,Goal-Oriented Players
+762,268375,Emiliano Martínez,Keeper,Aston Villa,0.0,1.0,6.55625,3.4781250000000004,12.74,3,Goal-Oriented Players
+763,532700,Ricardo Adé,Center Back,LDU de Quito,1.0,0.0,6.350877192982456,3.475438596491228,12.73,3,Goal-Oriented Players
+763,789598,Alfie Jones,Center Back,Middlesbrough,1.0,1.0,5.955172413793103,3.4775862068965515,12.73,3,Goal-Oriented Players
+763,146801,Hernán Galíndez,Keeper,Huracan,0.0,0.0,6.951162790697674,3.475581395348837,12.73,3,Goal-Oriented Players
+766,39591,Axel Witsel,Defensive Midfielder,,1.0,2.0,5.544680851063831,3.472340425531915,12.71,3,Goal-Oriented Players
+767,230134,Roberto Lopes,Center Back,Shamrock Rovers,3.0,0.0,5.121276595744681,3.4606382978723405,12.67,2,Creative / Attacking Players
+768,384407,Saleh Al-Shehri,Striker,Al Ittihad,5.0,2.0,3.111538461538461,3.4557692307692305,12.65,1,Low-Performance Players
+769,1130691,Kamaldeen Sulemana,Attacking Midfielder,Atalanta,4.0,2.0,3.701538461538462,3.450769230769231,12.63,2,Creative / Attacking Players
+770,764018,Gregor Kobel,Keeper,Borussia Dortmund,0.0,0.0,6.892307692307693,3.4461538461538463,12.62,3,Goal-Oriented Players
+771,523731,Shogo Taniguchi,Center Back,St.Truiden,1.0,1.0,5.8886792452830194,3.4443396226415097,12.61,2,Creative / Attacking Players
+771,848593,Ángelo Preciado,Right Midfielder,Atletico MG,1.0,5.0,4.2880597014925375,3.444029850746269,12.61,2,Creative / Attacking Players
+773,933845,Rayan Aït-Nouri,Left Back,Manchester City,0.0,5.0,4.877586206896551,3.438793103448276,12.59,2,Creative / Attacking Players
+773,431215,Hasan Kadesh,Center Back,Al Ittihad,1.0,1.0,5.877777777777778,3.438888888888889,12.59,2,Creative / Attacking Players
+775,769166,Jean-Ricner Bellegarde,Central Midfielder,Wolverhampton Wanderers,1.0,2.0,5.459183673469388,3.429591836734694,12.56,2,Creative / Attacking Players
+776,319784,Alisson Becker,Keeper,Liverpool,0.0,0.0,6.856521739130434,3.428260869565217,12.55,3,Goal-Oriented Players
+777,505872,Ramy Rabia,Center Back,Al-Ain,3.0,1.0,4.647826086956522,3.423913043478261,12.54,3,Goal-Oriented Players
+777,540963,Sander Berge,Defensive Midfielder,Fulham,0.0,3.0,5.65,3.4250000000000003,12.54,3,Goal-Oriented Players
+779,1428153,Ngal Ayel Mukau,Right Winger,Lille,2.0,1.0,5.245901639344263,3.422950819672132,12.53,3,Goal-Oriented Players
+780,602211,Seko Fofana,Central Midfielder,Rennes,4.0,0.0,4.43125,3.4156250000000004,12.51,1,Low-Performance Players
+781,614912,Marwane Saadane,Center Back,Al Fateh FC,0.0,2.0,6.030434782608697,3.415217391304348,12.5,3,Goal-Oriented Players
+781,921253,Ronald Araujo,Center Back,Barcelona,4.0,0.0,4.429310344827586,3.414655172413793,12.5,3,Goal-Oriented Players
+783,1101030,Kai Trewin,Defensive Midfielder,New York City FC,1.0,0.0,6.221276595744682,3.4106382978723406,12.49,2,Creative / Attacking Players
+784,793907,Trevoh Chalobah,Center Back,Chelsea,3.0,0.0,5.01875,3.409375,12.48,3,Goal-Oriented Players
+784,603669,Ugurcan Çakir,Keeper,Galatasaray,0.0,0.0,6.815789473684211,3.4078947368421053,12.48,3,Goal-Oriented Players
+786,103468,Johny Placide,Keeper,SC Bastia,0.0,1.0,6.411764705882353,3.405882352941177,12.47,3,Goal-Oriented Players
+787,614006,Rúben Dias,Center Back,Manchester City,2.0,0.0,5.6000000000000005,3.4000000000000004,12.45,3,Goal-Oriented Players
+787,546201,Ehsan Haddad,Right Wing-Back,Al-Hussein SC,0.0,1.0,6.4,3.4,12.45,3,Goal-Oriented Players
+789,828273,Kim Moon-Hwan,Right Back,Daejeon Hana Citizen,0.0,3.0,5.595555555555556,3.3977777777777782,12.44,2,Creative / Attacking Players
+790,694060,Meschack Elia,Right Winger,Alanyaspor,4.0,2.0,3.5913043478260867,3.395652173913043,12.43,2,Creative / Attacking Players
+790,1199382,Josué Casimir,Right Midfielder,Auxerre,1.0,1.0,5.788095238095238,3.394047619047619,12.43,2,Creative / Attacking Players
+792,253991,Ronwen Williams,Keeper,Mamelodi Sundowns FC,0.0,0.0,6.784999999999998,3.392499999999999,12.42,3,Goal-Oriented Players
+793,1272436,Ibrahim Adel,Left Winger,Nordsjælland,4.0,1.0,3.979545454545455,3.389772727272728,12.41,2,Creative / Attacking Players
+793,150242,Eloy Room,Keeper,Miami FC,0.0,0.0,6.780769230769232,3.390384615384616,12.41,3,Goal-Oriented Players
+795,1223132,José Córdoba,Center Back,Norwich City,2.0,1.0,5.1755102040816325,3.3877551020408165,12.4,3,Goal-Oriented Players
+796,795630,Diogo Costa,Keeper,FC Porto,0.0,0.0,6.764615384615384,3.382307692307692,12.38,3,Goal-Oriented Players
+797,1432180,Ayoub Al Oui,Right Back,Al-Gharafa,2.0,0.0,5.558536585365854,3.379268292682927,12.37,2,Creative / Attacking Players
+798,466439,Mike Maignan,Keeper,Milan,0.0,0.0,6.7253968253968255,3.3626984126984127,12.31,3,Goal-Oriented Players
+798,1284492,Samed Bazdar,Striker,Real Zaragoza,5.0,2.0,2.9224489795918367,3.361224489795918,12.31,1,Low-Performance Players
+800,925647,Jin-Seob Park,Defensive Midfielder,Zhejiang Professional,1.0,2.0,5.320833333333333,3.360416666666666,12.3,3,Goal-Oriented Players
+800,847629,Derek Cornelius,Center Back,Marseille,2.0,1.0,5.121212121212121,3.360606060606061,12.3,3,Goal-Oriented Players
+802,1232172,Zeno Debast,Center Back,Sporting CP,1.0,2.0,5.3055555555555545,3.352777777777777,12.28,3,Goal-Oriented Players
+802,1074586,Israel Reyes,Center Back,CF America,0.0,1.0,6.31,3.355,12.28,2,Creative / Attacking Players
+802,1225995,Robin Hranác,Center Back,Hoffenheim,2.0,0.0,5.508333333333334,3.354166666666667,12.28,3,Goal-Oriented Players
+802,497352,Gustavo Velázquez,Center Back,Cerro Porteno,1.0,0.0,6.106122448979591,3.3530612244897955,12.28,3,Goal-Oriented Players
+806,1181438,Martin Expérience,Left Wing-Back,,1.0,1.0,5.702857142857143,3.3514285714285714,12.27,3,Goal-Oriented Players
+806,1279040,Gavi,Defensive Midfielder,Barcelona,3.0,2.0,4.103225806451613,3.3516129032258064,12.27,2,Creative / Attacking Players
+806,740997,Ghislain Konan,Left Back,Gil Vicente,0.0,2.0,5.901999999999999,3.3509999999999995,12.27,2,Creative / Attacking Players
+809,935622,Marcus Holmgren Pedersen,Right Midfielder,Torino,2.0,2.0,4.690566037735849,3.3452830188679243,12.25,3,Goal-Oriented Players
+809,1359649,Noah Sadiki,Central Midfielder,Sunderland,0.0,2.0,5.890740740740741,3.3453703703703703,12.25,2,Creative / Attacking Players
+809,773229,Édouard Mendy,Keeper,Al Ahli,0.0,0.0,6.691228070175439,3.34561403508772,12.25,3,Goal-Oriented Players
+812,1053477,Tae-Hyeon Kim,Center Back,Kashima Antlers,1.0,1.0,5.666666666666667,3.333333333333333,12.2,3,Goal-Oriented Players
+812,904098,Mert Müldür,Right Back,Fenerbahçe,2.0,2.0,4.662857142857142,3.331428571428571,12.2,3,Goal-Oriented Players
+812,195750,Nicolás Tagliafico,Left Back,Lyon,0.0,3.0,5.465384615384616,3.332692307692308,12.2,2,Creative / Attacking Players
+815,340020,Yassine Bounou,Keeper,Al Hilal,0.0,0.0,6.659999999999999,3.33,12.19,3,Goal-Oriented Players
+815,1173250,Arthur Theate,Center Back,Eintracht Frankfurt,2.0,0.0,5.456140350877193,3.3280701754385964,12.19,3,Goal-Oriented Players
+817,207642,Santiago Arias,Right Back,Independiente,0.0,5.0,4.649122807017544,3.324561403508772,12.17,2,Creative / Attacking Players
+818,1113790,Oscar Bobb,Right Winger,Fulham,0.0,3.0,5.441818181818182,3.3209090909090917,12.16,2,Creative / Attacking Players
+819,156008,Jordan Henderson,Defensive Midfielder,Brentford,1.0,3.0,4.837037037037038,3.318518518518519,12.15,2,Creative / Attacking Players
+819,694558,Dominic Hyam,Center Back,Wrexham,1.0,0.0,6.037931034482759,3.3189655172413794,12.15,3,Goal-Oriented Players
+821,831474,Marin Pongracic,Center Back,Fiorentina,1.0,0.0,6.023880597014924,3.3119402985074617,12.13,3,Goal-Oriented Players
+821,924485,Mark McKenzie,Center Back,Toulouse,0.0,2.0,5.827659574468084,3.313829787234042,12.13,3,Goal-Oriented Players
+821,322003,Jesper Karlström,Central Midfielder,Udinese,1.0,0.0,6.025,3.3125,12.13,3,Goal-Oriented Players
+824,771630,Gideon Mensah,Left Back,1. FC Köln,0.0,2.0,5.806521739130435,3.303260869565217,12.09,2,Creative / Attacking Players
+825,1213678,Amer Jamous,Central Midfielder,Al Zawraa,3.0,1.0,4.4,3.3,12.08,2,Creative / Attacking Players
+826,1022128,Hamdi Fathy,Center Back,Al-Wakrah,2.0,0.0,5.389473684210526,3.294736842105263,12.06,3,Goal-Oriented Players
+827,1561552,Ayyoub Bouaddi,Defensive Midfielder,Lille,1.0,1.0,5.575409836065573,3.2877049180327864,12.04,3,Goal-Oriented Players
+828,690149,Axel Tuanzebe,Center Back,Burnley,2.0,0.0,5.36875,3.2843750000000003,12.03,3,Goal-Oriented Players
+829,593116,Sofyan Amrabat,Defensive Midfielder,Fenerbahçe,2.0,0.0,5.349090909090909,3.2745454545454544,11.99,3,Goal-Oriented Players
+830,1683391,Orlando Gill,Keeper,San Lorenzo,0.0,0.0,6.532,3.266,11.96,3,Goal-Oriented Players
+831,181276,Romelu Lukaku,Striker,Napoli,5.0,2.0,2.7291666666666665,3.264583333333333,11.95,1,Low-Performance Players
+832,531913,Orlando Mosquera,Keeper,Al-Fayha,0.0,0.0,6.514893617021277,3.2574468085106383,11.93,3,Goal-Oriented Players
+833,389845,Joshua Brenet,Right Back,Kayserispor,0.0,3.0,5.302631578947369,3.2513157894736846,11.9,2,Creative / Attacking Players
+834,465750,Timothy Castagne,Right Back,Fulham,0.0,4.0,4.888709677419353,3.2443548387096763,11.88,3,Goal-Oriented Players
+835,50207,Camilo Vargas,Keeper,Atlas,0.0,1.0,6.085714285714285,3.242857142857143,11.87,3,Goal-Oriented Players
+836,1309634,Dailon Livramento,Striker,Hellas Verona,3.0,2.0,3.880851063829788,3.2404255319148936,11.86,1,Low-Performance Players
+836,474448,Antonio Sanabria,Striker,Cremonese,2.0,1.0,4.875555555555555,3.2377777777777776,11.86,2,Creative / Attacking Players
+838,56829,Fernando Muslera,Keeper,Estudiantes,0.0,0.0,6.4734693877551015,3.2367346938775508,11.85,3,Goal-Oriented Players
+839,1131896,Hadj Mahmoud,Central Midfielder,Espérance,2.0,1.0,4.854545454545455,3.2272727272727275,11.82,2,Creative / Attacking Players
+840,308921,Boualem Khoukhi,Center Back,Al-Sadd,2.0,0.0,5.246511627906977,3.2232558139534886,11.8,2,Creative / Attacking Players
+841,1434889,Assane Diao,Right Winger,Como,2.0,1.0,4.833333333333333,3.216666666666667,11.78,3,Goal-Oriented Players
+842,1026065,Matt Freese,Keeper,New York City FC,0.0,0.0,6.430769230769231,3.2153846153846155,11.77,3,Goal-Oriented Players
+842,149583,Lucas Mendes,Center Back,Al-Wakrah,2.0,1.0,4.829032258064518,3.2145161290322597,11.77,2,Creative / Attacking Players
+844,1335765,Patrick Beach,Keeper,Troyes,0.0,0.0,6.424444444444443,3.2122222222222216,11.76,3,Goal-Oriented Players
+844,308131,Aníbal Godoy,Central Midfielder,San Diego FC,0.0,1.0,6.022222222222222,3.2111111111111112,11.76,3,Goal-Oriented Players
+846,1165477,Telmo Arcanjo,Right Winger,Vitoria de Guimaraes,3.0,0.0,4.61,3.205,11.74,1,Low-Performance Players
+846,1175733,Kelvin Pires,Center Back,SJK,2.0,1.0,4.811428571428572,3.2057142857142864,11.74,3,Goal-Oriented Players
+846,1020026,Sebastián Cáceres,Center Back,CF America,1.0,0.0,5.810000000000001,3.2050000000000005,11.74,3,Goal-Oriented Players
+849,1071179,Giovanni Reyna,Attacking Midfielder,Borussia Mönchengladbach,3.0,1.0,4.207692307692308,3.203846153846154,11.73,2,Creative / Attacking Players
+850,1131987,Bart Verbruggen,Keeper,Brighton & Hove Albion,0.0,0.0,6.403636363636364,3.201818181818182,11.72,3,Goal-Oriented Players
+851,970544,Cameron Devlin,Central Midfielder,Rangers,2.0,0.0,5.19,3.195,11.7,2,Creative / Attacking Players
+851,649744,Duke Lacroix,Left Back,Colorado Springs Switchbacks FC,0.0,4.0,4.793103448275862,3.1965517241379318,11.7,2,Creative / Attacking Players
+853,1258316,Sherzod Nasrulloev,Left Wing-Back,Nasaf Qarshi,0.0,0.0,6.380000000000001,3.1900000000000004,11.68,2,Creative / Attacking Players
+853,640642,Jack Hendry,Center Back,Al-Ettifaq,1.0,1.0,5.379545454545454,3.189772727272727,11.68,3,Goal-Oriented Players
+855,1292810,Kobbie Mainoo,Defensive Midfielder,Manchester United,1.0,3.0,4.573469387755103,3.186734693877552,11.67,2,Creative / Attacking Players
+855,1224691,Ahmed Qasem,Left Midfielder,Nashville SC,2.0,1.0,4.776923076923077,3.1884615384615387,11.67,3,Goal-Oriented Players
+857,198444,Tim Ream,Center Back,Charlotte FC,0.0,1.0,5.969767441860465,3.1848837209302325,11.66,3,Goal-Oriented Players
+858,267826,Weverton,Keeper,Gremio,0.0,1.0,5.9609375,3.18046875,11.65,3,Goal-Oriented Players
+859,775539,Noussair Mazraoui,Left Back,Manchester United,0.0,3.0,5.155555555555556,3.177777777777778,11.64,2,Creative / Attacking Players
+859,1347933,Gustavo Caballero,Right Winger,Santos FC,3.0,1.0,4.16,3.18,11.64,1,Low-Performance Players
+861,890503,Kevin Pina,Defensive Midfielder,FC Krasnodar,4.0,1.0,3.553703703703704,3.1768518518518523,11.63,1,Low-Performance Players
+862,1014602,Jacob Widell Zetterström,Keeper,Derby County,0.0,0.0,6.339024390243902,3.169512195121951,11.61,3,Goal-Oriented Players
+862,1227878,Raúl Rangel,Keeper,Chivas,0.0,0.0,6.34406779661017,3.172033898305085,11.61,3,Goal-Oriented Players
+862,898424,Ahmed Fathy,Defensive Midfielder,Al-Arabi,0.0,1.0,5.9393939393939394,3.16969696969697,11.61,2,Creative / Attacking Players
+865,574642,Ellyes Skhiri,Defensive Midfielder,Eintracht Frankfurt,1.0,0.0,5.714814814814814,3.157407407407407,11.56,2,Creative / Attacking Players
+866,794253,Justin Kluivert,Attacking Midfielder,AFC Bournemouth,2.0,0.0,5.084375,3.1421875,11.51,2,Creative / Attacking Players
+867,450739,Alexander Schlager,Keeper,Werder Bremen,0.0,0.0,6.283050847457628,3.141525423728814,11.5,3,Goal-Oriented Players
+868,641595,Nikola Moro,Defensive Midfielder,Bologna,2.0,1.0,4.668571428571429,3.134285714285715,11.48,3,Goal-Oriented Players
+868,1606279,Akam Hashem,Center Back,Al Zawraa,0.0,1.0,5.869565217391305,3.1347826086956525,11.48,3,Goal-Oriented Players
+870,767789,Marco Friedl,Center Back,Werder Bremen,1.0,0.0,5.667441860465117,3.1337209302325584,11.47,3,Goal-Oriented Players
+870,873227,Jerome Opoku,Center Back,Başakşehir,1.0,1.0,5.26346153846154,3.13173076923077,11.47,3,Goal-Oriented Players
+872,1391753,Yaimar Medina,Left Back,Genk,1.0,3.0,4.4603174603174605,3.13015873015873,11.46,2,Creative / Attacking Players
+873,303919,Jordan Pickford,Keeper,Everton,0.0,0.0,6.249180327868852,3.124590163934426,11.44,3,Goal-Oriented Players
+874,1053679,Zion Suzuki,Keeper,Parma,0.0,0.0,6.230555555555555,3.1152777777777776,11.41,3,Goal-Oriented Players
+875,660625,Unai Simón,Keeper,Athletic Club,0.0,0.0,6.225714285714287,3.1128571428571434,11.4,3,Goal-Oriented Players
+875,660148,Dzenis Burnic,Central Midfielder,Karlsruher SC,1.0,1.0,5.228260869565217,3.1141304347826084,11.4,2,Creative / Attacking Players
+875,906945,Ismail Jakobs,Left Back,Galatasaray,0.0,3.0,5.024615384615384,3.112307692307692,11.4,3,Goal-Oriented Players
+878,117539,Hassan Al Haydos,Right Winger,Al-Sadd,4.0,3.0,2.6189189189189195,3.10945945945946,11.39,2,Creative / Attacking Players
+878,1232264,Lee Gi-Hyuk,Center Back,Gangwon FC,0.0,0.0,6.219999999999998,3.109999999999999,11.39,3,Goal-Oriented Players
+880,1356595,Dominique Simon,Central Midfielder,Pardubice,1.0,1.0,5.2,3.1,11.35,2,Creative / Attacking Players
+881,1399943,Luc De Fougerolles,Center Back,Fulham U21,0.0,1.0,5.793181818181819,3.0965909090909096,11.34,2,Creative / Attacking Players
+882,939780,Isak Hien,Center Back,Atalanta,1.0,0.0,5.588524590163935,3.094262295081968,11.33,3,Goal-Oriented Players
+882,554534,Alexander Nübel,Keeper,Beşiktaş,0.0,2.0,5.386363636363637,3.0931818181818183,11.33,3,Goal-Oriented Players
+884,848317,Michael Woud,Keeper,Auckland FC,0.0,1.0,5.782500000000001,3.0912500000000005,11.32,3,Goal-Oriented Players
+885,857120,Ayumu Seko,Center Back,Le Havre,0.0,0.0,6.165116279069768,3.082558139534884,11.29,2,Creative / Attacking Players
+886,267365,Marquinhos,Center Back,Paris Saint-Germain,2.0,0.0,4.96,3.08,11.28,3,Goal-Oriented Players
+886,1579341,Thabang Matuludi,Right Back,Polokwane City,2.0,0.0,4.964102564102565,3.082051282051282,11.28,3,Goal-Oriented Players
+886,1187283,Tomás Araújo,Center Back,Benfica,1.0,2.0,4.760714285714286,3.080357142857143,11.28,3,Goal-Oriented Players
+889,1077903,Matej Kovár,Keeper,PSV Eindhoven,0.0,0.0,6.154999999999999,3.0775,11.27,3,Goal-Oriented Players
+890,1429607,Kojo Peprah Oppong,Center Back,Nice,1.0,0.0,5.533898305084747,3.066949152542373,11.23,3,Goal-Oriented Players
+891,873557,Dominik Kotarski,Keeper,FC København,0.0,1.0,5.727419354838709,3.063709677419354,11.22,3,Goal-Oriented Players
+892,1680696,Khulumani Ndamane,Center Back,Mamelodi Sundowns FC,0.0,2.0,5.30377358490566,3.05188679245283,11.17,3,Goal-Oriented Players
+893,466867,Nikola Vasilj,Keeper,St. Pauli,0.0,0.0,6.0673076923076925,3.0336538461538463,11.11,3,Goal-Oriented Players
+894,369742,Jackson Irvine,Defensive Midfielder,St. Pauli,0.0,1.0,5.654054054054054,3.027027027027027,11.08,3,Goal-Oriented Players
+895,1201760,Marvin Senaya,Right Back,Auxerre,1.0,0.0,5.415789473684211,3.0078947368421054,11.01,2,Creative / Attacking Players
+896,578756,Deiver Machado,Left Back,Nantes,2.0,1.0,4.408108108108109,3.0040540540540546,11.0,2,Creative / Attacking Players
+897,938524,Godfried Roemeratoe,Central Midfielder,RKC Waalwijk,0.0,2.0,5.205769230769231,3.002884615384615,10.99,3,Goal-Oriented Players
+898,497662,Carl Starfelt,Center Back,Celta Vigo,1.0,0.0,5.3931818181818185,2.996590909090909,10.97,3,Goal-Oriented Players
+899,178778,Oliver Baumann,Keeper,Hoffenheim,0.0,0.0,5.984615384615386,2.992307692307693,10.96,3,Goal-Oriented Players
+900,1432212,Mateo Chávez,Left Back,AZ Alkmaar,2.0,2.0,3.978125,2.9890625,10.94,2,Creative / Attacking Players
+901,693599,Exequiel Palacios,Defensive Midfielder,Bayer Leverkusen,1.0,1.0,4.964285714285714,2.982142857142857,10.92,2,Creative / Attacking Players
+901,851626,Hiroki Ito,Center Back,Bayern München,2.0,2.0,3.9642857142857135,2.982142857142857,10.92,1,Low-Performance Players
+903,276738,Antonio Rüdiger,Center Back,Real Madrid,1.0,0.0,5.355813953488371,2.977906976744185,10.9,3,Goal-Oriented Players
+904,167247,Seung-Gyu Kim,Keeper,FC Tokyo,0.0,0.0,5.947619047619048,2.973809523809524,10.89,3,Goal-Oriented Players
+904,816223,Stephen Eustaquio,Central Midfielder,FC Porto,2.0,1.0,4.348275862068966,2.974137931034483,10.89,2,Creative / Attacking Players
+906,894803,Djed Spence,Left Back,Tottenham Hotspur,0.0,1.0,5.531428571428571,2.9657142857142857,10.86,3,Goal-Oriented Players
+907,1079194,Don Deedson Louicius,Left Wing-Back,FC Dallas,3.0,1.0,3.728571428571428,2.9642857142857144,10.85,1,Low-Performance Players
+908,1839745,Issa Laye,Center Back,Al-Arabi,0.0,1.0,5.518181818181817,2.9590909090909085,10.83,3,Goal-Oriented Players
+908,883823,Elisha Owusu,Central Midfielder,Auxerre,0.0,0.0,5.91578947368421,2.957894736842105,10.83,2,Creative / Attacking Players
+910,812652,Facundo Medina,Center Back,Marseille,0.0,2.0,5.107142857142857,2.9535714285714283,10.81,3,Goal-Oriented Players
+911,466214,Júnior Alonso,Center Back,Atlanta United,1.0,0.0,5.294285714285714,2.9471428571428566,10.79,3,Goal-Oriented Players
+912,674332,Ayman Hussein,Striker,Al-Karma,2.0,0.0,4.684615384615385,2.9423076923076925,10.77,3,Goal-Oriented Players
+912,620917,Ko Itakura,Center Back,Ajax,1.0,1.0,4.883720930232558,2.941860465116279,10.77,3,Goal-Oriented Players
+914,1179875,Ivan Basic,Central Midfielder,FC Astana,2.0,2.0,3.875,2.9375,10.76,2,Creative / Attacking Players
+915,208077,Danilo,Center Back,Flamengo,2.0,1.0,4.273134328358208,2.936567164179104,10.75,3,Goal-Oriented Players
+915,615414,Assim Madibo,Defensive Midfielder,Al-Duhail SC,0.0,0.0,5.870833333333334,2.935416666666667,10.75,2,Creative / Attacking Players
+917,185014,Mathew Leckie,Central Midfielder,Melbourne City FC,0.0,1.0,5.458333333333333,2.9291666666666667,10.73,3,Goal-Oriented Players
+918,1186978,Lukás Hornícek,Keeper,Braga,0.0,0.0,5.8359375,2.91796875,10.68,3,Goal-Oriented Players
+919,27299,Manuel Neuer,Keeper,Bayern München,0.0,0.0,5.821568627450981,2.9107843137254905,10.66,3,Goal-Oriented Players
+920,1167220,Joan García,Keeper,Barcelona,0.0,0.0,5.817460317460318,2.908730158730159,10.65,3,Goal-Oriented Players
+921,1092015,Oguz Aydin,Left Winger,Fenerbahçe,0.0,5.0,3.812857142857143,2.906428571428571,10.64,1,Low-Performance Players
+921,1680659,Samukelo Kabini,Left Back,Molde,0.0,3.0,4.612820512820513,2.9064102564102567,10.64,3,Goal-Oriented Players
+923,873566,Yahia Fofana,Keeper,Rizespor,0.0,1.0,5.40625,2.903125,10.63,3,Goal-Oriented Players
+924,1286428,Garven Metusala,Center Back,Colorado Springs Switchbacks FC,1.0,1.0,4.780487804878049,2.8902439024390243,10.58,3,Goal-Oriented Players
+925,1413151,Moutaz Neffati,Right Back,IFK Norrköping,3.0,1.0,3.575675675675676,2.887837837837838,10.57,1,Low-Performance Players
+926,1270002,Luca Jaquez,Center Back,VfB Stuttgart,1.0,1.0,4.765853658536585,2.8829268292682926,10.56,3,Goal-Oriented Players
+927,552718,Kristoffer Ajer,Center Back,Brentford,0.0,2.0,4.95,2.875,10.53,3,Goal-Oriented Players
+928,754126,Kevin Danso,Center Back,Tottenham Hotspur,0.0,3.0,4.538461538461538,2.8692307692307693,10.51,3,Goal-Oriented Players
+929,185644,Mathew Ryan,Keeper,,0.0,0.0,5.736734693877551,2.868367346938776,10.5,3,Goal-Oriented Players
+929,1042511,Aimar Sher,Defensive Midfielder,Sarpsborg 08,1.0,0.0,5.134285714285714,2.867142857142857,10.5,2,Creative / Attacking Players
+931,828159,Min-Jae Kim,Center Back,Bayern München,1.0,1.0,4.725373134328359,2.8626865671641792,10.48,3,Goal-Oriented Players
+932,309153,Karim Boudiaf,Defensive Midfielder,Al-Duhail SC,1.0,0.0,5.110714285714286,2.8553571428571427,10.45,3,Goal-Oriented Players
+933,783505,Edson Álvarez,Defensive Midfielder,West Ham United,0.0,1.0,5.3,2.85,10.44,3,Goal-Oriented Players
+934,643482,Derrick Etienne,Striker,Toronto FC,2.0,2.0,3.6864864864864857,2.843243243243242,10.41,2,Creative / Attacking Players
+935,1232143,Tomoki Hayakawa,Keeper,Kashima Antlers,0.0,0.0,5.678260869565217,2.8391304347826085,10.4,3,Goal-Oriented Players
+935,924844,Roshon van Eijma,Center Back,RKC Waalwijk,1.0,0.0,5.083333333333333,2.8416666666666663,10.4,3,Goal-Oriented Players
+935,1294120,Abdulla Abdullaev,Central Midfielder,Dibba Al Fujairah,0.0,0.0,5.68125,2.840625,10.4,2,Creative / Attacking Players
+938,797797,Dennis Hadzikadunic,Center Back,FC Rostov,0.0,2.0,4.873170731707317,2.8365853658536584,10.39,3,Goal-Oriented Players
+939,546252,Viktor Johansson,Keeper,Stoke City,0.0,1.0,5.268421052631579,2.8342105263157897,10.38,3,Goal-Oriented Players
+940,1186228,Josip Sutalo,Center Back,Ajax,0.0,0.0,5.652083333333334,2.826041666666667,10.35,3,Goal-Oriented Players
+941,794244,Armando Obispo,Center Back,PSV Eindhoven,2.0,1.0,4.025454545454545,2.812727272727273,10.3,1,Low-Performance Players
+941,729093,Mathías Olivera,Center Back,Napoli,0.0,2.0,4.826315789473685,2.8131578947368423,10.3,3,Goal-Oriented Players
+943,128949,Michael Boxall,Center Back,Minnesota United,0.0,0.0,5.621621621621622,2.810810810810811,10.29,3,Goal-Oriented Players
+943,1319972,Mike Penders,Keeper,Chelsea,0.0,0.0,5.623076923076923,2.8115384615384613,10.29,3,Goal-Oriented Players
+943,1138592,Zidane Iqbal,Defensive Midfielder,Jong FC Utrecht,1.0,1.0,4.622222222222224,2.811111111111112,10.29,2,Creative / Attacking Players
+946,940778,Khoziakbar Alidzhanov,Right Wing-Back,Pakhtakor Tashkent,0.0,0.0,5.616666666666666,2.808333333333333,10.28,2,Creative / Attacking Players
+947,115591,Ricardo Rodríguez,Left Back,Real Betis,0.0,2.0,4.791044776119403,2.7955223880597013,10.24,3,Goal-Oriented Players
+948,363364,Ederson,Keeper,Fenerbahçe,0.0,0.0,5.586,2.793,10.23,3,Goal-Oriented Players
+949,630672,Patrick Pentz,Keeper,Brøndby IF,0.0,0.0,5.584615384615385,2.7923076923076926,10.22,3,Goal-Oriented Players
+950,495193,Gastón Olveira,Keeper,Olimpia,0.0,0.0,5.574418604651164,2.7872093023255817,10.21,3,Goal-Oriented Players
+951,1213141,Mahmoud Abunada,Keeper,Al-Rayyan,0.0,0.0,5.565714285714286,2.782857142857143,10.19,3,Goal-Oriented Players
+952,1324871,Ben Gannon-Doak,Right Winger,AFC Bournemouth,1.0,3.0,3.744117647058824,2.772058823529412,10.15,2,Creative / Attacking Players
+953,1443464,Kendry Páez,Right Winger,River Plate,2.0,1.0,3.936507936507936,2.768253968253968,10.14,2,Creative / Attacking Players
+953,825623,Miles Robinson,Center Back,FC Cincinnati,0.0,0.0,5.54,2.77,10.14,3,Goal-Oriented Players
+955,1285492,Melvin Mastil,Keeper,Stade Nyonnais,0.0,0.0,5.526190476190477,2.7630952380952385,10.12,3,Goal-Oriented Players
+956,771686,Dylan Bronn,Center Back,Servette,1.0,1.0,4.522727272727273,2.7613636363636367,10.11,3,Goal-Oriented Players
+957,1013276,Callan Elliot,Right Back,Auckland FC,0.0,1.0,5.1119047619047615,2.755952380952381,10.09,2,Creative / Attacking Players
+958,1179369,Saed Al-Rosan,Center Back,Ethad All Ramtha,1.0,0.0,4.908695652173914,2.7543478260869567,10.08,3,Goal-Oriented Players
+958,434325,Thomas Partey,Central Midfielder,Villarreal,1.0,1.0,4.504081632653062,2.752040816326531,10.08,1,Low-Performance Players
+960,729988,Matt Turner,Keeper,Lyon,0.0,0.0,5.494285714285714,2.747142857142857,10.06,3,Goal-Oriented Players
+961,1050838,Anass Salah-Eddine,Left Back,Roma,0.0,1.0,5.092,2.746,10.05,2,Creative / Attacking Players
+961,760320,Aaron Wan-Bissaka,Right Back,West Ham United,0.0,2.0,4.688888888888889,2.7444444444444445,10.05,2,Creative / Attacking Players
+963,631757,Egil Selvik,Keeper,Watford,0.0,0.0,5.478571428571429,2.7392857142857143,10.03,3,Goal-Oriented Players
+963,1362998,Abdukodir Khusanov,Center Back,Manchester City,0.0,0.0,5.477586206896552,2.738793103448276,10.03,3,Goal-Oriented Players
+965,688278,Pervis Estupinán,Left Midfielder,Milan,2.0,1.0,3.862745098039216,2.731372549019608,10.0,1,Low-Performance Players
+966,705484,Eray Cömert,Center Back,,2.0,1.0,3.853191489361702,2.7265957446808518,9.98,1,Low-Performance Players
+966,433265,Jo Hyeon-Woo,Keeper,Ulsan HD FC,0.0,0.0,5.449090909090907,2.7245454545454537,9.98,3,Goal-Oriented Players
+968,1689371,Mohamed Alaa,Keeper,El Gouna FC,0.0,0.0,5.439473684210527,2.7197368421052635,9.96,3,Goal-Oriented Players
+969,1259187,Abduvohid Nematov,Keeper,Nasaf Qarshi,0.0,0.0,5.435294117647058,2.717647058823529,9.95,3,Goal-Oriented Players
+970,1077684,Ivor Pandur,Keeper,Rangers,0.0,0.0,5.426984126984126,2.713492063492063,9.94,3,Goal-Oriented Players
+970,929168,Akmal Mozgovoy,Attacking Midfielder,Pakhtakor Tashkent,0.0,1.0,5.030434782608697,2.7152173913043485,9.94,2,Creative / Attacking Players
+972,1202481,Bradley Cross,Left Back,Kaizer Chiefs,0.0,1.0,5.024242424242424,2.7121212121212124,9.93,2,Creative / Attacking Players
+973,857436,Nihad Mujakic,Center Back,Erzurumspor FK,1.0,1.0,4.417777777777777,2.7088888888888887,9.92,3,Goal-Oriented Players
+974,444000,Steven Moreira,Center Back,Columbus Crew,0.0,0.0,5.404545454545455,2.702272727272728,9.89,2,Creative / Attacking Players
+974,1254147,Antoine Mendy,Center Back,Nice,2.0,0.0,4.203076923076924,2.701538461538462,9.89,1,Low-Performance Players
+976,553476,Sergio Rochet,Keeper,Internacional,0.0,0.0,5.397727272727272,2.698863636363636,9.88,3,Goal-Oriented Players
+977,1026105,Dayne St. Clair,Keeper,Inter Miami CF,0.0,0.0,5.378181818181817,2.6890909090909085,9.85,3,Goal-Oriented Players
+977,1125997,Shurandy Sambo,Right Back,Burnley,0.0,1.0,4.982222222222222,2.6911111111111112,9.85,2,Creative / Attacking Players
+977,770880,Luca Zidane,Keeper,Granada,0.0,0.0,5.3812500000000005,2.6906250000000003,9.85,3,Goal-Oriented Players
+980,734654,Yazeed Abulaila,Keeper,Al-Hussein SC,0.0,1.0,4.9739130434782615,2.686956521739131,9.84,3,Goal-Oriented Players
+981,1413846,Jorrel Hato,Left Back,Chelsea,2.0,1.0,3.765151515151516,2.682575757575758,9.82,1,Low-Performance Players
+982,1420369,Zaid Tahseen,Center Back,Al Quwa Al Jawiya,0.0,1.0,4.958333333333333,2.6791666666666667,9.81,3,Goal-Oriented Players
+983,1425182,Ousmane Diomande,Center Back,Sporting CP,1.0,1.0,4.345283018867925,2.6726415094339626,9.79,3,Goal-Oriented Players
+983,1281230,Juan Portilla,Defensive Midfielder,Athletico Paranaense,0.0,1.0,4.945238095238095,2.6726190476190474,9.79,3,Goal-Oriented Players
+985,73462,Kristoffer Nordfeldt,Keeper,AIK,0.0,1.0,4.934883720930232,2.667441860465116,9.77,3,Goal-Oriented Players
+986,1178602,Senne Lammens,Keeper,Manchester United,0.0,0.0,5.324528301886792,2.662264150943396,9.75,3,Goal-Oriented Players
+987,1245998,Chris Brady,Keeper,Chicago Fire FC,0.0,0.0,5.309756097560975,2.654878048780488,9.72,3,Goal-Oriented Players
+987,922808,Keisuke Osako,Keeper,Sanfrecce Hiroshima,0.0,0.0,5.31090909090909,2.655454545454545,9.72,3,Goal-Oriented Players
+989,361717,Rui Silva,Keeper,Sporting CP,0.0,0.0,5.295522388059702,2.647761194029851,9.69,3,Goal-Oriented Players
+990,466890,Alireza Jahanbakhsh,Right Winger,FCV Dender EH,1.0,1.0,4.286666666666666,2.643333333333333,9.68,1,Low-Performance Players
+990,977404,César Huerta,Right Winger,Anderlecht,2.0,0.0,4.0851851851851855,2.642592592592593,9.68,2,Creative / Attacking Players
+992,1001335,Nabil Emad Dunga,Central Midfielder,Al Najma,0.0,1.0,4.875675675675676,2.637837837837838,9.66,2,Creative / Attacking Players
+993,848068,Song Bum-Keun,Keeper,Jeonbuk Hyundai Motors FC,0.0,0.0,5.273469387755103,2.6367346938775515,9.65,3,Goal-Oriented Players
+994,466436,Mory Diaw,Keeper,Le Havre,0.0,1.0,4.864705882352941,2.6323529411764706,9.64,3,Goal-Oriented Players
+995,505959,Ramin Rezaeian,Right Back,Esteghlal,5.0,1.0,1.8590909090909091,2.629545454545455,9.63,1,Low-Performance Players
+995,1131925,Mohamed Tougai,Center Back,Espérance,5.0,0.0,2.2628571428571425,2.6314285714285712,9.63,1,Low-Performance Players
+997,1244924,Ismaël Gharbi,Attacking Midfielder,Braga,2.0,2.0,3.240425531914894,2.620212765957447,9.59,2,Creative / Attacking Players
+997,1187506,Chadi Riad,Center Back,Crystal Palace,1.0,2.0,3.839473684210526,2.619736842105263,9.59,1,Low-Performance Players
+999,277761,Chancel Mbemba,Center Back,Lille,1.0,2.0,3.827118644067797,2.613559322033898,9.57,1,Low-Performance Players
+999,302176,Paul Izzo,Keeper,Randers FC,0.0,0.0,5.229268292682926,2.614634146341463,9.57,3,Goal-Oriented Players
+999,671518,Harry Souttar,Center Back,Leicester City,0.0,0.0,5.227272727272728,2.613636363636364,9.57,3,Goal-Oriented Players
+1002,1100258,Joel Waterman,Center Back,Chicago Fire FC,1.0,0.0,4.6173913043478265,2.608695652173913,9.55,3,Goal-Oriented Players
+1002,639558,Amir Hadziahmetovic,Defensive Midfielder,Beşiktaş,0.0,2.0,4.413793103448276,2.606896551724138,9.55,2,Creative / Attacking Players
+1002,1057486,Oston Urunov,Attacking Midfielder,Persepolis,5.0,0.0,2.2142857142857144,2.607142857142857,9.55,1,Low-Performance Players
+1005,1073402,Facundo Pellistri,Right Winger,Panathinaikos,0.0,2.0,4.407407407407407,2.603703703703704,9.53,2,Creative / Attacking Players
+1005,303609,Themba Zwane,Attacking Midfielder,Mamelodi Sundowns FC,0.0,2.0,4.405405405405404,2.602702702702702,9.53,2,Creative / Attacking Players
+1005,1125720,Robin Roefs,Keeper,Sunderland,0.0,0.0,5.207843137254901,2.6039215686274506,9.53,3,Goal-Oriented Players
+1008,615411,Lawrence Ati-Zigi,Keeper,St. Gallen,0.0,0.0,5.189090909090909,2.5945454545454547,9.5,3,Goal-Oriented Players
+1009,963812,Joseph Anang,Keeper,St. Patrick's Athletic,0.0,0.0,5.183333333333333,2.5916666666666663,9.49,3,Goal-Oriented Players
+1010,1118823,Zineddine Belaïd,Center Back,JS Kabylie,1.0,0.0,4.57391304347826,2.58695652173913,9.47,3,Goal-Oriented Players
+1011,644017,Almoez Ali,Striker,Al-Duhail SC,1.0,1.0,4.153333333333333,2.5766666666666667,9.43,1,Low-Performance Players
+1011,157865,Alex Sandro,Left Back,Flamengo,0.0,1.0,4.753125000000001,2.5765625000000005,9.43,3,Goal-Oriented Players
+1013,1092563,Hussein Ali,Right Back,Pogoń Szczecin,2.0,0.0,3.9382352941176473,2.569117647058824,9.41,1,Low-Performance Players
+1014,1390336,Robin Risser,Keeper,Lens,0.0,1.0,4.735714285714286,2.567857142857143,9.4,3,Goal-Oriented Players
+1015,562727,David Raya,Keeper,Arsenal,0.0,0.0,5.125714285714285,2.5628571428571427,9.38,3,Goal-Oriented Players
+1015,696443,Issa Diop,Center Back,Fulham,2.0,0.0,3.9214285714285713,2.560714285714285,9.38,3,Goal-Oriented Players
+1017,419207,John Souttar,Center Back,Rangers,0.0,0.0,5.096428571428572,2.548214285714286,9.33,3,Goal-Oriented Players
+1018,1323897,Marc Pubill,Center Back,Atletico Madrid,1.0,1.0,4.081428571428571,2.540714285714285,9.3,3,Goal-Oriented Players
+1018,769168,Jean-Kévin Duverne,Center Back,Nantes,1.0,2.0,3.677272727272727,2.538636363636363,9.3,1,Low-Performance Players
+1020,380942,Gervane Kastaneer,Striker,Terengganu,4.0,2.0,1.865217391304348,2.532608695652174,9.27,1,Low-Performance Players
+1021,1614051,Gonzalo Valle,Keeper,LDU de Quito,0.0,0.0,5.051923076923078,2.525961538461539,9.25,3,Goal-Oriented Players
+1022,503710,Éric Davis,Left Wing-Back,CD Plaza Amador,1.0,2.0,3.635714285714285,2.5178571428571423,9.22,1,Low-Performance Players
+1023,502481,Rebin Sulaka,Center Back,Port FC,0.0,0.0,5.031578947368421,2.5157894736842104,9.21,3,Goal-Oriented Players
+1024,474589,José Giménez,Center Back,Atletico Madrid,1.0,1.0,4.023255813953489,2.5116279069767447,9.2,1,Low-Performance Players
+1025,719330,Dean Henderson,Keeper,Crystal Palace,0.0,0.0,5.008571428571429,2.5042857142857144,9.17,3,Goal-Oriented Players
+1025,505960,Ali Alipour,forward,Persepolis,6.0,2.0,0.6096774193548387,2.504838709677419,9.17,1,Low-Performance Players
+1027,330643,Mark Flekken,Keeper,Bayer Leverkusen,0.0,0.0,4.982352941176471,2.4911764705882358,9.12,3,Goal-Oriented Players
+1028,1039219,Samir Chergui,Right Back,Paris FC,1.0,0.0,4.375862068965518,2.487931034482759,9.11,1,Low-Performance Players
+1029,798069,Deroy Duarte,Defensive Midfielder,Ludogorets Razgrad,3.0,3.0,1.968253968253968,2.484126984126984,9.1,1,Low-Performance Players
+1030,557799,Duje Caleta-Car,Center Back,Lyon,1.0,0.0,4.360714285714286,2.4803571428571427,9.08,1,Low-Performance Players
+1030,909908,Youssef Belammari,Left Back,Al Ahly SC,0.0,3.0,3.7622222222222224,2.4811111111111117,9.08,1,Low-Performance Players
+1030,1107298,Marvin Keller,Keeper,Young Boys,0.0,0.0,4.957575757575758,2.478787878787879,9.08,3,Goal-Oriented Players
+1033,1420509,Mohammad Ghorbani,Central Midfielder,Al-Wahda,1.0,0.0,4.331914893617021,2.46595744680851,9.03,3,Goal-Oriented Players
+1034,787099,Sipho Chaine,Keeper,Orlando Pirates,0.0,0.0,4.927777777777777,2.463888888888889,9.02,3,Goal-Oriented Players
+1034,1053731,Nando Pijnaker,Center Back,Auckland FC,0.0,0.0,4.929166666666667,2.4645833333333336,9.02,3,Goal-Oriented Players
+1036,922387,Meshaal Barsham,Keeper,Al-Sadd,0.0,0.0,4.921276595744681,2.4606382978723405,9.01,2,Creative / Attacking Players
+1037,1132814,Steve Kapuadi,Center Back,Widzew Łódź,1.0,0.0,4.310169491525423,2.4550847457627114,8.99,3,Goal-Oriented Players
+1038,463967,Jindrich Stanek,Keeper,Slavia Prague,0.0,0.0,4.902702702702703,2.4513513513513514,8.98,3,Goal-Oriented Players
+1039,935550,Torbjørn Heggem,Center Back,Bologna,0.0,0.0,4.874626865671642,2.437313432835821,8.92,3,Goal-Oriented Players
+1040,1312681,Abdallah Nasib,Center Back,Al-Hussein SC,0.0,0.0,4.859090909090909,2.4295454545454547,8.9,3,Goal-Oriented Players
+1041,1797902,Adem Arous,Center Back,Kasımpaşa,2.0,0.0,3.630952380952381,2.4154761904761903,8.84,1,Low-Performance Players
+1042,1107287,Carl Sainté,Center Back,El Paso Locomotive FC,1.0,0.0,4.225,2.4125,8.83,1,Low-Performance Players
+1043,1515122,Arjan Malic,Right Back,Sturm Graz,1.0,0.0,4.216666666666666,2.4083333333333328,8.82,1,Low-Performance Players
+1044,1174962,Ziyad Aljohani,Defensive Midfielder,Al Ahli,1.0,1.0,3.815,2.4075,8.81,1,Low-Performance Players
+1045,751198,Nicolás de la Cruz,Defensive Midfielder,Flamengo,1.0,1.0,3.8,2.4000000000000004,8.79,2,Creative / Attacking Players
+1046,504606,Lucas Hernández,Left Back,Paris Saint-Germain,0.0,3.0,3.5985714285714288,2.3992857142857145,8.78,1,Low-Performance Players
+1047,274787,Yvon Mvogo,Keeper,Lorient,0.0,0.0,4.78936170212766,2.3946808510638298,8.77,3,Goal-Oriented Players
+1048,1394254,Wilguens Paugain,Right Wing-Back,Zulte Waregem,1.0,0.0,4.177777777777778,2.388888888888889,8.75,1,Low-Performance Players
+1049,716819,Nkosinathi Sibisi,Center Back,Orlando Pirates,0.0,0.0,4.764583333333333,2.3822916666666667,8.72,1,Low-Performance Players
+1050,562801,Derrick Luckassen,Center Back,Pafos FC,2.0,0.0,3.548,2.374,8.69,1,Low-Performance Players
+1051,1053982,Salah Zakaria,Keeper,Al-Duhail SC,0.0,1.0,4.3392857142857135,2.369642857142857,8.68,3,Goal-Oriented Players
+1052,202180,Grant Hanley,Center Back,Hibernian,0.0,0.0,4.734782608695652,2.367391304347826,8.67,3,Goal-Oriented Players
+1052,1200630,Koni De Winter,Center Back,Milan,1.0,1.0,3.733333333333333,2.3666666666666667,8.67,1,Low-Performance Players
+1054,1002039,Aaron Hickey,Right Back,Brentford,1.0,0.0,4.117021276595746,2.3585106382978727,8.64,1,Low-Performance Players
+1055,1232530,Jehad Thakri,Center Back,Al Qadsiah,0.0,0.0,4.71063829787234,2.35531914893617,8.62,1,Low-Performance Players
+1056,304345,Sead Kolasinac,Center Back,Atalanta,0.0,1.0,4.3,2.35,8.6,1,Low-Performance Players
+1057,1067168,Zeki Amdouni,forward,Burnley,0.0,0.0,4.683333333333333,2.3416666666666663,8.57,3,Goal-Oriented Players
+1058,1014496,Odilon Kossounou,Center Back,Atalanta,1.0,0.0,4.053125,2.3265625,8.52,1,Low-Performance Players
+1059,98254,Yuto Nagatomo,Right Back,FC Tokyo,0.0,0.0,4.6454545454545455,2.3227272727272728,8.5,2,Creative / Attacking Players
+1060,688448,Jiovany Ramos,Center Back,Academia Puerto Cabello,4.0,0.0,2.2288888888888887,2.3144444444444443,8.47,1,Low-Performance Players
+1060,428006,Ricardo Goss,Keeper,Mamelodi Sundowns FC,0.0,0.0,4.627083333333334,2.313541666666667,8.47,1,Low-Performance Players
+1062,919671,Liberato Cacace,Left Wing-Back,Wrexham,1.0,0.0,4.016,2.308,8.45,1,Low-Performance Players
+1063,1177779,Alidu Seidu,Center Back,Rennes,0.0,1.0,4.211363636363637,2.3056818181818186,8.44,1,Low-Performance Players
+1064,50065,David Ospina,Keeper,Atletico Nacional,0.0,0.0,4.598148148148148,2.299074074074074,8.42,1,Low-Performance Players
+1064,1477513,Jakhongir Urozov,Center Back,,0.0,0.0,4.6,2.3,8.42,3,Goal-Oriented Players
+1066,1272118,Alex Paulsen,Keeper,Motherwell,0.0,0.0,4.592307692307692,2.296153846153846,8.41,1,Low-Performance Players
+1067,665167,Laros Duarte,Defensive Midfielder,Puskas FC Academy,1.0,7.0,1.168888888888889,2.2844444444444445,8.36,1,Low-Performance Players
+1068,279714,Brice Samba,Keeper,Rennes,0.0,0.0,4.541509433962265,2.2707547169811324,8.31,3,Goal-Oriented Players
+1069,308909,Abdulaziz Hatem,Attacking Midfielder,Al-Rayyan,0.0,1.0,4.084375,2.2421875,8.21,1,Low-Performance Players
+1070,578761,Jalal Hassan,Keeper,Al Zawraa,0.0,0.0,4.460869565217392,2.230434782608696,8.17,1,Low-Performance Players
+1070,948745,Kwasi Sibo,Defensive Midfielder,Real Oviedo,0.0,0.0,4.459999999999999,2.2299999999999995,8.17,1,Low-Performance Players
+1072,1338390,Ernest Nuamah,forward,Lyon,0.0,1.0,4.0375,2.21875,8.12,2,Creative / Attacking Players
+1073,857661,Martin Zlomislic,Keeper,Qarabag FK,0.0,0.0,4.430000000000001,2.2150000000000003,8.11,3,Goal-Oriented Players
+1073,245555,Gerónimo Rulli,Keeper,Marseille,0.0,0.0,4.431818181818182,2.215909090909091,8.11,3,Goal-Oriented Players
+1075,1195865,Jassem Gaber,Defensive Midfielder,Al-Rayyan,0.0,1.0,4.003030303030303,2.201515151515152,8.06,1,Low-Performance Players
+1075,708738,Juriën Gaari,Center Back,Abha,0.0,0.0,4.404651162790698,2.202325581395349,8.06,1,Low-Performance Players
+1077,117222,Ehsan Hajisafi,Left Back,Sepahan,3.0,2.0,1.7787878787878788,2.1893939393939394,8.02,1,Low-Performance Players
+1078,239219,Mateo Kovacic,Defensive Midfielder,Manchester City,0.0,2.0,3.574074074074074,2.187037037037037,8.01,1,Low-Performance Players
+1079,937414,Homam El Amin,Left Back,Al-Duhail SC,0.0,0.0,4.333333333333333,2.1666666666666665,7.93,1,Low-Performance Players
+1080,1642820,Zaid Ismael,Central Midfielder,Al Talaba,0.0,0.0,4.316666666666666,2.158333333333333,7.9,1,Low-Performance Players
+1081,668422,Anthony Ralston,Right Back,Celtic,1.0,0.0,3.6883333333333335,2.1441666666666666,7.85,1,Low-Performance Players
+1082,1257080,Matthieu Epolo,Keeper,Standard Liege,0.0,0.0,4.283333333333333,2.1416666666666666,7.84,1,Low-Performance Players
+1083,751164,Carlos Acevedo,Keeper,Santos Laguna,0.0,0.0,4.269230769230769,2.1346153846153846,7.82,1,Low-Performance Players
+1084,743720,Charles Pickel,Central Midfielder,Sharjah Cultural Club,1.0,0.0,3.64,2.12,7.76,1,Low-Performance Players
+1085,464919,Maxime Crépeau,Keeper,Orlando City,0.0,0.0,4.233333333333333,2.1166666666666667,7.75,1,Low-Performance Players
+1086,1554109,Husam Abu Dahab,Center Back,Al-Faisaly,0.0,0.0,4.228571428571429,2.1142857142857143,7.74,1,Low-Performance Players
+1087,1434853,Kevin Castaño,Defensive Midfielder,River Plate,0.0,0.0,4.201851851851852,2.100925925925926,7.69,1,Low-Performance Players
+1087,922298,Umar Eshmuradov,Center Back,Nasaf Qarshi,0.0,2.0,3.4000000000000004,2.1,7.69,1,Low-Performance Players
+1089,307438,Fabián Balbuena,Center Back,Gremio,1.0,0.0,3.5939393939393938,2.0969696969696967,7.68,1,Low-Performance Players
+1089,978290,Moisés Ramirez,Keeper,Kifisia FC,0.0,0.0,4.194,2.097,7.68,1,Low-Performance Players
+1091,1350138,Arya Yousefi,Right Back,Sepahan,3.0,2.0,1.5794117647058823,2.0897058823529413,7.65,1,Low-Performance Players
+1091,881640,Lutsharel Geertruida,Right Back,RB Leipzig,0.0,0.0,4.176,2.088,7.65,1,Low-Performance Players
+1091,1689101,Tarek Alaa,Right Back,Pyramids FC,0.0,1.0,3.7766666666666655,2.0883333333333334,7.65,1,Low-Performance Players
+1094,546203,Rajaei Ayed,Central Midfielder,Al-Hussein SC,0.0,0.0,4.13,2.065,7.56,1,Low-Performance Players
+1095,969870,Adam Hlozek,Attacking Midfielder,Hoffenheim,1.0,0.0,3.525,2.0625,7.55,1,Low-Performance Players
+1096,1642780,Al Hashmi Al Hussain,Center Back,Al-Arabi,0.0,0.0,4.114814814814815,2.057407407407408,7.53,1,Low-Performance Players
+1096,664444,Takehiro Tomiyasu,Center Back,,0.0,1.0,3.715,2.0575,7.53,1,Low-Performance Players
+1096,825641,Félix Torres,Center Back,Internacional,2.0,0.0,2.911666666666667,2.0558333333333336,7.53,1,Low-Performance Players
+1099,431151,Mohammed Muntari,Striker,Al-Gharafa,0.0,1.0,3.625,2.0125,7.37,3,Goal-Oriented Players
+1100,541551,Ivan Sunjic,Defensive Midfielder,Pafos FC,0.0,0.0,4.017241379310345,2.0086206896551726,7.35,1,Low-Performance Players
+1101,1394951,Thapelo Maseko,Right Winger,Mamelodi Sundowns FC,2.0,0.0,2.8095238095238098,2.0047619047619047,7.34,1,Low-Performance Players
+1101,416124,Milos Degenek,Center Back,APOEL Nicosia,1.0,0.0,3.4088235294117646,2.0044117647058823,7.34,1,Low-Performance Players
+1103,751762,Dylan Batubinsika,Center Back,AE Larissa,0.0,0.0,3.9966666666666666,1.9983333333333333,7.32,1,Low-Performance Players
+1104,1676985,Tyler Fletcher,Defensive Midfielder,Manchester United U21,0.0,1.0,3.591836734693877,1.9959183673469387,7.31,1,Low-Performance Players
+1105,1160097,Omar Rekik,Center Back,Maribor,1.0,0.0,3.388888888888889,1.9944444444444445,7.3,1,Low-Performance Players
+1106,1333336,Manaf Younis,Center Back,Al Shorta,0.0,0.0,3.9500000000000006,1.9750000000000003,7.23,1,Low-Performance Players
+1107,383971,Dominik Livakovic,Keeper,Fenerbahçe,0.0,0.0,3.936206896551724,1.968103448275862,7.21,1,Low-Performance Players
+1107,441164,Kaan Ayhan,Center Back,Galatasaray,2.0,1.0,2.3362068965517246,1.968103448275862,7.21,1,Low-Performance Players
+1109,766574,Yehvann Diouf,Keeper,Nice,0.0,0.0,3.9287878787878783,1.9643939393939391,7.19,1,Low-Performance Players
+1110,1554123,Mustafa Saadoun,Right Back,Al Shorta,0.0,0.0,3.875,1.9375,7.09,1,Low-Performance Players
+1111,164062,Stopira,Center Back,Torreense,5.0,0.0,0.8686274509803921,1.934313725490196,7.08,1,Low-Performance Players
+1112,1132570,Ahmed Basil Fadhil,Keeper,Al Shorta,0.0,0.0,3.852380952380953,1.926190476190476,7.05,1,Low-Performance Players
+1113,1228546,Mostafa Ahmed Shobeir,Keeper,Al Ahly SC,0.0,0.0,3.8446428571428575,1.9223214285714287,7.04,1,Low-Performance Players
+1114,263653,John Stones,Center Back,,0.0,1.0,3.4415094339622643,1.920754716981132,7.03,1,Low-Performance Players
+1115,1131928,Amine Ben Hamida,Left Back,Espérance,1.0,2.0,2.433333333333333,1.9166666666666663,7.02,1,Low-Performance Players
+1116,643624,Rustam Ashurmatov,Center Back,Esteghlal,1.0,0.0,3.220689655172414,1.910344827586207,6.99,1,Low-Performance Players
+1117,315201,Max Crocombe,Keeper,Millwall,0.0,0.0,3.791935483870968,1.895967741935484,6.94,3,Goal-Oriented Players
+1118,121633,David Alaba,Center Back,,0.0,2.0,2.983333333333334,1.891666666666667,6.93,1,Low-Performance Players
+1119,490122,Aaron Tshibola,Defensive Midfielder,Kilmarnock,0.0,0.0,3.776744186046512,1.888372093023256,6.91,1,Low-Performance Players
+1119,418137,Arthur Masuaku,Left Back,Sunderland,0.0,2.0,2.974358974358974,1.8871794871794871,6.91,1,Low-Performance Players
+1121,698273,Alban Lafont,Keeper,Nantes,0.0,0.0,3.7579710144927536,1.8789855072463768,6.88,1,Low-Performance Players
+1122,1163219,Ardon Jashari,Central Midfielder,Milan,0.0,1.0,3.3466666666666667,1.8733333333333333,6.86,1,Low-Performance Players
+1123,1432344,Jonas Adjetey,Center Back,Wolfsburg,0.0,0.0,3.736206896551725,1.8681034482758625,6.84,1,Low-Performance Players
+1124,847766,Saleem Obaid,Center Back,Al-Hussein SC,0.0,0.0,3.7,1.85,6.77,1,Low-Performance Players
+1125,1050160,Sontje Hansen,Right Winger,Middlesbrough,2.0,0.0,2.4928571428571438,1.8464285714285715,6.76,2,Creative / Attacking Players
+1126,1454648,Edgardo Fariña,Center Back,Nizhny Novgorod,0.0,0.0,3.685714285714286,1.842857142857143,6.75,3,Goal-Oriented Players
+1127,1514693,Florian Wiegele,Keeper,Viktoria Plzen,0.0,0.0,3.647272727272727,1.8236363636363635,6.68,3,Goal-Oriented Players
+1128,640284,Ali Lajami,Center Back,Al Hilal,0.0,0.0,3.641509433962264,1.820754716981132,6.67,1,Low-Performance Players
+1129,258269,Victor Nilsson Lindelöf,Center Back,Aston Villa,0.0,1.0,3.236065573770492,1.818032786885246,6.66,1,Low-Performance Players
+1129,831044,Hjalmar Ekdal,Center Back,Burnley,0.0,1.0,3.2375000000000003,1.81875,6.66,1,Low-Performance Players
+1131,511397,Shoja Khalilzadeh,Center Back,Tractor,1.0,1.0,2.617948717948718,1.808974358974359,6.62,1,Low-Performance Players
+1131,1426170,Mamadou Sarr,Center Back,Chelsea,0.0,0.0,3.618,1.809,6.62,3,Goal-Oriented Players
+1133,1362385,Achref Abada,Center Back,USM Alger,1.0,0.0,2.994117647058824,1.797058823529412,6.58,1,Low-Performance Players
+1134,1036253,Noor Al Rawabdeh,Central Midfielder,Selangor,0.0,1.0,3.1666666666666665,1.7833333333333332,6.53,1,Low-Performance Players
+1135,1648351,Tahsin Mohammed,Right Winger,Al-Duhail SC,2.0,0.0,2.360975609756097,1.7804878048780486,6.52,2,Creative / Attacking Players
+1135,619697,Odiljon Khamrobekov,Central Midfielder,Tractor,0.0,1.0,3.1600000000000006,1.7800000000000002,6.52,1,Low-Performance Players
+1137,466132,Théo Bongonda,Right Winger,Spartak Moscow,2.0,0.0,2.290322580645161,1.7451612903225806,6.39,1,Low-Performance Players
+1138,498457,Álvaro Montero,Keeper,Velez Sarsfield,0.0,0.0,3.4875000000000003,1.74375,6.38,3,Goal-Oriented Players
+1139,1415372,Owen Goodman,Keeper,Crystal Palace U18,0.0,0.0,3.48030303030303,1.740151515151515,6.37,1,Low-Performance Players
+1140,1806615,Benjamin Asare,Keeper,,0.0,0.0,3.4642857142857144,1.7321428571428572,6.34,1,Low-Performance Players
+1141,1350517,Mohammad Abu Hasheesh,Left Midfielder,Zakho,1.0,0.0,2.84375,1.721875,6.3,1,Low-Performance Players
+1142,418799,Jason Geria,Center Back,Albirex Niigata,1.0,1.0,2.36,1.68,6.15,1,Low-Performance Players
+1143,320139,Frans Putros,Central Midfielder,Persib Bandung,2.0,1.0,1.728888888888889,1.6644444444444444,6.09,1,Low-Performance Players
+1144,416175,José Sá,Keeper,Wolverhampton Wanderers,0.0,0.0,3.315384615384616,1.6576923076923078,6.07,1,Low-Performance Players
+1145,1035614,Manuel Ugarte,Defensive Midfielder,Manchester United,0.0,0.0,3.294230769230769,1.6471153846153848,6.03,1,Low-Performance Players
+1146,1059129,Mohammad Abuzraiq,Right Winger,Raja Casablanca,2.0,2.0,1.2838709677419355,1.641935483870968,6.01,2,Creative / Attacking Players
+1147,1235623,Youssef Amyn,Right Midfielder,AEK Larnaca,0.0,1.0,2.8750000000000004,1.6375000000000002,6.0,1,Low-Performance Players
+1148,1257648,Aurèle Amenda,Center Back,Coventry City,0.0,0.0,3.255,1.6275,5.96,1,Low-Performance Players
+1149,527616,Luis Chávez,Defensive Midfielder,Dinamo Moscow,1.0,0.0,2.6500000000000004,1.6250000000000002,5.95,1,Low-Performance Players
+1150,1137909,Emiliano Martínez,Defensive Midfielder,Palmeiras,0.0,0.0,3.2314285714285718,1.6157142857142857,5.92,1,Low-Performance Players
+1151,589585,Farrukh Sayfiev,Right Wing-Back,Navbahor Namangan,0.0,0.0,3.225,1.6124999999999998,5.9,1,Low-Performance Players
+1152,619508,Dostonbek Khamdamov,midfielder,Pakhtakor Tashkent,0.0,0.0,3.2125000000000004,1.6062500000000002,5.88,1,Low-Performance Players
+1153,1116034,Oussama Benbot,Keeper,USM Alger,0.0,0.0,3.182142857142857,1.5910714285714285,5.83,1,Low-Performance Players
+1153,417068,Nathan Aké,Center Back,Fenerbahçe,0.0,0.0,3.185714285714285,1.5928571428571427,5.83,1,Low-Performance Players
+1155,1125083,Nawaf Alaqidi,Keeper,Al Nassr FC,0.0,1.0,2.760377358490566,1.580188679245283,5.79,1,Low-Performance Players
+1156,653688,Al Mahdi Soliman,Keeper,Zamalek SC,0.0,0.0,3.15945945945946,1.57972972972973,5.78,1,Low-Performance Players
+1157,1440009,Moïse Bombito,Center Back,Nice,0.0,0.0,3.141666666666667,1.5708333333333335,5.75,1,Low-Performance Players
+1158,546550,Mohamed El Shenawy,Keeper,Al Ahly SC,0.0,0.0,3.1098039215686275,1.5549019607843138,5.69,1,Low-Performance Players
+1159,924235,Jorge Gutiérrez,Left Back,Deportivo La Guaira,0.0,4.0,1.4857142857142858,1.542857142857143,5.65,1,Low-Performance Players
+1160,1764021,Hugo Sochurek,Central Midfielder,Sparta Prague,0.0,2.0,2.2,1.5,5.49,1,Low-Performance Players
+1161,602261,Caglar Söyüncü,Center Back,Fenerbahçe,0.0,1.0,2.568965517241379,1.4844827586206897,5.44,1,Low-Performance Players
+1162,520670,Ken Sema,Left Wing-Back,Pafos FC,0.0,1.0,2.560714285714285,1.4803571428571427,5.42,1,Low-Performance Players
+1163,1898281,Bekhruz Karimov,Right Wing-Back,PFC Surkhon Termez,1.0,0.0,2.355555555555556,1.477777777777778,5.41,1,Low-Performance Players
+1164,840184,Matías Viña,Left Back,River Plate,0.0,0.0,2.93921568627451,1.469607843137255,5.38,1,Low-Performance Players
+1164,535669,Mohammed Al Owais,Keeper,Al-Ula FC,0.0,0.0,2.9390243902439024,1.4695121951219512,5.38,1,Low-Performance Players
+1166,1708842,Hamza Abdelkarim,Striker,Barca Atletic,2.0,0.0,1.7142857142857142,1.457142857142857,5.34,1,Low-Performance Players
+1167,1642810,Ahmed Maknzi,Left Back,Al-Karma,0.0,0.0,2.911111111111111,1.4555555555555555,5.33,1,Low-Performance Players
+1168,251915,Igor Sergeev,forward,Persepolis,3.0,0.0,1.0384615384615383,1.419230769230769,5.2,1,Low-Performance Players
+1169,1033300,Mo Abualnadi,Center Back,Corvinul Hunedoara,0.0,0.0,2.834782608695653,1.4173913043478266,5.19,1,Low-Performance Players
+1170,1202924,Ibrahim Saadeh,Central Midfielder,Al-Jazeera,0.0,0.0,2.788235294117647,1.3941176470588237,5.1,1,Low-Performance Players
+1171,467479,Riechedly Bazoer,Center Back,,0.0,0.0,2.7475,1.3737499999999998,5.03,1,Low-Performance Players
+1172,505313,Alireza Beiranvand,Keeper,Tractor,0.0,0.0,2.710810810810811,1.3554054054054054,4.96,1,Low-Performance Players
+1173,1054027,Carlos Dos Santos,Keeper,San Diego FC,0.0,0.0,2.675,1.3375,4.9,1,Low-Performance Players
+1174,848027,Santiago Mele,Keeper,Monterrey,0.0,0.0,2.654,1.327,4.86,1,Low-Performance Players
+1175,1145714,Sander Tangvik,Keeper,Hamburger SV,0.0,0.0,2.55531914893617,1.277659574468085,4.68,1,Low-Performance Players
+1176,915790,Abdullah Al Fakhouri,Keeper,Al-Wehdat,0.0,0.0,2.4916666666666667,1.2458333333333331,4.56,1,Low-Performance Players
+1177,1221526,Saleh Hardani,Right Back,Esteghlal,0.0,1.0,2.065625,1.2328125,4.51,1,Low-Performance Players
+1178,73409,Ørjan Nyland,Keeper,,0.0,0.0,2.45,1.225,4.49,1,Low-Performance Players
+1179,933051,Azizbek Amonov,forward,Dinamo Samarkand,0.0,0.0,2.4,1.2,4.39,1,Low-Performance Players
+1179,738064,Salih Özcan,Defensive Midfielder,Beşiktaş,1.0,0.0,1.7979591836734696,1.1989795918367347,4.39,1,Low-Performance Players
+1179,501847,Roderick Miller,Center Back,Turan Tovuz,0.0,0.0,2.4,1.2,4.39,1,Low-Performance Players
+1182,1179331,Mohamed Abdelmonem,Center Back,Nice,0.0,0.0,2.375,1.1875,4.35,1,Low-Performance Players
+1183,982855,Aymen Dahmen,Keeper,CS Sfaxien,0.0,0.0,2.354761904761905,1.1773809523809524,4.31,1,Low-Performance Players
+1184,470539,Jean Michaël Seri,Central Midfielder,Maribor,0.0,0.0,2.275,1.1375,4.16,1,Low-Performance Players
+1185,760746,Angus Gunn,Keeper,San Jose Earthquakes,0.0,0.0,2.245454545454545,1.1227272727272726,4.11,1,Low-Performance Players
+1186,912286,Lionel Mpasi-Nzau,Keeper,Le Havre,0.0,0.0,2.23265306122449,1.116326530612245,4.09,1,Low-Performance Players
+1187,1798782,Bara Ndiaye,Defensive Midfielder,Gambinos Stars,0.0,0.0,2.2,1.1,4.03,1,Low-Performance Players
+1188,389050,Juan Musso,Keeper,Atletico Madrid,0.0,0.0,2.197142857142857,1.0985714285714288,4.02,1,Low-Performance Players
+1189,302912,Garry Rodrigues,Right Winger,Apollon Limassol,1.0,0.0,1.5812499999999998,1.090625,3.99,1,Low-Performance Players
+1190,505385,Roozbeh Cheshmi,Central Midfielder,Esteghlal,2.0,0.0,0.9434782608695652,1.0717391304347823,3.92,1,Low-Performance Players
+1190,759569,Yassin Fortuné,Striker,Vizela,3.0,0.0,0.3428571428571428,1.0714285714285714,3.92,1,Low-Performance Players
+1192,1280201,Mohamed Koné,Keeper,Sporting Charleroi,0.0,0.0,2.134375,1.0671875,3.91,1,Low-Performance Players
+1193,643638,Fidel Escobar,Center Back,Deportivo Saprissa,1.0,0.0,1.5216216216216216,1.0608108108108107,3.88,1,Low-Performance Players
+1193,150372,Mert Günok,Keeper,Fenerbahçe,0.0,0.0,2.1216666666666666,1.0608333333333333,3.88,1,Low-Performance Players
+1195,885288,Ahmed Tagnaouti,Keeper,FAR Rabat,0.0,0.0,2.1083333333333334,1.0541666666666667,3.86,1,Low-Performance Players
+1196,621519,Mehdi Torabi,Left Midfielder,Tractor,1.0,0.0,1.5,1.05,3.84,1,Low-Performance Players
+1197,431169,Jamshid Iskandarov,midfielder,Neftchi Fargona,0.0,0.0,2.088888888888889,1.0444444444444445,3.82,2,Creative / Attacking Players
+1198,600844,Mohammad Al-Daoud,midfielder,Al-Salt,0.0,0.0,2.033333333333333,1.0166666666666666,3.72,1,Low-Performance Players
+1199,619700,Utkir Yusupov,Keeper,Foolad Khuzestan,0.0,0.0,1.8833333333333333,0.9416666666666668,3.45,1,Low-Performance Players
+1199,1209244,Alexandre Pierre,Keeper,Sochaux,0.0,0.0,1.8818181818181816,0.9409090909090908,3.45,1,Low-Performance Players
+1201,1421621,Ruslanbek Jiyanov,forward,Navbahor Namangan,1.0,0.0,1.2333333333333334,0.9166666666666669,3.36,1,Low-Performance Players
+1202,1112684,Nathan Patterson,Right Back,Everton,0.0,0.0,1.825,0.9125,3.34,1,Low-Performance Players
+1203,1205410,Yannick Semedo,Central Midfielder,Farense,0.0,3.0,0.6045454545454546,0.9022727272727272,3.3,1,Low-Performance Players
+1204,1187213,James Trafford,Keeper,Manchester City,0.0,0.0,1.634285714285714,0.8171428571428571,2.99,1,Low-Performance Players
+1205,183088,Alberto Quintero,midfielder,CD Plaza Amador,0.0,0.0,1.5750000000000002,0.7875000000000001,2.88,2,Creative / Attacking Players
+1206,1902793,Mohammad Abu Ghoush,defender,Shabab Al Ordon Al Quadisiya,0.0,1.0,1.1583333333333334,0.7791666666666668,2.85,1,Low-Performance Players
+1207,1132572,Ali Yousif,forward,Al Talaba,1.0,0.0,0.8857142857142858,0.7428571428571429,2.72,1,Low-Performance Players
+1208,976996,Timothy Fayulu,Keeper,Sion,0.0,0.0,1.4541666666666666,0.7270833333333333,2.66,1,Low-Performance Players
+1209,630459,Milad Mohammadi,Left Back,Persepolis,0.0,0.0,1.4083333333333332,0.7041666666666666,2.58,1,Low-Performance Players
+1210,500637,Hossein Kanani,Center Back,Persepolis,1.0,0.0,0.804,0.702,2.57,1,Low-Performance Players
+1211,32562,Craig Gordon,Keeper,,0.0,0.0,1.3064516129032258,0.6532258064516129,2.39,1,Low-Performance Players
+1212,118241,Gustaf Nilsson,forward,Club Brugge,1.0,0.0,0.6227272727272727,0.6113636363636363,2.24,1,Low-Performance Players
+1213,1583232,Amir Mohammad Razzaghinia,Defensive Midfielder,Esteghlal,0.0,0.0,1.187878787878788,0.593939393939394,2.17,1,Low-Performance Players
+1213,431418,Hossein Hosseini,Keeper,Sepahan,0.0,0.0,1.1827586206896554,0.5913793103448277,2.17,1,Low-Performance Players
+1215,922877,Logan Costa,defender,Villarreal,0.0,0.0,1.1454545454545455,0.5727272727272728,2.1,1,Low-Performance Players
+1216,1447452,Olivier Pierre,midfielder,Real Hope FA,0.0,0.0,1.0833333333333333,0.5416666666666666,1.98,1,Low-Performance Players
+1217,866967,Altay Bayindir,Keeper,Manchester United,0.0,0.0,1.0140350877192983,0.5070175438596491,1.86,1,Low-Performance Players
+1218,1554110,Nour Bani Attiah,Keeper,Al-Faisaly,0.0,0.0,0.98,0.49,1.79,1,Low-Performance Players
+1219,573787,Munir,Keeper,RSB Berkane,0.0,0.0,0.9551724137931036,0.4775862068965518,1.75,1,Low-Performance Players
+1220,872575,Ali Nemati,Center Back,Foolad Khuzestan,0.0,0.0,0.95,0.475,1.74,1,Low-Performance Players
+1221,31047,Guillermo Ochoa,Keeper,AEL Limassol,0.0,0.0,0.9071428571428573,0.4535714285714285,1.66,1,Low-Performance Players
+1221,206088,Luis Mejía,Keeper,Nacional,0.0,0.0,0.9066666666666666,0.4533333333333333,1.66,1,Low-Performance Players
+1223,776591,Abdul Mumin,defender,,0.0,0.0,0.8666666666666667,0.4333333333333333,1.59,1,Low-Performance Players
+1224,1022309,Gédéon Kalulu,Right Back,Aris Limassol,0.0,0.0,0.8222222222222223,0.4111111111111111,1.51,1,Low-Performance Players
+1225,115025,Tommy Smith,Center Back,Braintree Town,0.0,1.0,0.403125,0.4015625,1.47,1,Low-Performance Players
+1226,544589,Ahmed Ali Al Kassar,Keeper,Al Qadsiah,0.0,0.0,0.7714285714285715,0.3857142857142857,1.41,1,Low-Performance Players
+1227,422149,Vozinha,Keeper,Chaves,0.0,0.0,0.7297872340425533,0.3648936170212766,1.34,1,Low-Performance Players
+1228,68422,Roberto Fernández,Keeper,Cerro Porteno,0.0,0.0,0.6262295081967214,0.3131147540983607,1.15,1,Low-Performance Players
+1229,899023,Josué Duverger,keeper,FC Cosmos Koblenz,0.0,0.0,0.4916666666666667,0.2458333333333333,0.9,1,Low-Performance Players
+1230,533495,Fahad Talib,keeper,Al Talaba,0.0,0.0,0.4176470588235293,0.2088235294117646,0.76,1,Low-Performance Players
+1231,543363,Sabri Ben Hessen,keeper,CS Sfaxien,0.0,0.0,0.2323529411764706,0.1161764705882353,0.43,1,Low-Performance Players
+1232,872590,Payam Niazmand,Keeper,Persepolis,0.0,0.0,0.2193548387096774,0.1096774193548387,0.4,1,Low-Performance Players
+1233,865144,Márcio Rosa,Keeper,Montana,0.0,0.0,0.1952380952380952,0.0976190476190476,0.36,1,Low-Performance Players
+1234,445522,Liam Kelly,Keeper,Rangers,0.0,0.0,0.1728571428571428,0.0864285714285714,0.32,1,Low-Performance Players
+1235,873856,Trevor Doornbusch,keeper,VVV-Venlo,0.0,0.0,0.1224489795918367,0.0612244897959183,0.22,1,Low-Performance Players
+1236,1807873,Keeto Thermoncy,defender,Young Boys II,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
+1236,1729681,Danial Eiri,defender,Zob Ahan,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
+1236,1029597,Avazbek Ulasmaliev,defender,AGMK,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
+1236,1477517,Sherzod Esanov,midfielder,Buxoro,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
+1236,1330683,César Samudio,keeper,CD Marathon,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
+1236,1726288,Mladen Jurkas,Keeper,Borac Banja Luka,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
+1236,1240833,Tyrick Bodak,keeper,Telstar,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
+1236,643639,Botirali Ergashev,keeper,AGMK,0.0,0.0,0.0,0.0,0.0,1,Low-Performance Players
