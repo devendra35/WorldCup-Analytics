@@ -10,7 +10,7 @@ A data-driven \*\*FIFA World Cup player analytics and performance segmentation s
 
 
 
-## 📌 Project Overview
+##  Project Overview
 
 
 
@@ -49,7 +49,7 @@ The project ultimately provides:
 
 
 
-## 🎯 Objectives
+##  Objectives
 
 
 
@@ -83,7 +83,7 @@ The main objectives of this project are:
 
 
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 
 
@@ -267,7 +267,7 @@ This ensures that each player is represented by a unique analytical record.
 
 
 
-## ⚙️ Feature Engineering
+##  Feature Engineering
 
 
 
@@ -355,13 +355,13 @@ Four clusters were identified.
 
 | ------: | ------------------------------- |
 
-|       0 | 🏆 Elite / Top Performers       |
+|       0 |  Elite / Top Performers       |
 
-|       1 | 📉 Low-Performance Players      |
+|       1 |  Low-Performance Players      |
 
-|       2 | 🎯 Creative / Attacking Players |
+|       2 |  Creative / Attacking Players |
 
-|       3 | ⚡ Goal-Oriented Players         |
+|       3 |  Goal-Oriented Players         |
 
 
 
@@ -389,7 +389,7 @@ Four clusters were identified.
 
 
 
-## 📈 Cluster Performance
+##  Cluster Performance
 
 
 
@@ -419,7 +419,7 @@ These clusters provide a useful way to understand different types of player cont
 
 
 
-## 🔬 PCA Analysis
+##  PCA Analysis
 
 
 
@@ -457,7 +457,7 @@ PCA is primarily used here for \*\*visual interpretation of the clusters\*\* rat
 
 
 
-## 🏆 Player Ranking
+##  Player Ranking
 
 
 
@@ -489,7 +489,7 @@ The project also identifies the \*\*best-performing player within each player cl
 
 
 
-## 📊 Visualizations
+##  Visualizations
 
 
 
@@ -686,7 +686,7 @@ WorldCup Analytics/
 
 
 
-## 📦 Installation
+##  Installation
 
 
 
@@ -768,7 +768,7 @@ pip install -r requirements.txt
 
 
 
-## ▶️ Running the Project
+## Running the Project
 
 
 
@@ -836,7 +836,7 @@ Export Processed Data
 
 
 
-## 📤 Generated Outputs
+##  Generated Outputs
 
 
 
@@ -896,7 +896,7 @@ Contains the highest-impact player identified from each player segment.
 
 
 
-## 📌 Key Results
+##  Key Results
 
 
 
@@ -918,7 +918,7 @@ The clustering results reveal four broad player profiles:
 
 
 
-### 🏆 Elite / Top Performers
+###  Elite / Top Performers
 
 
 
@@ -926,7 +926,7 @@ Players with substantially higher overall attacking contribution and performance
 
 
 
-### 📉 Low-Performance Players
+###  Low-Performance Players
 
 
 
@@ -934,7 +934,7 @@ Players with comparatively low goals, assists, ratings, and overall performance 
 
 
 
-### 🎯 Creative / Attacking Players
+###  Creative / Attacking Players
 
 
 
@@ -942,7 +942,7 @@ Players who demonstrate stronger assist and creative contribution relative to th
 
 
 
-### ⚡ Goal-Oriented Players
+###  Goal-Oriented Players
 
 
 
@@ -954,7 +954,7 @@ Players whose contribution is more strongly associated with goal production.
 
 
 
-## 💡 Why This Project?
+##  Why This Project?
 
 
 
@@ -974,7 +974,7 @@ Instead of looking at a single statistic, the system combines multiple performan
 
 
 
-## 🚀 Potential Applications
+##  Potential Applications
 
 
 
@@ -1003,33 +1003,6 @@ The analytical framework could be useful for:
 
 
 
-## 🔮 Future Improvements
-
-
-
-Possible future extensions include:
-
-
-
-* Interactive Streamlit dashboard
-
-* Match-level performance prediction
-
-* Player similarity/recommendation system
-
-* Position-specific performance models
-
-* Player market-value prediction
-
-* Team-level analytics
-
-* World Cup match prediction
-
-* Time-series player performance analysis
-
-* Advanced clustering comparison
-
-* Automated data collection pipeline
 
 
 
@@ -1037,7 +1010,12 @@ Possible future extensions include:
 
 
 
-## ⚠️ Limitations
+
+
+
+
+
+##  Limitations
 
 
 
@@ -1067,21 +1045,14 @@ Therefore, the results should be interpreted as \*\*analytical player profiles r
 
 
 
-## 📜 License
-
-
-
-This project is licensed under the \*\*MIT License\*\*.
-
-
-
-See the `LICENSE` file for details.
 
 
 
 
 
-## 👨‍💻 Author
+
+
+##  Author
 
 
 
@@ -1089,23 +1060,6 @@ See the `LICENSE` file for details.
 
 
 
-BSc.CSIT Student \& Developer
-
-
-
-Interested in:
-
-
-
-* Machine Learning
-
-* Data Science
-
-* Artificial Intelligence
-
-* Web Development
-
-* Software Engineering
 
 
 
@@ -1113,7 +1067,7 @@ Interested in:
 
 
 
-## ⭐ Project Highlights
+## Project Highlights
 
 
 
@@ -1153,7 +1107,7 @@ Interested in:
 
 
 
-## ⭐ Support
+##  Support
 
 
 
